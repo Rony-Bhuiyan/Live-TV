@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: Z BDIX
+#PLAYLIST: RB Playlist
 #EXTENC: UTF-8
 
 
@@ -990,7 +990,8 @@ http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 #EXTINF:-1,Star Sports 1 (720p)
 https://tvsen7.aynaott.com/sspts1/index.m3u8
 #EXTINF:-1,Star Sports 1 Hindi HD
-http://103.253.18.58:8000/play/a00t
+http://103.89.248.30:8082/STAR-SPORTS-1/tracks-v1/index.fmp4.m3u8?token=c0932940f69f6e5d045eff4d4d9aa447ce31b433-8876aa05990d3ae1033f9e5ff255b524-1786963855-1786953055
+http://103.89.248.30:8082/STAR-SPORTS-1/tracks-a1/index.fmp4.m3u8?token=c0932940f69f6e5d045eff4d4d9aa447ce31b433-8876aa05990d3ae1033f9e5ff255b524-1786963855-1786953055
 #EXTINF:-1,Star Sports 2 HD (720p)
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1,Unique TV (576p)
