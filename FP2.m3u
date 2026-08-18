@@ -5,8 +5,6 @@
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv%20news.png",BTV
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 
-#EXTINF:-1,Movies Now
-http://10.99.99.99:8282/MOVIES.NOW.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=37110643ed8b9296337fbee294eeb22f263d7c76-4f1e724c8da114f7cc70751f-1787082630-1787071830
 
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢"tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/atn%20bangla.png",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
@@ -735,3 +733,62 @@ http://66.102.126.10:8000/play/a010/index.m3u8
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1,DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+
+
+
+#EXTINF:-1, OUR OWN IP_Texxas
+
+#EXTINF:-1,Movies Now
+http://10.99.99.99:8282/MOVIES.NOW.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=37110643ed8b9296337fbee294eeb22f263d7c76-4f1e724c8da114f7cc70751f-1787082630-1787071830
+
+#EXTINF:-1,Channel 24
+http://10.99.99.99:8282/CHANNEL.24.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=fbaf54f350f72e89d38d66a76f58318f390d18fe-98b740e9708c9f07244e00f6-1787083241-1787072441
+
+#EXTINF:-1,ATN NEWS
+http://10.99.99.99:8282/ATN.NEWS.HD/index.m3u8?session=96db5cb11f07bb592b7c640a5d58ac3062a59243-0003b901d314d0249e4fa12d-1787083241-1787072441&remote=no_check_ip
+
+#EXTINF:-1,MNX+
+http://10.99.99.99:8282/MNX.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=55caeeb8385334414d1588dd349fe26ad3e3f7e4-fc2bacf7e8999175c1c45be9-1787083241-1787072441
+
+#EXTINF:-1,Romedy Now
+http://10.99.99.99:8282/ROMEDY.NOW/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=7b91ded3c9eb838a1e03143dc5bfab949f1b7a64-f741ba2d1114ba1d0f033c41-1787083241-1787072441
+
+#EXTINF:-1,Zee Cafe
+http://10.99.99.99:8282/ZEE.CAFE.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=8d41a9c9eea21b1ce98147a50d4276c0e309d680-7f55870084ad46bee8575f7a-1787083241-1787072441
+
+#EXTINF:-1,Hum Mashala
+http://10.99.99.99:8282/HUM.MASALA.TV/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=bdb7e4291c0cdb1acbab5c28b88b145fc10d6fde-4bdc16ee078bc7ce10ed33b7-1787083241-1787072441
+
+#EXTINF:-1,Lotous Tv
+http://10.99.99.99:8282/Lotus.TV.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=828e25642d79c103084fb1b2eaf00369bed91324-e198040062a778640071668e-1787083241-1787072441
+
+#EXTINF:-1,AXN
+http://10.99.99.99:8282/AXN.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=6d1f1d3d5ccb33f1ce3cacd86e2d90ee61563ad8-d6646aaf9e277251f58093bd-1787083241-1787072441
+
+#EXTINF:-1,Colours HD
+http://10.99.99.99:8282/COLORS.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=154087cd1ec7e66ee2ec27a5fb9857d551f60ae6-4e111ee40f82c1e99e2cd195-1787083241-1787072441
+
+#EXTINF:-1,& PictureHD
+http://10.99.99.99:8282/ANT.PICTURS.HD/index.m3u8?session=03c8fdb98e170b0285a5d30174c155b00d0073cb-70c271563b8ffa0a53612dd1-1787083241-1787072441&remote=no_check_ip
+
+#EXTINF:-1,ZeeTv
+http://10.99.99.99:8282/ZEE.TV.HD/index.m3u8?session=ffe5c139bac547eb8f4c477b6abddad2a30b38c7-61d1171edeb34771472d154a-1787083241-1787072441&remote=no_check_ip
+
+#EXTINF:-1,Zee CinemaHD
+http://10.99.99.99:8282/ZEE.CINEMA.HD/index.m3u8?session=6463d62fe96ff9b6a53db58b97e11d73a9ed43c7-3428ed0ba04ba02fd78b6e8c-1787083241-1787072441&remote=no_check_ip
+
+#EXTINF:-1,Jalsha Movies
+http://10.99.99.99:8282/JALSHA.MOVIES.HD/index.m3u8?session=049e3acf99234440ec7859b256ab9884ad1c19e6-9699ebd08c69ba82b2a1fc19-1787083241-1787072441&remote=no_check_ip
+
+#EXTINF:-1,BBC News
+http://10.99.99.99:8282/BBC.NEWS/index.m3u8?session=bfe2a0fbfaeee1753b4b7c4c7a9e76a618d5415a-45876aade826999877d03473-1787083241-1787072441&remote=no_check_ip
+
+#EXTINF:-1,National Geography
+http://10.99.99.99:8282/NATGEO.WILD.HD/index.m3u8?session=6fe3253cfdc00a4e52c1ac3aec00458e8d7fbf86-f176ff0c3ebf1ae67458b425-1787083241-1787072441&remote=no_check_ip
+
+#EXTINF:-1,NatGeo HD
+http://10.99.99.99:8282/NATGEO.HD/index.m3u8?session=e4bf36c37e916e3ebd2aea506c90d4ef2c586569-db30304a64ef5578d9906a4f-1787083241-1787072441&remote=no_check_ip
+
+#EXTINF:-1,&Xplorer
+http://10.99.99.99:8282/XPLOR.HD/index.m3u8?session=249ac0576a4f9ba25dc82b8e75c4ca786e9ca223-b1b59f6f91602d2baa809f19-1787083241-1787072441&remote=no_check_ip
