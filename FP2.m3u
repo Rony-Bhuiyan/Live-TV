@@ -5,6 +5,9 @@
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv%20news.png",BTV
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 
+#EXTINF:-1,Movies Now
+http://10.99.99.99:8282/MOVIES.NOW.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=37110643ed8b9296337fbee294eeb22f263d7c76-4f1e724c8da114f7cc70751f-1787082630-1787071830
+
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢"tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/atn%20bangla.png",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 
