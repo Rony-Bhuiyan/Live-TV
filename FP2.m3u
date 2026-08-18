@@ -739,14 +739,74 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 #EXTINF:-1, OUR OWN IP_Texxas
 
-#EXTINF:-1,Movies Now
-http://10.99.99.99:8282/MOVIES.NOW.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=37110643ed8b9296337fbee294eeb22f263d7c76-4f1e724c8da114f7cc70751f-1787082630-1787071830
+#EXTINF:-1,Jamuna Tv
+http://10.99.99.99:8282/JAMUNA.TV/index.m3u8?session=aa01a23c53375f94b0c349b0a9ebf565e3379a10-fc5280590f82c304799d88d4-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Ntv
+http://10.99.99.99:8282/NTV.HD/index.m3u8?session=c699ab565f62ad1d2f1b31169be90129db2c3453-fdfd843f3f97bf730cde14e1-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Bangla Vision
+http://10.99.99.99:8282/BANGLA.VISION.HD/index.m3u8?session=082ae6dcb75f966f53e70201a0b2417428de9293-fb905230b13e12607a9b879b-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Somoy Tv
+http://10.99.99.99:8282/SOMOY.TV.HD/index.m3u8?session=dfcdeb53a10e91c1ce2fa7534190d2974685a18a-42c4d8461f2e299dc9f91cd3-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,71 Tv
+http://10.99.99.99:8282/EKATTOR.TV.HD/index.m3u8?session=c4abd7a6ac61d70a87a781ff8dd071a05b426d16-b55808a54f676e7739753b8c-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Ekhon Tv
+http://10.99.99.99:8282/EAKHON.TV.HD/index.m3u8?session=554bc4190c1f1e6c29aba81b2a52b1d91cee720a-d45f5ca4a25ad0c0b0774083-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Boishakhi Tv
+http://10.99.99.99:8282/BOISAKHI.TV.HD/index.m3u8?session=a8d439bfaaa173d2634ee7ce0d7cd6ed17793603-116aaeee5812f6c29a07f7d5-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Itv
+http://10.99.99.99:8282/INDEPENDENT.TV/index.m3u8?session=e97e8f5c34aef9899110b51e12180ab4badfa608-2756745067581a3eddb1a4c4-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Gtv
+http://10.99.99.99:8282/GAZI.TV.HD/index.m3u8?session=892526c0230474daeffee6bf94514915f5a6239d-06686887cb8a264a30604b1b-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Nagorik
+http://10.99.99.99:8282/NAGORIK.TV.HD/index.m3u8?session=320c6157a584eb347cebc323e151405d70b4e729-72a41b43808e29af2076a92d-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,ATN Bangla
+http://10.99.99.99:8282/ATN.BANGLA.HD/index.m3u8?session=d41e7411dd27943ee4129fe8427394a6a9c9034f-2db38af2e7bceffd5c07dba4-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Channel I
+http://10.99.99.99:8282/CHANNEL.I.HD/index.m3u8?session=d0d9054d743fe372e2a1713637bd30b2047d971b-957764197370810e747f7d5c-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Masranga 
+http://10.99.99.99:8282/MASRANGA.TV.HD/index.m3u8?session=fe4550b2d00c34ff66cc515e84df0584d87487c1-3e0f246dc96ab636f6ca9736-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Deepto
+http://10.99.99.99:8282/DEEPTOTV.HD/index.m3u8?session=48634fcbce2550be5478a5428da0f10478d4a651-4d35693acc889a0eb43c8552-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Bijoy Tv
+http://10.99.99.99:8282/BIJOY.TV.HD/index.m3u8?session=dd709a9e412f8e7352eb97ae4663fd216fda73a5-b3bc63e07b947d4f071f626c-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Etv
+http://10.99.99.99:8282/ETV.BANGLA.HD/index.m3u8?session=b1509a16650129f7e31e4c3abe4974ae988e6a0c-55fb29870396c81859fe4f75-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Bangla Tv
+http://10.99.99.99:8282/BANGLA.TV.HD/index.m3u8?session=4700c0eed6ce3c8d0d07bd7ed4912c942c66b6d9-0d844125f246379506c08243-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Zee Bangla
+http://10.99.99.99:8282/ZEE.BANGLA.HD/index.m3u8?session=a7644fdb8c042067da352f8644a49fd3e80f11ec-778a6871a25c09be9c7dfff1-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Sun Bangla
+http://10.99.99.99:8282/SUN.BANGLA.HD/index.m3u8?session=877aa1aab166a32e26d8bdfadda8e6e8894d9fda-2859037a23ad92dc2010c516-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Colors Bangla
+http://10.99.99.99:8282/COLORS.BANGLA.HD/index.m3u8?session=9c4c89bb68bab52bc1cff0021e3942a744a574ed-9e2d7cd43865c1dd56203818-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Star Jalsha
+http://10.99.99.99:8282/STAR.JALSHA.HD/index.m3u8?session=40abcaa1151a3e10e71c38906634ebb5a2afe459-4fc45c13a12905d3051c8550-1787086481-1787075681&remote=no_check_ip
+
+#EXTINF:-1,Enter 10 Bangla
+http://10.99.99.99:8282/ENTER10.BANGLA/index.m3u8?session=0cf99a186a3b7381ec76aaa4c42925f1bbb52c01-bec067f3e9d30dcc828f16fb-1787086481-1787075681&remote=no_check_ip
 
 #EXTINF:-1,Channel 24
 http://10.99.99.99:8282/CHANNEL.24.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=fbaf54f350f72e89d38d66a76f58318f390d18fe-98b740e9708c9f07244e00f6-1787083241-1787072441
-
-#EXTINF:-1,ATN NEWS
-http://10.99.99.99:8282/ATN.NEWS.HD/index.m3u8?session=96db5cb11f07bb592b7c640a5d58ac3062a59243-0003b901d314d0249e4fa12d-1787083241-1787072441&remote=no_check_ip
 
 #EXTINF:-1,MNX+
 http://10.99.99.99:8282/MNX.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=55caeeb8385334414d1588dd349fe26ad3e3f7e4-fc2bacf7e8999175c1c45be9-1787083241-1787072441
@@ -780,6 +840,9 @@ http://10.99.99.99:8282/ZEE.CINEMA.HD/index.m3u8?session=6463d62fe96ff9b6a53db58
 
 #EXTINF:-1,Jalsha Movies
 http://10.99.99.99:8282/JALSHA.MOVIES.HD/index.m3u8?session=049e3acf99234440ec7859b256ab9884ad1c19e6-9699ebd08c69ba82b2a1fc19-1787083241-1787072441&remote=no_check_ip
+
+#EXTINF:-1,ATN NEWS
+http://10.99.99.99:8282/ATN.NEWS.HD/index.m3u8?session=96db5cb11f07bb592b7c640a5d58ac3062a59243-0003b901d314d0249e4fa12d-1787083241-1787072441&remote=no_check_ip
 
 #EXTINF:-1,BBC News
 http://10.99.99.99:8282/BBC.NEWS/index.m3u8?session=bfe2a0fbfaeee1753b4b7c4c7a9e76a618d5415a-45876aade826999877d03473-1787083241-1787072441&remote=no_check_ip
