@@ -922,16 +922,6 @@ http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441546.ts
 http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441547.ts
 #EXTINF:-1 tvg-id="1441548" tvg-name="BENGALI ▎TV9 BANGLA" group-title="ASIA ▎BENGALI",BENGALI ▎TV9 BANGLA
 http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441548.ts
-#EXTINF:-1 tvg-id="dangal.in" tvg-name="BHOJPURI ▎ENTER 10 RANGELLA" group-title="ASIA ▎BHOJPURI",BHOJPURI ▎ENTER 10 RANGELLA
-http://line.4k-beast.top:80/live/LeeMartins/4DD741/63419.ts
-#EXTINF:-1 tvg-id="hungama.in" tvg-name="BHOJPURI ▎DHAMAAL HD" group-title="ASIA ▎BHOJPURI",BHOJPURI ▎DHAMAAL HD
-http://line.4k-beast.top:80/live/LeeMartins/4DD741/63392.ts
-#EXTINF:-1 tvg-id="143701" tvg-name="BHOJPURI ▎BHOJPURI CINEMA" group-title="ASIA ▎BHOJPURI",BHOJPURI ▎BHOJPURI CINEMA
-http://line.4k-beast.top:80/live/LeeMartins/4DD741/143701.ts
-#EXTINF:-1 tvg-id="1441447" tvg-name="BHOJPURI ▎OSCAR CINEMA BHOJPURI" group-title="ASIA ▎BHOJPURI",BHOJPURI ▎OSCAR CINEMA BHOJPURI
-http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441447.ts
-#EXTINF:-1 tvg-id="1441469" tvg-name="BHOJPURI ▎SANGEET BHOJPURI" group-title="ASIA ▎BHOJPURI",BHOJPURI ▎SANGEET BHOJPURI
-http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441469.ts
 #EXTINF:-1 tvg-id="63547" tvg-name="ENGLISH ▎AND FLIX HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎AND FLIX HD
 http://line.4k-beast.top:80/live/LeeMartins/4DD741/63547.ts
 #EXTINF:-1 tvg-id="andprive.in" tvg-name="ENGLISH ▎AND PRIVE HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎AND PRIVE HD
@@ -994,3 +984,35 @@ http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441566.ts
 http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441568.ts
 #EXTINF:-1 tvg-id="1441569" tvg-name="ENGLISH ▎CVR NEW ENGLISH" group-title="ASIA ▎ENGLISH",ENGLISH ▎CVR NEW ENGLISH
 http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441569.ts
+#EXTINF:-1 tvg-id="724568" tvg-name="SPORTS ▎SPORTS 18" group-title="ASIA ▎SPORTS",SPORTS ▎SPORTS 18
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/724568.ts
+#EXTINF:-1 tvg-id="771623" tvg-name="SPORTS ▎SPORTS 18 ENGLISH" group-title="ASIA ▎SPORTS",SPORTS ▎SPORTS 18 ENGLISH
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/771623.ts
+#EXTINF:-1 tvg-id="756463" tvg-name="SPORTS ▎T-SPORTS 2" group-title="ASIA ▎SPORTS",SPORTS ▎T-SPORTS 2
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/756463.ts
+#EXTINF:-1 tvg-id="dsport.in" tvg-name="SPORTS ▎EUROSPORT HD" group-title="ASIA ▎SPORTS",SPORTS ▎EUROSPORT HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63332.ts
+#EXTINF:-1 tvg-id="sonysix.in" tvg-name="SPORTS ▎SONY TEN 5 HD" group-title="ASIA ▎SPORTS",SPORTS ▎SONY TEN 5 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63499.ts
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="SPORTS ▎STAR SPORTS 1 HD ENGLISH" group-title="ASIA ▎SPORTS",SPORTS ▎STAR SPORTS 1 HD ENGLISH
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63541.ts
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="SPORTS ▎STAR SPORTS 1 HD HINDI" group-title="ASIA ▎SPORTS",SPORTS ▎STAR SPORTS 1 HD HINDI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63560.ts
+#EXTINF:-1 tvg-id="starsports2.in" tvg-name="SPORTS ▎STAR SPORTS 2 HD" group-title="ASIA ▎SPORTS",SPORTS ▎STAR SPORTS 2 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63540.ts
+#EXTINF:-1 tvg-id="starsports1hindi.in" tvg-name="SPORTS ▎STAR SPORTS 3" group-title="ASIA ▎SPORTS",SPORTS ▎STAR SPORTS 3
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63314.ts
+#EXTINF:-1 tvg-id="starsportsselect1.in" tvg-name="SPORTS ▎STAR SPORTS SELECT 1 HD" group-title="ASIA ▎SPORTS",SPORTS ▎STAR SPORTS SELECT 1 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63539.ts
+#EXTINF:-1 tvg-id="starsportsselect2.in" tvg-name="SPORTS ▎STAR SPORTS SELECT 2 HD" group-title="ASIA ▎SPORTS",SPORTS ▎STAR SPORTS SELECT 2 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63498.ts
+#EXTINF:-1 tvg-id="sonyten1.in" tvg-name="SPORTS ▎TEN 1 HD" group-title="ASIA ▎SPORTS",SPORTS ▎TEN 1 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63537.ts
+#EXTINF:-1 tvg-id="sonyten2.in" tvg-name="SPORTS ▎TEN 2 HD" group-title="ASIA ▎SPORTS",SPORTS ▎TEN 2 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63536.ts
+#EXTINF:-1 tvg-id="sonyten3.in" tvg-name="SPORTS ▎TEN 3 HD" group-title="ASIA ▎SPORTS",SPORTS ▎TEN 3 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63535.ts
+#EXTINF:-1 tvg-id="63439" tvg-name="SPORTS ▎WILLOW CRICKET HD" group-title="ASIA ▎SPORTS",SPORTS ▎WILLOW CRICKET HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63439.ts
+#EXTINF:-1 tvg-id="112863" tvg-name="SPORTS ▎DD SPORTS" group-title="ASIA ▎SPORTS",SPORTS ▎DD SPORTS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112863.ts
