@@ -1,0 +1,996 @@
+#EXTM3U
+#PLAYLIST: RB Playlist
+#EXTENC: UTF-8
+
+#EXTINF:-1 tvg-id="starplus.uk" tvg-name="IN EU ▎UTSAV PLUS HD" group-title="ASIA ▎INDIA EU",IN EU ▎UTSAV PLUS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/102545.ts
+#EXTINF:-1 tvg-id="starplus.uk" tvg-name="IN EU ▎UTSAV PLUS SD ◉ rec" group-title="ASIA ▎INDIA EU",IN EU ▎UTSAV PLUS SD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/700.ts
+#EXTINF:-1 tvg-id="stargold.uk" tvg-name="IN EU ▎UTSAV GOLD HD" group-title="ASIA ▎INDIA EU",IN EU ▎UTSAV GOLD HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/102544.ts
+#EXTINF:-1 tvg-id="stargold.uk" tvg-name="IN EU ▎UTSAV GOLD SD ◉ rec" group-title="ASIA ▎INDIA EU",IN EU ▎UTSAV GOLD SD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/699.ts
+#EXTINF:-1 tvg-id="1284188" tvg-name="IN EU ▎ZEE TV FHD" group-title="ASIA ▎INDIA EU",IN EU ▎ZEE TV FHD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1284188.ts
+#EXTINF:-1 tvg-id="1284187" tvg-name="IN EU ▎ZEE TV HD" group-title="ASIA ▎INDIA EU",IN EU ▎ZEE TV HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1284187.ts
+#EXTINF:-1 tvg-id="zeetv.uk" tvg-name="IN EU ▎ZEE TV SD ◉ rec" group-title="ASIA ▎INDIA EU",IN EU ▎ZEE TV SD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/688.ts
+#EXTINF:-1 tvg-id="zeecinema.uk" tvg-name="IN EU ▎ZEE CINEMA HD" group-title="ASIA ▎INDIA EU",IN EU ▎ZEE CINEMA HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/102549.ts
+#EXTINF:-1 tvg-id="zeecinema.uk" tvg-name="IN EU ▎ZEE CINEMA SD ◉ rec" group-title="ASIA ▎INDIA EU",IN EU ▎ZEE CINEMA SD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/689.ts
+#EXTINF:-1 tvg-id="colors.uk" tvg-name="IN EU ▎COLORS HD" group-title="ASIA ▎INDIA EU",IN EU ▎COLORS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/107248.ts
+#EXTINF:-1 tvg-id="colorshd.uk" tvg-name="IN EU ▎COLORS SD ◉ rec" group-title="ASIA ▎INDIA EU",IN EU ▎COLORS SD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1497.ts
+#EXTINF:-1 tvg-id="sonyentertainmenttvasia.uk" tvg-name="IN EU ▎SONY ASIA HD" group-title="ASIA ▎INDIA EU",IN EU ▎SONY ASIA HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/102547.ts
+#EXTINF:-1 tvg-id="sonyentertainmenttvasia.uk" tvg-name="IN EU ▎SONY ASIA SD ◉ rec" group-title="ASIA ▎INDIA EU",IN EU ▎SONY ASIA SD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/694.ts
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="IN EU ▎SONY MAX HD" group-title="ASIA ▎INDIA EU",IN EU ▎SONY MAX HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/102546.ts
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="IN EU ▎SONY MAX SD ◉ rec" group-title="ASIA ▎INDIA EU",IN EU ▎SONY MAX SD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/693.ts
+#EXTINF:-1 tvg-id="sonymax2.uk" tvg-name="IN EU ▎SONY MAX 2 SD" group-title="ASIA ▎INDIA EU",IN EU ▎SONY MAX 2 SD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/5229.ts
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="IN EU ▎SONY SAB SD" group-title="ASIA ▎INDIA EU",IN EU ▎SONY SAB SD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/692.ts
+#EXTINF:-1 tvg-id="ktv.uk" tvg-name="IN EU ▎KTV " group-title="ASIA ▎INDIA EU",IN EU ▎KTV 
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/129690.ts
+#EXTINF:-1 tvg-id="starbharat.uk" tvg-name="IN EU ▎UTSAV BHARAT SD ◉ rec" group-title="ASIA ▎INDIA EU",IN EU ▎UTSAV BHARAT SD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/697.ts
+#EXTINF:-1 tvg-id="colorsrishtey.uk" tvg-name="IN EU ▎COLORS RISHTEY TV SD ◉ rec" group-title="ASIA ▎INDIA EU",IN EU ▎COLORS RISHTEY TV SD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/701.ts
+#EXTINF:-1 tvg-id="colorscineplex.uk" tvg-name="IN EU ▎COLORS CINEPLEX SD ◉ rec" group-title="ASIA ▎INDIA EU",IN EU ▎COLORS CINEPLEX SD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/5230.ts
+#EXTINF:-1 tvg-id="b4umovies.uk" tvg-name="IN EU ▎B4U MOVIES SD ◉ rec" group-title="ASIA ▎INDIA EU",IN EU ▎B4U MOVIES SD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/695.ts
+#EXTINF:-1 tvg-id="b4umusic.uk" tvg-name="IN EU ▎B4U MUSIC SD" group-title="ASIA ▎INDIA EU",IN EU ▎B4U MUSIC SD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/696.ts
+#EXTINF:-1 tvg-id="99771" tvg-name="IN EU ▎B4U PLUS ◉ rec" group-title="ASIA ▎INDIA EU",IN EU ▎B4U PLUS ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99771.ts
+#EXTINF:-1 tvg-id="zing.nl" tvg-name="IN EU ▎ZING" group-title="ASIA ▎INDIA EU",IN EU ▎ZING
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/691.ts
+#EXTINF:-1 tvg-id="abpnews.uk" tvg-name="IN EU ▎ABP NEWS" group-title="ASIA ▎INDIA EU",IN EU ▎ABP NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/713.ts
+#EXTINF:-1 tvg-id="aajtak.uk" tvg-name="IN EU ▎AAJ TAK" group-title="ASIA ▎INDIA EU",IN EU ▎AAJ TAK
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/714.ts
+#EXTINF:-1 tvg-id="ndtv247.uk" tvg-name="IN EU ▎NDTV" group-title="ASIA ▎INDIA EU",IN EU ▎NDTV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/731.ts
+#EXTINF:-1 tvg-id="aastha.uk" tvg-name="IN EU ▎AASTHA SD" group-title="ASIA ▎INDIA EU",IN EU ▎AASTHA SD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/728.ts
+#EXTINF:-1 tvg-id="ptcpunjabi.uk" tvg-name="IN EU ▎PTC PUNJABI" group-title="ASIA ▎INDIA EU",IN EU ▎PTC PUNJABI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/732.ts
+#EXTINF:-1 tvg-id="sikhchannel.uk" tvg-name="IN EU ▎SIKH CHANNEL SD" group-title="ASIA ▎INDIA EU",IN EU ▎SIKH CHANNEL SD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/726.ts
+#EXTINF:-1 tvg-id="akaalchannel.uk" tvg-name="IN EU ▎AKAAL CHANNEL SD" group-title="ASIA ▎INDIA EU",IN EU ▎AKAAL CHANNEL SD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/712.ts
+#EXTINF:-1 tvg-id="sangat.uk" tvg-name="IN EU ▎SANGAT SD" group-title="ASIA ▎INDIA EU",IN EU ▎SANGAT SD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/24664.ts
+#EXTINF:-1 tvg-id="matvnational.uk" tvg-name="IN EU ▎MATV NATIONAL" group-title="ASIA ▎INDIA EU",IN EU ▎MATV NATIONAL
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/93303.ts
+#EXTINF:-1 tvg-id="matvnational.uk" tvg-name="IN EU ▎REPUBLIC TV" group-title="ASIA ▎INDIA EU",IN EU ▎REPUBLIC TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/98257.ts
+#EXTINF:-1 tvg-id="kanshitv.uk" tvg-name="IN EU ▎KANSHI TV SD" group-title="ASIA ▎INDIA EU",IN EU ▎KANSHI TV SD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/535898.ts
+#EXTINF:-1 tvg-id="1284189" tvg-name="IN EU ▎ARISE NEWS SD" group-title="ASIA ▎INDIA EU",IN EU ▎ARISE NEWS SD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1284189.ts
+#EXTINF:-1 tvg-id="1284275" tvg-name="IN EU ▎SANKAR TV SD" group-title="ASIA ▎INDIA EU",IN EU ▎SANKAR TV SD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1284275.ts
+#EXTINF:-1 tvg-id="1284309" tvg-name="IN EU ▎CHANNELS 24 SD" group-title="ASIA ▎INDIA EU",IN EU ▎CHANNELS 24 SD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1284309.ts
+#EXTINF:-1 tvg-id="512957" tvg-name="PK EU ▎ARY DIGITAL" group-title="ASIA ▎PAKISTAN EU",PK EU ▎ARY DIGITAL
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/512957.ts
+#EXTINF:-1 tvg-id="geotv.uk" tvg-name="PK EU ▎GEO TV ◉ rec" group-title="ASIA ▎PAKISTAN EU",PK EU ▎GEO TV ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/709.ts
+#EXTINF:-1 tvg-id="geonews.uk" tvg-name="PK EU ▎GEO NEWS" group-title="ASIA ▎PAKISTAN EU",PK EU ▎GEO NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/710.ts
+#EXTINF:-1 tvg-id="geokahani.uk" tvg-name="PK EU ▎GEO KAHANI ◉ rec" group-title="ASIA ▎PAKISTAN EU",PK EU ▎GEO KAHANI ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/730.ts
+#EXTINF:-1 tvg-id="humeurope.uk" tvg-name="PK EU ▎HUM EU TV ◉ rec" group-title="ASIA ▎PAKISTAN EU",PK EU ▎HUM EU TV ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/706.ts
+#EXTINF:-1 tvg-id="hummasala.uk" tvg-name="PK EU ▎HUM MASALA" group-title="ASIA ▎PAKISTAN EU",PK EU ▎HUM MASALA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/27816.ts
+#EXTINF:-1 tvg-id="humnews.uk" tvg-name="PK EU ▎HUM NEWS" group-title="ASIA ▎PAKISTAN EU",PK EU ▎HUM NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/3658.ts
+#EXTINF:-1 tvg-id="dunyanews.uk" tvg-name="PK EU ▎DUNYA NEWS" group-title="ASIA ▎PAKISTAN EU",PK EU ▎DUNYA NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/704.ts
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="PK EU ▎92 NEWS" group-title="ASIA ▎PAKISTAN EU",PK EU ▎92 NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/98148.ts
+#EXTINF:-1 tvg-id="3659" tvg-name="PK EU ▎NEW VISION TV" group-title="ASIA ▎PAKISTAN EU",PK EU ▎NEW VISION TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/3659.ts
+#EXTINF:-1 tvg-id="takbeertv.uk" tvg-name="PK EU ▎TAKBEER" group-title="ASIA ▎PAKISTAN EU",PK EU ▎TAKBEER
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/735.ts
+#EXTINF:-1 tvg-id="noortv.uk" tvg-name="PK EU ▎NOOR TV" group-title="ASIA ▎PAKISTAN EU",PK EU ▎NOOR TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/727.ts
+#EXTINF:-1 tvg-id="iqratv.uk" tvg-name="PK EU ▎IQRA TV" group-title="ASIA ▎PAKISTAN EU",PK EU ▎IQRA TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/723.ts
+#EXTINF:-1 tvg-id="islamchannel.uk" tvg-name="PK EU ▎ISLAM CHANNEL" group-title="ASIA ▎PAKISTAN EU",PK EU ▎ISLAM CHANNEL
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/716.ts
+#EXTINF:-1 tvg-id="28525" tvg-name="PK EU ▎MTA MUSLIM" group-title="ASIA ▎PAKISTAN EU",PK EU ▎MTA MUSLIM
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/28525.ts
+#EXTINF:-1 tvg-id="madanichannel.uk" tvg-name="PK EU ▎MADANI CHANNEL" group-title="ASIA ▎PAKISTAN EU",PK EU ▎MADANI CHANNEL
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/724.ts
+#EXTINF:-1 tvg-id="736" tvg-name="PK EU ▎PEACE TV" group-title="ASIA ▎PAKISTAN EU",PK EU ▎PEACE TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/736.ts
+#EXTINF:-1 tvg-id="737" tvg-name="PK EU ▎PEACE TV URDU" group-title="ASIA ▎PAKISTAN EU",PK EU ▎PEACE TV URDU
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/737.ts
+#EXTINF:-1 tvg-id="islamchurdu.uk" tvg-name="PK EU ▎ISLAM CHANNEL URDU" group-title="ASIA ▎PAKISTAN EU",PK EU ▎ISLAM CHANNEL URDU
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/5231.ts
+#EXTINF:-1 tvg-id="118805" tvg-name="PK EU ▎AHLEBAIT TV" group-title="ASIA ▎PAKISTAN EU",PK EU ▎AHLEBAIT TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/118805.ts
+#EXTINF:-1 tvg-id="133104" tvg-name="PK EU ▎AHLEBAIT TV" group-title="ASIA ▎PAKISTAN EU",PK EU ▎AHLEBAIT TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/133104.ts
+#EXTINF:-1 tvg-id="hidayattv.uk" tvg-name="PK EU ▎HIDAYAT TV " group-title="ASIA ▎PAKISTAN EU",PK EU ▎HIDAYAT TV 
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/133103.ts
+#EXTINF:-1 tvg-id="emanchannel.uk" tvg-name="PK EU ▎EMAN CHANNEL" group-title="ASIA ▎PAKISTAN EU",PK EU ▎EMAN CHANNEL
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/141550.ts
+#EXTINF:-1 tvg-id="1284276" tvg-name="PUNJABI ▎UK| POLITICS PUNJAB SD" group-title="ASIA ▎INDIA EU",PUNJABI ▎UK| POLITICS PUNJAB SD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1284276.ts
+#EXTINF:-1 tvg-id="1710863" tvg-name="HINDI ▎BIG BOSS HD" group-title="ASIA ▎INDIA",HINDI ▎BIG BOSS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1710863.ts
+#EXTINF:-1 tvg-id="1710864" tvg-name="HINDI ▎BIG BOSS 2 HD" group-title="ASIA ▎INDIA",HINDI ▎BIG BOSS 2 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1710864.ts
+#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="HINDI ▎ZEE ACTION ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎ZEE ACTION ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/109165.ts
+#EXTINF:-1 tvg-id="zeetv.in" tvg-name="HINDI ▎ZEE TV HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎ZEE TV HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63561.ts
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="HINDI ▎ZEE CINEMA HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎ZEE CINEMA HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63581.ts
+#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="HINDI ▎ZEE CLASSICS ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎ZEE CLASSICS ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/452279.ts
+#EXTINF:-1 tvg-id="zing.in" tvg-name="HINDI ▎ZING" group-title="ASIA ▎INDIA",HINDI ▎ZING
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63435.ts
+#EXTINF:-1 tvg-id="starbharat.in" tvg-name="HINDI ▎STAR BHARAT HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎STAR BHARAT HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63484.ts
+#EXTINF:-1 tvg-id="stargold.in" tvg-name="HINDI ▎STAR GOLD HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎STAR GOLD HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63565.ts
+#EXTINF:-1 tvg-id="stargoldselect.in" tvg-name="HINDI ▎STAR GOLD SELECT HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎STAR GOLD SELECT HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63564.ts
+#EXTINF:-1 tvg-id="starplus.in" tvg-name="HINDI ▎STAR PLUS HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎STAR PLUS HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63563.ts
+#EXTINF:-1 tvg-id="starutsav.in" tvg-name="HINDI ▎STAR UTSAV ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎STAR UTSAV ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63428.ts
+#EXTINF:-1 tvg-id="starutsavmovies.in" tvg-name="HINDI ▎STAR UTSAV MOVIES ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎STAR UTSAV MOVIES ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63376.ts
+#EXTINF:-1 tvg-id="sony.in" tvg-name="HINDI ▎SONY HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎SONY HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63588.ts
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="HINDI ▎SONY MAX HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎SONY MAX HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63568.ts
+#EXTINF:-1 tvg-id="109166" tvg-name="HINDI ▎SONY MAX 2 ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎SONY MAX 2 ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/109166.ts
+#EXTINF:-1 tvg-id="sonypix.in" tvg-name="HINDI ▎SONY PIX HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎SONY PIX HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63582.ts
+#EXTINF:-1 tvg-id="sonybbcearth.in" tvg-name="HINDI ▎SONY BBC EARTH HD" group-title="ASIA ▎INDIA",HINDI ▎SONY BBC EARTH HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63583.ts
+#EXTINF:-1 tvg-id="sonysab.in" tvg-name="HINDI ▎SONY SAB HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎SONY SAB HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63566.ts
+#EXTINF:-1 tvg-id="97824" tvg-name="HINDI ▎SONY PAL" group-title="ASIA ▎INDIA",HINDI ▎SONY PAL
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/97824.ts
+#EXTINF:-1 tvg-id="97826" tvg-name="HINDI ▎SONY WAH" group-title="ASIA ▎INDIA",HINDI ▎SONY WAH
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/97826.ts
+#EXTINF:-1 tvg-id="97825" tvg-name="HINDI ▎SONY YAY" group-title="ASIA ▎INDIA",HINDI ▎SONY YAY
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/97825.ts
+#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="HINDI ▎B4U MOVIES ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎B4U MOVIES ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63424.ts
+#EXTINF:-1 tvg-id="colors.in" tvg-name="HINDI ▎COLORS HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎COLORS HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63576.ts
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="HINDI ▎9X JALWA" group-title="ASIA ▎INDIA",HINDI ▎9X JALWA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63426.ts
+#EXTINF:-1 tvg-id="aajtak.in" tvg-name="HINDI ▎AAJ TAK HD" group-title="ASIA ▎INDIA",HINDI ▎AAJ TAK HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63298.ts
+#EXTINF:-1 tvg-id="aajtak.in" tvg-name="HINDI ▎AAJ TAK TEZ" group-title="ASIA ▎INDIA",HINDI ▎AAJ TAK TEZ
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63297.ts
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="HINDI ▎ZOOM TV HD" group-title="ASIA ▎INDIA",HINDI ▎ZOOM TV HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63442.ts
+#EXTINF:-1 tvg-id="aastha.in" tvg-name="HINDI ▎AASTHA" group-title="ASIA ▎INDIA",HINDI ▎AASTHA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63437.ts
+#EXTINF:-1 tvg-id="aasthabhajan.in" tvg-name="HINDI ▎AASTHA BHAJAN" group-title="ASIA ▎INDIA",HINDI ▎AASTHA BHAJAN
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63350.ts
+#EXTINF:-1 tvg-id="abpnews.in" tvg-name="HINDI ▎ABP NEWS INDIA" group-title="ASIA ▎INDIA",HINDI ▎ABP NEWS INDIA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63425.ts
+#EXTINF:-1 tvg-id="andpictures.in" tvg-name="HINDI ▎AND PICTURES HD" group-title="ASIA ▎INDIA",HINDI ▎AND PICTURES HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63580.ts
+#EXTINF:-1 tvg-id="andtv.in" tvg-name="HINDI ▎& TV HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎& TV HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63579.ts
+#EXTINF:-1 tvg-id="animalplanet.in" tvg-name="HINDI ▎ANIMAL PLANET HD" group-title="ASIA ▎INDIA",HINDI ▎ANIMAL PLANET HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63333.ts
+#EXTINF:-1 tvg-id="arihant.in" tvg-name="HINDI ▎ARIHANT" group-title="ASIA ▎INDIA",HINDI ▎ARIHANT
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63281.ts
+#EXTINF:-1 tvg-id="babytv.in" tvg-name="HINDI ▎DISNEY FHD" group-title="ASIA ▎INDIA",HINDI ▎DISNEY FHD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63578.ts
+#EXTINF:-1 tvg-id="bigmagic.in" tvg-name="HINDI ▎BIG MAGIC HD" group-title="ASIA ▎INDIA",HINDI ▎BIG MAGIC HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63399.ts
+#EXTINF:-1 tvg-id="bindass.in" tvg-name="HINDI ▎BINDAS MOVIES" group-title="ASIA ▎INDIA",HINDI ▎BINDAS MOVIES
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63306.ts
+#EXTINF:-1 tvg-id="cineplex.in" tvg-name="HINDI ▎CINEPLEX HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎CINEPLEX HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63577.ts
+#EXTINF:-1 tvg-id="ddnational.in" tvg-name="HINDI ▎DD NATIONAL HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎DD NATIONAL HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63420.ts
+#EXTINF:-1 tvg-id="ddrajasthan.in" tvg-name="HINDI ▎DD RAJASTHAN" group-title="ASIA ▎INDIA",HINDI ▎DD RAJASTHAN
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63479.ts
+#EXTINF:-1 tvg-id="ddbharati.in" tvg-name="HINDI ▎DD BHARATI" group-title="ASIA ▎INDIA",HINDI ▎DD BHARATI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/66100.ts
+#EXTINF:-1 tvg-id="ddbihar.in" tvg-name="HINDI ▎DD BIHAR" group-title="ASIA ▎INDIA",HINDI ▎DD BIHAR
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/66101.ts
+#EXTINF:-1 tvg-id="ddindia.in" tvg-name="HINDI ▎DD INDIA" group-title="ASIA ▎INDIA",HINDI ▎DD INDIA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/66102.ts
+#EXTINF:-1 tvg-id="ddnews.in" tvg-name="HINDI ▎DD NEWS HD" group-title="ASIA ▎INDIA",HINDI ▎DD NEWS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/66104.ts
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="HINDI ▎DD SPORTS" group-title="ASIA ▎INDIA",HINDI ▎DD SPORTS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/66106.ts
+#EXTINF:-1 tvg-id="ddoriya.in" tvg-name="HINDI ▎DD ORIYA" group-title="ASIA ▎INDIA",HINDI ▎DD ORIYA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/66109.ts
+#EXTINF:-1 tvg-id="66105" tvg-name="HINDI ▎DD UP" group-title="ASIA ▎INDIA",HINDI ▎DD UP
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/66105.ts
+#EXTINF:-1 tvg-id="ddurdu.in" tvg-name="HINDI ▎DD URDU" group-title="ASIA ▎INDIA",HINDI ▎DD URDU
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/66113.ts
+#EXTINF:-1 tvg-id="112920" tvg-name="HINDI ▎DD MP" group-title="ASIA ▎INDIA",HINDI ▎DD MP
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112920.ts
+#EXTINF:-1 tvg-id="discoverychannel.in" tvg-name="HINDI ▎DISCOVERY WORLD HD" group-title="ASIA ▎INDIA",HINDI ▎DISCOVERY WORLD HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63315.ts
+#EXTINF:-1 tvg-id="e24.in" tvg-name="HINDI ▎E24" group-title="ASIA ▎INDIA",HINDI ▎E24
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63421.ts
+#EXTINF:-1 tvg-id="enterr10.in" tvg-name="HINDI ▎ENTER 10 MOVIES" group-title="ASIA ▎INDIA",HINDI ▎ENTER 10 MOVIES
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63436.ts
+#EXTINF:-1 tvg-id="epic.in" tvg-name="HINDI ▎EPIC HD" group-title="ASIA ▎INDIA",HINDI ▎EPIC HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63587.ts
+#EXTINF:-1 tvg-id="foxlife.in" tvg-name="HINDI ▎FOX LIFE HD" group-title="ASIA ▎INDIA",HINDI ▎FOX LIFE HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63586.ts
+#EXTINF:-1 tvg-id="historytv18.in" tvg-name="HINDI ▎HISTORY TV18 HD" group-title="ASIA ▎INDIA",HINDI ▎HISTORY TV18 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63573.ts
+#EXTINF:-1 tvg-id="63423" tvg-name="HINDI ▎HINDI TIMES" group-title="ASIA ▎INDIA",HINDI ▎HINDI TIMES
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63423.ts
+#EXTINF:-1 tvg-id="livingfoodz.in" tvg-name="HINDI ▎ZEE ZEST HD" group-title="ASIA ▎INDIA",HINDI ▎ZEE ZEST HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63482.ts
+#EXTINF:-1 tvg-id="multiplex.in" tvg-name="HINDI ▎MINIPLEX HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎MINIPLEX HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63572.ts
+#EXTINF:-1 tvg-id="mtvbeats.in" tvg-name="HINDI ▎MTV BEATS HD" group-title="ASIA ▎INDIA",HINDI ▎MTV BEATS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63571.ts
+#EXTINF:-1 tvg-id="63585" tvg-name="HINDI ▎MTV PLUS HD" group-title="ASIA ▎INDIA",HINDI ▎MTV PLUS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63585.ts
+#EXTINF:-1 tvg-id="musicindia.in" tvg-name="HINDI ▎MUSIC INDIA" group-title="ASIA ▎INDIA",HINDI ▎MUSIC INDIA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63403.ts
+#EXTINF:-1 tvg-id="ngc.in" tvg-name="HINDI ▎NAT GEO WILD HD" group-title="ASIA ▎INDIA",HINDI ▎NAT GEO WILD HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63584.ts
+#EXTINF:-1 tvg-id="ngc.in" tvg-name="HINDI ▎NATIONAL GEOGRAPHIC HD" group-title="ASIA ▎INDIA",HINDI ▎NATIONAL GEOGRAPHIC HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63570.ts
+#EXTINF:-1 tvg-id="news18india.in" tvg-name="HINDI ▎NEWS 18 INDIA" group-title="ASIA ▎INDIA",HINDI ▎NEWS 18 INDIA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63290.ts
+#EXTINF:-1 tvg-id="newsnation.in" tvg-name="HINDI ▎NEWS NATION" group-title="ASIA ▎INDIA",HINDI ▎NEWS NATION
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63418.ts
+#EXTINF:-1 tvg-id="newsstateupuk.in" tvg-name="HINDI ▎NEWS STATE" group-title="ASIA ▎INDIA",HINDI ▎NEWS STATE
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63417.ts
+#EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="HINDI ▎NICK PLUS HD" group-title="ASIA ▎INDIA",HINDI ▎NICK PLUS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63569.ts
+#EXTINF:-1 tvg-id="parastv.in" tvg-name="HINDI ▎PARAS TV" group-title="ASIA ▎INDIA",HINDI ▎PARAS TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63342.ts
+#EXTINF:-1 tvg-id="peaceofmind.in" tvg-name="HINDI ▎PEACE OF MIND HD" group-title="ASIA ▎INDIA",HINDI ▎PEACE OF MIND HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63341.ts
+#EXTINF:-1 tvg-id="skystar.in" tvg-name="HINDI ▎MAHA MOVIES" group-title="ASIA ▎INDIA",HINDI ▎MAHA MOVIES
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63375.ts
+#EXTINF:-1 tvg-id="utvaction.in" tvg-name="HINDI ▎STAR GOLD THRILLS" group-title="ASIA ▎INDIA",HINDI ▎STAR GOLD THRILLS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63305.ts
+#EXTINF:-1 tvg-id="vedic.in" tvg-name="HINDI ▎VEDIC TV" group-title="ASIA ▎INDIA",HINDI ▎VEDIC TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63344.ts
+#EXTINF:-1 tvg-id="zanmol.in" tvg-name="HINDI ▎ZEE ANMOL" group-title="ASIA ▎INDIA",HINDI ▎ZEE ANMOL
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63429.ts
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="HINDI ▎ZEE ANMOL CINEMA" group-title="ASIA ▎INDIA",HINDI ▎ZEE ANMOL CINEMA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63430.ts
+#EXTINF:-1 tvg-id="zeehindustan.in" tvg-name="HINDI ▎ZEE HINDUSTAN NEWS" group-title="ASIA ▎INDIA",HINDI ▎ZEE HINDUSTAN NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63559.ts
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="HINDI ▎ZEE NEWS" group-title="ASIA ▎INDIA",HINDI ▎ZEE NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63434.ts
+#EXTINF:-1 tvg-id="zeebiharjharkhand.in" tvg-name="HINDI ▎ZEE NEWS BIHAR" group-title="ASIA ▎INDIA",HINDI ▎ZEE NEWS BIHAR
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63433.ts
+#EXTINF:-1 tvg-id="zeempcg.in" tvg-name="HINDI ▎ZEE NEWS MP/CHATTISGARH" group-title="ASIA ▎INDIA",HINDI ▎ZEE NEWS MP/CHATTISGARH
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63432.ts
+#EXTINF:-1 tvg-id="zeeupuk.in" tvg-name="HINDI ▎ZEE NEWS UP" group-title="ASIA ▎INDIA",HINDI ▎ZEE NEWS UP
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63431.ts
+#EXTINF:-1 tvg-id="zrajasthan news.in" tvg-name="HINDI ▎ZEE RAJASTHAN" group-title="ASIA ▎INDIA",HINDI ▎ZEE RAJASTHAN
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63478.ts
+#EXTINF:-1 tvg-id="112864" tvg-name="HINDI ▎POGO KIDS" group-title="ASIA ▎INDIA",HINDI ▎POGO KIDS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112864.ts
+#EXTINF:-1 tvg-id="112865" tvg-name="HINDI ▎CINEMA TV" group-title="ASIA ▎INDIA",HINDI ▎CINEMA TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112865.ts
+#EXTINF:-1 tvg-id="112866" tvg-name="HINDI ▎MOVIES PLUS" group-title="ASIA ▎INDIA",HINDI ▎MOVIES PLUS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112866.ts
+#EXTINF:-1 tvg-id="112867" tvg-name="HINDI ▎ZEE GANGA" group-title="ASIA ▎INDIA",HINDI ▎ZEE GANGA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112867.ts
+#EXTINF:-1 tvg-id="112868" tvg-name="HINDI ▎AND FLIX HD" group-title="ASIA ▎INDIA",HINDI ▎AND FLIX HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112868.ts
+#EXTINF:-1 tvg-id="112870" tvg-name="HINDI ▎EVERGREEN CLASSIC" group-title="ASIA ▎INDIA",HINDI ▎EVERGREEN CLASSIC
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112870.ts
+#EXTINF:-1 tvg-id="112872" tvg-name="HINDI ▎DISNEY SD" group-title="ASIA ▎INDIA",HINDI ▎DISNEY SD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112872.ts
+#EXTINF:-1 tvg-id="112873" tvg-name="HINDI ▎CNBC TV18 NEWS HD" group-title="ASIA ▎INDIA",HINDI ▎CNBC TV18 NEWS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112873.ts
+#EXTINF:-1 tvg-id="112874" tvg-name="HINDI ▎TIMES NOW WORLD HD" group-title="ASIA ▎INDIA",HINDI ▎TIMES NOW WORLD HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112874.ts
+#EXTINF:-1 tvg-id="mnx.in" tvg-name="HINDI ▎MNX HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎MNX HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112876.ts
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="HINDI ▎MOVIES NOW HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎MOVIES NOW HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112877.ts
+#EXTINF:-1 tvg-id="mnplushd.in" tvg-name="HINDI ▎MN PLUS HD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎MN PLUS HD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112878.ts
+#EXTINF:-1 tvg-id="112879" tvg-name="HINDI ▎DISNEY INTERNATIONAL HD" group-title="ASIA ▎INDIA",HINDI ▎DISNEY INTERNATIONAL HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112879.ts
+#EXTINF:-1 tvg-id="112881" tvg-name="HINDI ▎CN PLUS HD" group-title="ASIA ▎INDIA",HINDI ▎CN PLUS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112881.ts
+#EXTINF:-1 tvg-id="112883" tvg-name="HINDI ▎STAR GOLD ROMANCE" group-title="ASIA ▎INDIA",HINDI ▎STAR GOLD ROMANCE
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112883.ts
+#EXTINF:-1 tvg-id="112884" tvg-name="HINDI ▎DISNEY JR" group-title="ASIA ▎INDIA",HINDI ▎DISNEY JR
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112884.ts
+#EXTINF:-1 tvg-id="112885" tvg-name="HINDI ▎ISHWAR TV" group-title="ASIA ▎INDIA",HINDI ▎ISHWAR TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112885.ts
+#EXTINF:-1 tvg-id="112886" tvg-name="HINDI ▎CARTOON NETWORK" group-title="ASIA ▎INDIA",HINDI ▎CARTOON NETWORK
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112886.ts
+#EXTINF:-1 tvg-id="112887" tvg-name="HINDI ▎REPUBLIC BHARAT" group-title="ASIA ▎INDIA",HINDI ▎REPUBLIC BHARAT
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112887.ts
+#EXTINF:-1 tvg-id="112888" tvg-name="HINDI ▎B4U MUSIC" group-title="ASIA ▎INDIA",HINDI ▎B4U MUSIC
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112888.ts
+#EXTINF:-1 tvg-id="112890" tvg-name="HINDI ▎INDIA NEWS" group-title="ASIA ▎INDIA",HINDI ▎INDIA NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112890.ts
+#EXTINF:-1 tvg-id="112891" tvg-name="HINDI ▎INDIA TV" group-title="ASIA ▎INDIA",HINDI ▎INDIA TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112891.ts
+#EXTINF:-1 tvg-id="112892" tvg-name="HINDI ▎DANGAL" group-title="ASIA ▎INDIA",HINDI ▎DANGAL
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112892.ts
+#EXTINF:-1 tvg-id="112893" tvg-name="HINDI ▎MASTII" group-title="ASIA ▎INDIA",HINDI ▎MASTII
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112893.ts
+#EXTINF:-1 tvg-id="112894" tvg-name="HINDI ▎NDTV INDIA" group-title="ASIA ▎INDIA",HINDI ▎NDTV INDIA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112894.ts
+#EXTINF:-1 tvg-id="112895" tvg-name="HINDI ▎INDIA NEWS MP" group-title="ASIA ▎INDIA",HINDI ▎INDIA NEWS MP
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112895.ts
+#EXTINF:-1 tvg-id="112896" tvg-name="HINDI ▎INDIA NEWS UP" group-title="ASIA ▎INDIA",HINDI ▎INDIA NEWS UP
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112896.ts
+#EXTINF:-1 tvg-id="112897" tvg-name="HINDI ▎INDIA NEWS HARYANA" group-title="ASIA ▎INDIA",HINDI ▎INDIA NEWS HARYANA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112897.ts
+#EXTINF:-1 tvg-id="112898" tvg-name="HINDI ▎NEWS X" group-title="ASIA ▎INDIA",HINDI ▎NEWS X
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112898.ts
+#EXTINF:-1 tvg-id="112899" tvg-name="HINDI ▎INDIA NEWS RAJASTHAN" group-title="ASIA ▎INDIA",HINDI ▎INDIA NEWS RAJASTHAN
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112899.ts
+#EXTINF:-1 tvg-id="112900" tvg-name="HINDI ▎SUDARSHAN NEWS" group-title="ASIA ▎INDIA",HINDI ▎SUDARSHAN NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112900.ts
+#EXTINF:-1 tvg-id="112901" tvg-name="HINDI ▎MAHAA NEWS" group-title="ASIA ▎INDIA",HINDI ▎MAHAA NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112901.ts
+#EXTINF:-1 tvg-id="112912" tvg-name="HINDI ▎NDTV GOOD TIMES" group-title="ASIA ▎INDIA",HINDI ▎NDTV GOOD TIMES
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112912.ts
+#EXTINF:-1 tvg-id="112915" tvg-name="HINDI ▎OM SHANTI" group-title="ASIA ▎INDIA",HINDI ▎OM SHANTI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112915.ts
+#EXTINF:-1 tvg-id="112916" tvg-name="HINDI ▎IBC 24" group-title="ASIA ▎INDIA",HINDI ▎IBC 24
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112916.ts
+#EXTINF:-1 tvg-id="112917" tvg-name="HINDI ▎NEWS 24" group-title="ASIA ▎INDIA",HINDI ▎NEWS 24
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112917.ts
+#EXTINF:-1 tvg-id="112921" tvg-name="HINDI ▎SHUBH TV" group-title="ASIA ▎INDIA",HINDI ▎SHUBH TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112921.ts
+#EXTINF:-1 tvg-id="112923" tvg-name="HINDI ▎RAMDHENU" group-title="ASIA ▎INDIA",HINDI ▎RAMDHENU
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112923.ts
+#EXTINF:-1 tvg-id="112924" tvg-name="HINDI ▎RENGONI" group-title="ASIA ▎INDIA",HINDI ▎RENGONI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112924.ts
+#EXTINF:-1 tvg-id="112925" tvg-name="HINDI ▎FOOD FOOD HD" group-title="ASIA ▎INDIA",HINDI ▎FOOD FOOD HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112925.ts
+#EXTINF:-1 tvg-id="112926" tvg-name="HINDI ▎KRISHNA VANI HD" group-title="ASIA ▎INDIA",HINDI ▎KRISHNA VANI HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112926.ts
+#EXTINF:-1 tvg-id="112928" tvg-name="HINDI ▎DILLI AAJ TAKK" group-title="ASIA ▎INDIA",HINDI ▎DILLI AAJ TAKK
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112928.ts
+#EXTINF:-1 tvg-id="112929" tvg-name="HINDI ▎PRAG NEWS" group-title="ASIA ▎INDIA",HINDI ▎PRAG NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112929.ts
+#EXTINF:-1 tvg-id="112930" tvg-name="HINDI ▎RANG" group-title="ASIA ▎INDIA",HINDI ▎RANG
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112930.ts
+#EXTINF:-1 tvg-id="112931" tvg-name="HINDI ▎NEWS 18 LIVE" group-title="ASIA ▎INDIA",HINDI ▎NEWS 18 LIVE
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112931.ts
+#EXTINF:-1 tvg-id="112932" tvg-name="HINDI ▎NDTV PROFIT" group-title="ASIA ▎INDIA",HINDI ▎NDTV PROFIT
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112932.ts
+#EXTINF:-1 tvg-id="112933" tvg-name="HINDI ▎NDTV 24x7" group-title="ASIA ▎INDIA",HINDI ▎NDTV 24x7
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112933.ts
+#EXTINF:-1 tvg-id="112934" tvg-name="HINDI ▎INDIA TODAY" group-title="ASIA ▎INDIA",HINDI ▎INDIA TODAY
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112934.ts
+#EXTINF:-1 tvg-id="112935" tvg-name="HINDI ▎9X MUSIC" group-title="ASIA ▎INDIA",HINDI ▎9X MUSIC
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112935.ts
+#EXTINF:-1 tvg-id="112936" tvg-name="HINDI ▎E NEWS 24" group-title="ASIA ▎INDIA",HINDI ▎E NEWS 24
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112936.ts
+#EXTINF:-1 tvg-id="112937" tvg-name="HINDI ▎ZEE BUSINESS" group-title="ASIA ▎INDIA",HINDI ▎ZEE BUSINESS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112937.ts
+#EXTINF:-1 tvg-id="112938" tvg-name="HINDI ▎SANSKAR TV" group-title="ASIA ▎INDIA",HINDI ▎SANSKAR TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112938.ts
+#EXTINF:-1 tvg-id="112940" tvg-name="HINDI ▎SATSANG TV" group-title="ASIA ▎INDIA",HINDI ▎SATSANG TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112940.ts
+#EXTINF:-1 tvg-id="112942" tvg-name="HINDI ▎DISCOVERY KIDS" group-title="ASIA ▎INDIA",HINDI ▎DISCOVERY KIDS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112942.ts
+#EXTINF:-1 tvg-id="143808" tvg-name="HINDI ▎CHANNEL WIN" group-title="ASIA ▎INDIA",HINDI ▎CHANNEL WIN
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143808.ts
+#EXTINF:-1 tvg-id="143806" tvg-name="HINDI ▎STAR GOLD 2" group-title="ASIA ▎INDIA",HINDI ▎STAR GOLD 2
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143806.ts
+#EXTINF:-1 tvg-id="143805" tvg-name="HINDI ▎AND EXPLORER HD" group-title="ASIA ▎INDIA",HINDI ▎AND EXPLORER HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143805.ts
+#EXTINF:-1 tvg-id="143804" tvg-name="HINDI ▎ZEE ETC BOLLYWOOD ◉ rec" group-title="ASIA ▎INDIA",HINDI ▎ZEE ETC BOLLYWOOD ◉ rec
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143804.ts
+#EXTINF:-1 tvg-id="143802" tvg-name="HINDI ▎MIRROR NOW" group-title="ASIA ▎INDIA",HINDI ▎MIRROR NOW
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143802.ts
+#EXTINF:-1 tvg-id="143799" tvg-name="HINDI ▎ZEE YUVA" group-title="ASIA ▎INDIA",HINDI ▎ZEE YUVA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143799.ts
+#EXTINF:-1 tvg-id="143798" tvg-name="HINDI ▎PRARTHANA BHAWAN" group-title="ASIA ▎INDIA",HINDI ▎PRARTHANA BHAWAN
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143798.ts
+#EXTINF:-1 tvg-id="143796" tvg-name="HINDI ▎REPUBLIC NEWS" group-title="ASIA ▎INDIA",HINDI ▎REPUBLIC NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143796.ts
+#EXTINF:-1 tvg-id="143793" tvg-name="HINDI ▎IDN LOKMAT" group-title="ASIA ▎INDIA",HINDI ▎IDN LOKMAT
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143793.ts
+#EXTINF:-1 tvg-id="143791" tvg-name="HINDI ▎ZEE NEWS MP" group-title="ASIA ▎INDIA",HINDI ▎ZEE NEWS MP
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143791.ts
+#EXTINF:-1 tvg-id="143789" tvg-name="HINDI ▎DIVYA TV" group-title="ASIA ▎INDIA",HINDI ▎DIVYA TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143789.ts
+#EXTINF:-1 tvg-id="143788" tvg-name="HINDI ▎TARANG TV" group-title="ASIA ▎INDIA",HINDI ▎TARANG TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143788.ts
+#EXTINF:-1 tvg-id="143787" tvg-name="HINDI ▎ALANKAR TV" group-title="ASIA ▎INDIA",HINDI ▎ALANKAR TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143787.ts
+#EXTINF:-1 tvg-id="143785" tvg-name="HINDI ▎TARANG MUSIC" group-title="ASIA ▎INDIA",HINDI ▎TARANG MUSIC
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143785.ts
+#EXTINF:-1 tvg-id="143784" tvg-name="HINDI ▎SARTHAK TV" group-title="ASIA ▎INDIA",HINDI ▎SARTHAK TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143784.ts
+#EXTINF:-1 tvg-id="143780" tvg-name="HINDI ▎ZEE KALINGA" group-title="ASIA ▎INDIA",HINDI ▎ZEE KALINGA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143780.ts
+#EXTINF:-1 tvg-id="1441415" tvg-name="HINDI ▎TATA PLAY CLASSIC TV" group-title="ASIA ▎INDIA",HINDI ▎TATA PLAY CLASSIC TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441415.ts
+#EXTINF:-1 tvg-id="1441416" tvg-name="HINDI ▎TATA PLAY SOUTH TALKIES" group-title="ASIA ▎INDIA",HINDI ▎TATA PLAY SOUTH TALKIES
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441416.ts
+#EXTINF:-1 tvg-id="1441417" tvg-name="HINDI ▎AIRTEL HOLLYWOOD MASALA" group-title="ASIA ▎INDIA",HINDI ▎AIRTEL HOLLYWOOD MASALA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441417.ts
+#EXTINF:-1 tvg-id="1441418" tvg-name="HINDI ▎AIRTEL COMEDY MASALA" group-title="ASIA ▎INDIA",HINDI ▎AIRTEL COMEDY MASALA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441418.ts
+#EXTINF:-1 tvg-id="1441419" tvg-name="HINDI ▎DD YADAGIRI" group-title="ASIA ▎INDIA",HINDI ▎DD YADAGIRI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441419.ts
+#EXTINF:-1 tvg-id="1441420" tvg-name="HINDI ▎DD UTTARAKHAND" group-title="ASIA ▎INDIA",HINDI ▎DD UTTARAKHAND
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441420.ts
+#EXTINF:-1 tvg-id="1441421" tvg-name="HINDI ▎DD SAPTIGIRI" group-title="ASIA ▎INDIA",HINDI ▎DD SAPTIGIRI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441421.ts
+#EXTINF:-1 tvg-id="1441422" tvg-name="HINDI ▎DD TRIPURA" group-title="ASIA ▎INDIA",HINDI ▎DD TRIPURA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441422.ts
+#EXTINF:-1 tvg-id="1441423" tvg-name="HINDI ▎DD NAGALAND" group-title="ASIA ▎INDIA",HINDI ▎DD NAGALAND
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441423.ts
+#EXTINF:-1 tvg-id="1441424" tvg-name="HINDI ▎DD MEZORAM" group-title="ASIA ▎INDIA",HINDI ▎DD MEZORAM
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441424.ts
+#EXTINF:-1 tvg-id="1441425" tvg-name="HINDI ▎DD MEGHALAYA" group-title="ASIA ▎INDIA",HINDI ▎DD MEGHALAYA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441425.ts
+#EXTINF:-1 tvg-id="1441426" tvg-name="HINDI ▎DD MANIPUR" group-title="ASIA ▎INDIA",HINDI ▎DD MANIPUR
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441426.ts
+#EXTINF:-1 tvg-id="1441427" tvg-name="HINDI ▎DD KISHAR" group-title="ASIA ▎INDIA",HINDI ▎DD KISHAR
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441427.ts
+#EXTINF:-1 tvg-id="1441428" tvg-name="HINDI ▎DD KISAN" group-title="ASIA ▎INDIA",HINDI ▎DD KISAN
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441428.ts
+#EXTINF:-1 tvg-id="1441429" tvg-name="HINDI ▎DD JHARKHAND" group-title="ASIA ▎INDIA",HINDI ▎DD JHARKHAND
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441429.ts
+#EXTINF:-1 tvg-id="1441430" tvg-name="HINDI ▎DD HARYANA" group-title="ASIA ▎INDIA",HINDI ▎DD HARYANA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441430.ts
+#EXTINF:-1 tvg-id="1441431" tvg-name="HINDI ▎DD HIMACHAL PARDESH" group-title="ASIA ▎INDIA",HINDI ▎DD HIMACHAL PARDESH
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441431.ts
+#EXTINF:-1 tvg-id="1441432" tvg-name="HINDI ▎DD GOA" group-title="ASIA ▎INDIA",HINDI ▎DD GOA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441432.ts
+#EXTINF:-1 tvg-id="1441433" tvg-name="HINDI ▎DD CHATTISGARH" group-title="ASIA ▎INDIA",HINDI ▎DD CHATTISGARH
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441433.ts
+#EXTINF:-1 tvg-id="1441434" tvg-name="HINDI ▎CNBC TV 18" group-title="ASIA ▎INDIA",HINDI ▎CNBC TV 18
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441434.ts
+#EXTINF:-1 tvg-id="1441435" tvg-name="HINDI ▎DANGAL 2 HD" group-title="ASIA ▎INDIA",HINDI ▎DANGAL 2 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441435.ts
+#EXTINF:-1 tvg-id="1441436" tvg-name="HINDI ▎ISHAARA TV " group-title="ASIA ▎INDIA",HINDI ▎ISHAARA TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441436.ts
+#EXTINF:-1 tvg-id="1441437" tvg-name="HINDI ▎ZEE TV INDIA " group-title="ASIA ▎INDIA",HINDI ▎ZEE TV INDIA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441437.ts
+#EXTINF:-1 tvg-id="1441439" tvg-name="HINDI ▎TIMES NOW NAVBHARAT HD" group-title="ASIA ▎INDIA",HINDI ▎TIMES NOW NAVBHARAT HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441439.ts
+#EXTINF:-1 tvg-id="1441440" tvg-name="HINDI ▎DHINCHAK 2 MOVIES" group-title="ASIA ▎INDIA",HINDI ▎DHINCHAK 2 MOVIES
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441440.ts
+#EXTINF:-1 tvg-id="1441441" tvg-name="HINDI ▎GOLDMINE MOVIES" group-title="ASIA ▎INDIA",HINDI ▎GOLDMINE MOVIES
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441441.ts
+#EXTINF:-1 tvg-id="1441442" tvg-name="HINDI ▎SADHNA PRIME NEWS" group-title="ASIA ▎INDIA",HINDI ▎SADHNA PRIME NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441442.ts
+#EXTINF:-1 tvg-id="1441443" tvg-name="HINDI ▎MANORANJAN GRAND" group-title="ASIA ▎INDIA",HINDI ▎MANORANJAN GRAND
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441443.ts
+#EXTINF:-1 tvg-id="1441444" tvg-name="HINDI ▎FIRST INDIA NEWS" group-title="ASIA ▎INDIA",HINDI ▎FIRST INDIA NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441444.ts
+#EXTINF:-1 tvg-id="1441445" tvg-name="HINDI ▎ENTER 10" group-title="ASIA ▎INDIA",HINDI ▎ENTER 10
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441445.ts
+#EXTINF:-1 tvg-id="1441446" tvg-name="HINDI ▎MH1 SHRADDHA 4" group-title="ASIA ▎INDIA",HINDI ▎MH1 SHRADDHA 4
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441446.ts
+#EXTINF:-1 tvg-id="1441448" tvg-name="HINDI ▎SHUBH CINEMA TV" group-title="ASIA ▎INDIA",HINDI ▎SHUBH CINEMA TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441448.ts
+#EXTINF:-1 tvg-id="1441449" tvg-name="HINDI ▎NEWS STATE UP UK" group-title="ASIA ▎INDIA",HINDI ▎NEWS STATE UP UK
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441449.ts
+#EXTINF:-1 tvg-id="1441450" tvg-name="HINDI ▎NEWS STATE MP CHG" group-title="ASIA ▎INDIA",HINDI ▎NEWS STATE MP CHG
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441450.ts
+#EXTINF:-1 tvg-id="1441452" tvg-name="HINDI ▎ZEE BOLLYWOOD" group-title="ASIA ▎INDIA",HINDI ▎ZEE BOLLYWOOD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441452.ts
+#EXTINF:-1 tvg-id="1441453" tvg-name="HINDI ▎TOTAL TV HARYANA" group-title="ASIA ▎INDIA",HINDI ▎TOTAL TV HARYANA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441453.ts
+#EXTINF:-1 tvg-id="1441454" tvg-name="HINDI ▎NEWS INDIA 24x7" group-title="ASIA ▎INDIA",HINDI ▎NEWS INDIA 24x7
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441454.ts
+#EXTINF:-1 tvg-id="1441455" tvg-name="HINDI ▎FIRANGI" group-title="ASIA ▎INDIA",HINDI ▎FIRANGI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441455.ts
+#EXTINF:-1 tvg-id="1441456" tvg-name="HINDI ▎ANAADI TV" group-title="ASIA ▎INDIA",HINDI ▎ANAADI TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441456.ts
+#EXTINF:-1 tvg-id="1441457" tvg-name="HINDI ▎HUNGAMA KADAK HITS" group-title="ASIA ▎INDIA",HINDI ▎HUNGAMA KADAK HITS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441457.ts
+#EXTINF:-1 tvg-id="1441458" tvg-name="HINDI ▎B4U KADAK" group-title="ASIA ▎INDIA",HINDI ▎B4U KADAK
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441458.ts
+#EXTINF:-1 tvg-id="1441459" tvg-name="HINDI ▎INDIA WIZ" group-title="ASIA ▎INDIA",HINDI ▎INDIA WIZ
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441459.ts
+#EXTINF:-1 tvg-id="1441460" tvg-name="HINDI ▎BFLIX HD" group-title="ASIA ▎INDIA",HINDI ▎BFLIX HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441460.ts
+#EXTINF:-1 tvg-id="1441461" tvg-name="HINDI ▎HUNGAMA KIDS" group-title="ASIA ▎INDIA",HINDI ▎HUNGAMA KIDS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441461.ts
+#EXTINF:-1 tvg-id="1441462" tvg-name="HINDI ▎SVBC" group-title="ASIA ▎INDIA",HINDI ▎SVBC
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441462.ts
+#EXTINF:-1 tvg-id="1441463" tvg-name="HINDI ▎DISCOVERY ID HD" group-title="ASIA ▎INDIA",HINDI ▎DISCOVERY ID HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441463.ts
+#EXTINF:-1 tvg-id="1441464" tvg-name="HINDI ▎NICK PLUS HD" group-title="ASIA ▎INDIA",HINDI ▎NICK PLUS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441464.ts
+#EXTINF:-1 tvg-id="1441465" tvg-name="HINDI ▎TATA PLAY BOLLYWOOD PREMIER FHD" group-title="ASIA ▎INDIA",HINDI ▎TATA PLAY BOLLYWOOD PREMIER FHD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441465.ts
+#EXTINF:-1 tvg-id="1441466" tvg-name="HINDI ▎DISNEY JUNIOR" group-title="ASIA ▎INDIA",HINDI ▎DISNEY JUNIOR
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441466.ts
+#EXTINF:-1 tvg-id="1441467" tvg-name="HINDI ▎DABANGG" group-title="ASIA ▎INDIA",HINDI ▎DABANGG
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441467.ts
+#EXTINF:-1 tvg-id="1441470" tvg-name="HINDI ▎SAHARA NEWS NATIONAL" group-title="ASIA ▎INDIA",HINDI ▎SAHARA NEWS NATIONAL
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441470.ts
+#EXTINF:-1 tvg-id="1441471" tvg-name="HINDI ▎SAHARA ONE" group-title="ASIA ▎INDIA",HINDI ▎SAHARA ONE
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441471.ts
+#EXTINF:-1 tvg-id="1441472" tvg-name="HINDI ▎SAHARA BIHAR" group-title="ASIA ▎INDIA",HINDI ▎SAHARA BIHAR
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441472.ts
+#EXTINF:-1 tvg-id="1441473" tvg-name="HINDI ▎SAHARA MP" group-title="ASIA ▎INDIA",HINDI ▎SAHARA MP
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441473.ts
+#EXTINF:-1 tvg-id="1441474" tvg-name="HINDI ▎SAHARA MUMBAI" group-title="ASIA ▎INDIA",HINDI ▎SAHARA MUMBAI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441474.ts
+#EXTINF:-1 tvg-id="1441475" tvg-name="HINDI ▎SAHARA NCR" group-title="ASIA ▎INDIA",HINDI ▎SAHARA NCR
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441475.ts
+#EXTINF:-1 tvg-id="1441476" tvg-name="HINDI ▎SAHARA UP" group-title="ASIA ▎INDIA",HINDI ▎SAHARA UP
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441476.ts
+#EXTINF:-1 tvg-id="1441477" tvg-name="HINDI ▎SAHARA SAMAY ALAMI" group-title="ASIA ▎INDIA",HINDI ▎SAHARA SAMAY ALAMI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441477.ts
+#EXTINF:-1 tvg-id="1441478" tvg-name="HINDI ▎SAHARA FILMY" group-title="ASIA ▎INDIA",HINDI ▎SAHARA FILMY
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441478.ts
+#EXTINF:-1 tvg-id="1441479" tvg-name="HINDI ▎HINDI KHABAR" group-title="ASIA ▎INDIA",HINDI ▎HINDI KHABAR
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441479.ts
+#EXTINF:-1 tvg-id="1441480" tvg-name="HINDI ▎SOHAM TV" group-title="ASIA ▎INDIA",HINDI ▎SOHAM TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441480.ts
+#EXTINF:-1 tvg-id="1441481" tvg-name="HINDI ▎NEWS 18 RAJASTHAN" group-title="ASIA ▎INDIA",HINDI ▎NEWS 18 RAJASTHAN
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441481.ts
+#EXTINF:-1 tvg-id="1441482" tvg-name="HINDI ▎JANTA TV" group-title="ASIA ▎INDIA",HINDI ▎JANTA TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441482.ts
+#EXTINF:-1 tvg-id="1441483" tvg-name="HINDI ▎HARE KRISHNA HD" group-title="ASIA ▎INDIA",HINDI ▎HARE KRISHNA HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441483.ts
+#EXTINF:-1 tvg-id="1441484" tvg-name="HINDI ▎SHOWBOX" group-title="ASIA ▎INDIA",HINDI ▎SHOWBOX
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441484.ts
+#EXTINF:-1 tvg-id="1441485" tvg-name="HINDI ▎INDIA VOICE" group-title="ASIA ▎INDIA",HINDI ▎INDIA VOICE
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441485.ts
+#EXTINF:-1 tvg-id="1441486" tvg-name="HINDI ▎APN NEWS" group-title="ASIA ▎INDIA",HINDI ▎APN NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441486.ts
+#EXTINF:-1 tvg-id="1441487" tvg-name="HINDI ▎BHAKTI SAGAR HD" group-title="ASIA ▎INDIA",HINDI ▎BHAKTI SAGAR HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441487.ts
+#EXTINF:-1 tvg-id="1441488" tvg-name="HINDI ▎HUNGAMA DIL SE HD" group-title="ASIA ▎INDIA",HINDI ▎HUNGAMA DIL SE HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441488.ts
+#EXTINF:-1 tvg-id="1441489" tvg-name="HINDI ▎HUNGAMA NAZRANA HD" group-title="ASIA ▎INDIA",HINDI ▎HUNGAMA NAZRANA HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441489.ts
+#EXTINF:-1 tvg-id="1441490" tvg-name="HINDI ▎NEWS 18 BIHAR" group-title="ASIA ▎INDIA",HINDI ▎NEWS 18 BIHAR
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441490.ts
+#EXTINF:-1 tvg-id="1441491" tvg-name="HINDI ▎NEWS 18 MP & CHATTISGARH" group-title="ASIA ▎INDIA",HINDI ▎NEWS 18 MP & CHATTISGARH
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441491.ts
+#EXTINF:-1 tvg-id="1441492" tvg-name="HINDI ▎NEWS 18 UP & UK" group-title="ASIA ▎INDIA",HINDI ▎NEWS 18 UP & UK
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441492.ts
+#EXTINF:-1 tvg-id="1441496" tvg-name="HINDI ▎9X TASHAN" group-title="ASIA ▎INDIA",HINDI ▎9X TASHAN
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441496.ts
+#EXTINF:-1 tvg-id="1441501" tvg-name="HINDI ▎HUNGAMA POP PATAKA" group-title="ASIA ▎INDIA",HINDI ▎HUNGAMA POP PATAKA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441501.ts
+#EXTINF:-1 tvg-id="1441570" tvg-name="HINDI ▎NAZARA TV" group-title="ASIA ▎INDIA",HINDI ▎NAZARA TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441570.ts
+#EXTINF:-1 tvg-id="99662" tvg-name="PK ▎ARY DIGITAL" group-title="ASIA ▎PAKISTAN",PK ▎ARY DIGITAL
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99662.ts
+#EXTINF:-1 tvg-id="99660" tvg-name="PK ▎ARY NEWS" group-title="ASIA ▎PAKISTAN",PK ▎ARY NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99660.ts
+#EXTINF:-1 tvg-id="99721" tvg-name="PK ▎HUM NEWS HD" group-title="ASIA ▎PAKISTAN",PK ▎HUM NEWS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99721.ts
+#EXTINF:-1 tvg-id="99674" tvg-name="PK ▎HUM TV HD" group-title="ASIA ▎PAKISTAN",PK ▎HUM TV HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99674.ts
+#EXTINF:-1 tvg-id="99673" tvg-name="PK ▎HUM SITARY" group-title="ASIA ▎PAKISTAN",PK ▎HUM SITARY
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99673.ts
+#EXTINF:-1 tvg-id="99748" tvg-name="PK ▎HUM MASALA TV" group-title="ASIA ▎PAKISTAN",PK ▎HUM MASALA TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99748.ts
+#EXTINF:-1 tvg-id="99711" tvg-name="PK ▎92 NEWS HD" group-title="ASIA ▎PAKISTAN",PK ▎92 NEWS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99711.ts
+#EXTINF:-1 tvg-id="99666" tvg-name="PK ▎DUNYA NEWS" group-title="ASIA ▎PAKISTAN",PK ▎DUNYA NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99666.ts
+#EXTINF:-1 tvg-id="99663" tvg-name="PK ▎BOL NEWS FHD" group-title="ASIA ▎PAKISTAN",PK ▎BOL NEWS FHD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99663.ts
+#EXTINF:-1 tvg-id="99737" tvg-name="PK ▎BOL NEWS HD" group-title="ASIA ▎PAKISTAN",PK ▎BOL NEWS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99737.ts
+#EXTINF:-1 tvg-id="99651" tvg-name="PK ▎AAJ ENTERTAINMENT" group-title="ASIA ▎PAKISTAN",PK ▎AAJ ENTERTAINMENT
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99651.ts
+#EXTINF:-1 tvg-id="99667" tvg-name="PK ▎EXPRESS ENTERTAINMENT" group-title="ASIA ▎PAKISTAN",PK ▎EXPRESS ENTERTAINMENT
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99667.ts
+#EXTINF:-1 tvg-id="99668" tvg-name="PK ▎EXPRESS NEWS" group-title="ASIA ▎PAKISTAN",PK ▎EXPRESS NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99668.ts
+#EXTINF:-1 tvg-id="99657" tvg-name="PK ▎ATV ENTERTAINMENT" group-title="ASIA ▎PAKISTAN",PK ▎ATV ENTERTAINMENT
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99657.ts
+#EXTINF:-1 tvg-id="99656" tvg-name="PK ▎ARY ZINDAGI" group-title="ASIA ▎PAKISTAN",PK ▎ARY ZINDAGI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99656.ts
+#EXTINF:-1 tvg-id="99655" tvg-name="PK ▎A PLUS" group-title="ASIA ▎PAKISTAN",PK ▎A PLUS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99655.ts
+#EXTINF:-1 tvg-id="99692" tvg-name="PK ▎URDU 1 HD" group-title="ASIA ▎PAKISTAN",PK ▎URDU 1 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99692.ts
+#EXTINF:-1 tvg-id="99670" tvg-name="PK ▎GEO NEWS" group-title="ASIA ▎PAKISTAN",PK ▎GEO NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99670.ts
+#EXTINF:-1 tvg-id="99669" tvg-name="PK ▎GEO KAHANI" group-title="ASIA ▎PAKISTAN",PK ▎GEO KAHANI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99669.ts
+#EXTINF:-1 tvg-id="99690" tvg-name="PK ▎GEO ENTERTAINMENT" group-title="ASIA ▎PAKISTAN",PK ▎GEO ENTERTAINMENT
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99690.ts
+#EXTINF:-1 tvg-id="99652" tvg-name="PK ▎AAJ NEWS" group-title="ASIA ▎PAKISTAN",PK ▎AAJ NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99652.ts
+#EXTINF:-1 tvg-id="99665" tvg-name="PK ▎DAWN NEWS" group-title="ASIA ▎PAKISTAN",PK ▎DAWN NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99665.ts
+#EXTINF:-1 tvg-id="99697" tvg-name="PK ▎SAAMA NEWS" group-title="ASIA ▎PAKISTAN",PK ▎SAAMA NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99697.ts
+#EXTINF:-1 tvg-id="99740" tvg-name="PK ▎GTV HD" group-title="ASIA ▎PAKISTAN",PK ▎GTV HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99740.ts
+#EXTINF:-1 tvg-id="99689" tvg-name="PK ▎CAPITAL TV" group-title="ASIA ▎PAKISTAN",PK ▎CAPITAL TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99689.ts
+#EXTINF:-1 tvg-id="99688" tvg-name="PK ▎CITY 41" group-title="ASIA ▎PAKISTAN",PK ▎CITY 41
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99688.ts
+#EXTINF:-1 tvg-id="99687" tvg-name="PK ▎CITY 42" group-title="ASIA ▎PAKISTAN",PK ▎CITY 42
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99687.ts
+#EXTINF:-1 tvg-id="99685" tvg-name="PK ▎GNN HD" group-title="ASIA ▎PAKISTAN",PK ▎GNN HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99685.ts
+#EXTINF:-1 tvg-id="99743" tvg-name="PK ▎PUBLIC NEWS HD" group-title="ASIA ▎PAKISTAN",PK ▎PUBLIC NEWS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99743.ts
+#EXTINF:-1 tvg-id="99677" tvg-name="PK ▎KHYBER NEWS" group-title="ASIA ▎PAKISTAN",PK ▎KHYBER NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99677.ts
+#EXTINF:-1 tvg-id="99699" tvg-name="PK ▎PTV NEWS" group-title="ASIA ▎PAKISTAN",PK ▎PTV NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99699.ts
+#EXTINF:-1 tvg-id="99702" tvg-name="PK ▎ROZE NEWS" group-title="ASIA ▎PAKISTAN",PK ▎ROZE NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99702.ts
+#EXTINF:-1 tvg-id="99730" tvg-name="PK ▎KOHINOOR NEWS" group-title="ASIA ▎PAKISTAN",PK ▎KOHINOOR NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99730.ts
+#EXTINF:-1 tvg-id="99664" tvg-name="PK ▎CHANNEL 24 HD" group-title="ASIA ▎PAKISTAN",PK ▎CHANNEL 24 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99664.ts
+#EXTINF:-1 tvg-id="99661" tvg-name="PK ▎FILMAZIA ENTERTAINMENT " group-title="ASIA ▎PAKISTAN",PK ▎FILMAZIA ENTERTAINMENT
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99661.ts
+#EXTINF:-1 tvg-id="99658" tvg-name="PK ▎AVT KHYBER" group-title="ASIA ▎PAKISTAN",PK ▎AVT KHYBER
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99658.ts
+#EXTINF:-1 tvg-id="99654" tvg-name="PK ▎APNA CHANNEL" group-title="ASIA ▎PAKISTAN",PK ▎APNA CHANNEL
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99654.ts
+#EXTINF:-1 tvg-id="99653" tvg-name="PK ▎ABBTAKK NEWS" group-title="ASIA ▎PAKISTAN",PK ▎ABBTAKK NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99653.ts
+#EXTINF:-1 tvg-id="99707" tvg-name="PK ▎NEWS ONE" group-title="ASIA ▎PAKISTAN",PK ▎NEWS ONE
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99707.ts
+#EXTINF:-1 tvg-id="99709" tvg-name="PK ▎NEO NEWS HD" group-title="ASIA ▎PAKISTAN",PK ▎NEO NEWS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99709.ts
+#EXTINF:-1 tvg-id="99713" tvg-name="PK ▎LAHORE NEWS HD" group-title="ASIA ▎PAKISTAN",PK ▎LAHORE NEWS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99713.ts
+#EXTINF:-1 tvg-id="99744" tvg-name="PK ▎ROHI TV" group-title="ASIA ▎PAKISTAN",PK ▎ROHI TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99744.ts
+#EXTINF:-1 tvg-id="99741" tvg-name="PK ▎LAHROE RANG HD" group-title="ASIA ▎PAKISTAN",PK ▎LAHROE RANG HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99741.ts
+#EXTINF:-1 tvg-id="99686" tvg-name="PK ▎GEO TEZZ" group-title="ASIA ▎PAKISTAN",PK ▎GEO TEZZ
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99686.ts
+#EXTINF:-1 tvg-id="99680" tvg-name="PK ▎CHANNEL 5" group-title="ASIA ▎PAKISTAN",PK ▎CHANNEL 5
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99680.ts
+#EXTINF:-1 tvg-id="99691" tvg-name="PK ▎TV ONE" group-title="ASIA ▎PAKISTAN",PK ▎TV ONE
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99691.ts
+#EXTINF:-1 tvg-id="99679" tvg-name="PK ▎KTN NEWS" group-title="ASIA ▎PAKISTAN",PK ▎KTN NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99679.ts
+#EXTINF:-1 tvg-id="99659" tvg-name="PK ▎ARY QTV" group-title="ASIA ▎PAKISTAN",PK ▎ARY QTV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99659.ts
+#EXTINF:-1 tvg-id="99682" tvg-name="PK ▎SAUDI QURAN" group-title="ASIA ▎PAKISTAN",PK ▎SAUDI QURAN
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99682.ts
+#EXTINF:-1 tvg-id="99681" tvg-name="PK ▎SAUDI SUNNAH" group-title="ASIA ▎PAKISTAN",PK ▎SAUDI SUNNAH
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99681.ts
+#EXTINF:-1 tvg-id="99763" tvg-name="PK ▎PEACE TV URDU" group-title="ASIA ▎PAKISTAN",PK ▎PEACE TV URDU
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99763.ts
+#EXTINF:-1 tvg-id="99735" tvg-name="PK ▎PEACE TV ENGLISH" group-title="ASIA ▎PAKISTAN",PK ▎PEACE TV ENGLISH
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99735.ts
+#EXTINF:-1 tvg-id="99649" tvg-name="PK ▎MADNI TV" group-title="ASIA ▎PAKISTAN",PK ▎MADNI TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99649.ts
+#EXTINF:-1 tvg-id="99675" tvg-name="PK ▎KASHISH" group-title="ASIA ▎PAKISTAN",PK ▎KASHISH
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99675.ts
+#EXTINF:-1 tvg-id="99672" tvg-name="PK ▎HADI TV" group-title="ASIA ▎PAKISTAN",PK ▎HADI TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99672.ts
+#EXTINF:-1 tvg-id="99706" tvg-name="PK ▎BOL ENTERTAINMENT HD" group-title="ASIA ▎PAKISTAN",PK ▎BOL ENTERTAINMENT HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99706.ts
+#EXTINF:-1 tvg-id="99705" tvg-name="PK ▎SINDH ENTERTAINMENT" group-title="ASIA ▎PAKISTAN",PK ▎SINDH ENTERTAINMENT
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99705.ts
+#EXTINF:-1 tvg-id="99678" tvg-name="PK ▎KTN ENTERTAINMENT" group-title="ASIA ▎PAKISTAN",PK ▎KTN ENTERTAINMENT
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99678.ts
+#EXTINF:-1 tvg-id="788678" tvg-name="PK ▎GREEN ENTERTAINMENT" group-title="ASIA ▎PAKISTAN",PK ▎GREEN ENTERTAINMENT
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/788678.ts
+#EXTINF:-1 tvg-id="99700" tvg-name="PK ▎PTV HOME" group-title="ASIA ▎PAKISTAN",PK ▎PTV HOME
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99700.ts
+#EXTINF:-1 tvg-id="99698" tvg-name="PK ▎PTV WORLD" group-title="ASIA ▎PAKISTAN",PK ▎PTV WORLD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99698.ts
+#EXTINF:-1 tvg-id="99753" tvg-name="PK ▎PTV SPORTS HD" group-title="ASIA ▎PAKISTAN",PK ▎PTV SPORTS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99753.ts
+#EXTINF:-1 tvg-id="99708" tvg-name="PK ▎PTV SPORTS" group-title="ASIA ▎PAKISTAN",PK ▎PTV SPORTS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99708.ts
+#EXTINF:-1 tvg-id="501756" tvg-name="PK ▎A-SPORTS" group-title="ASIA ▎PAKISTAN",PK ▎A-SPORTS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/501756.ts
+#EXTINF:-1 tvg-id="99694" tvg-name="PK ▎TEN SPORTS HD" group-title="ASIA ▎PAKISTAN",PK ▎TEN SPORTS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99694.ts
+#EXTINF:-1 tvg-id="99671" tvg-name="PK ▎GEO SUPER" group-title="ASIA ▎PAKISTAN",PK ▎GEO SUPER
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99671.ts
+#EXTINF:-1 tvg-id="99723" tvg-name="PK ▎ARY MUSIK" group-title="ASIA ▎PAKISTAN",PK ▎ARY MUSIK
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99723.ts
+#EXTINF:-1 tvg-id="99684" tvg-name="PK ▎JALWA MUSIC" group-title="ASIA ▎PAKISTAN",PK ▎JALWA MUSIC
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99684.ts
+#EXTINF:-1 tvg-id="99650" tvg-name="PK ▎8XM HD" group-title="ASIA ▎PAKISTAN",PK ▎8XM HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99650.ts
+#EXTINF:-1 tvg-id="99728" tvg-name="PK ▎FILMWORLD" group-title="ASIA ▎PAKISTAN",PK ▎FILMWORLD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99728.ts
+#EXTINF:-1 tvg-id="99727" tvg-name="PK ▎LTN FAMILY" group-title="ASIA ▎PAKISTAN",PK ▎LTN FAMILY
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99727.ts
+#EXTINF:-1 tvg-id="99703" tvg-name="PK ▎PASHTOO 1" group-title="ASIA ▎PAKISTAN",PK ▎PASHTOO 1
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99703.ts
+#EXTINF:-1 tvg-id="99716" tvg-name="PK ▎PAIGAM URDU" group-title="ASIA ▎PAKISTAN",PK ▎PAIGAM URDU
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99716.ts
+#EXTINF:-1 tvg-id="99715" tvg-name="PK ▎PAIGAM PASHTOO" group-title="ASIA ▎PAKISTAN",PK ▎PAIGAM PASHTOO
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99715.ts
+#EXTINF:-1 tvg-id="99695" tvg-name="PK ▎PLAY TV" group-title="ASIA ▎PAKISTAN",PK ▎PLAY TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99695.ts
+#EXTINF:-1 tvg-id="99734" tvg-name="PK ▎WASEEB TV" group-title="ASIA ▎PAKISTAN",PK ▎WASEEB TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99734.ts
+#EXTINF:-1 tvg-id="99719" tvg-name="PK ▎RAAVI" group-title="ASIA ▎PAKISTAN",PK ▎RAAVI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99719.ts
+#EXTINF:-1 tvg-id="99676" tvg-name="PK ▎KAY-2" group-title="ASIA ▎PAKISTAN",PK ▎KAY-2
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/99676.ts
+#EXTINF:-1 tvg-id="108777" tvg-name="BANGLA ▎UK| CHANNEL S" group-title="ASIA ▎BANGLA",BANGLA ▎UK| CHANNEL S
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108777.ts
+#EXTINF:-1 tvg-id="2434" tvg-name="BANGLA ▎UK| NTV" group-title="ASIA ▎BANGLA",BANGLA ▎UK| NTV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/2434.ts
+#EXTINF:-1 tvg-id="5227" tvg-name="BANGLA ▎UK| ATN BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎UK| ATN BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/5227.ts
+#EXTINF:-1 tvg-id="108778" tvg-name="BANGLA ▎UK| ION TV" group-title="ASIA ▎BANGLA",BANGLA ▎UK| ION TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108778.ts
+#EXTINF:-1 tvg-id="108779" tvg-name="BANGLA ▎UK| TV ONE" group-title="ASIA ▎BANGLA",BANGLA ▎UK| TV ONE
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108779.ts
+#EXTINF:-1 tvg-id="756461" tvg-name="BANGLA ▎UK| DEEN TV" group-title="ASIA ▎BANGLA",BANGLA ▎UK| DEEN TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/756461.ts
+#EXTINF:-1 tvg-id="108781" tvg-name="BANGLA ▎COLORS BANGLA HD" group-title="ASIA ▎BANGLA",BANGLA ▎COLORS BANGLA HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108781.ts
+#EXTINF:-1 tvg-id="108782" tvg-name="BANGLA ▎ZEE 24 GHANTA" group-title="ASIA ▎BANGLA",BANGLA ▎ZEE 24 GHANTA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108782.ts
+#EXTINF:-1 tvg-id="108783" tvg-name="BANGLA ▎JALSHA MOVIES" group-title="ASIA ▎BANGLA",BANGLA ▎JALSHA MOVIES
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108783.ts
+#EXTINF:-1 tvg-id="108785" tvg-name="BANGLA ▎AAKAASH BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎AAKAASH BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108785.ts
+#EXTINF:-1 tvg-id="108788" tvg-name="BANGLA ▎ABP ANANDA" group-title="ASIA ▎BANGLA",BANGLA ▎ABP ANANDA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108788.ts
+#EXTINF:-1 tvg-id="108790" tvg-name="BANGLA ▎ATN BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎ATN BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108790.ts
+#EXTINF:-1 tvg-id="108792" tvg-name="BANGLA ▎ATN NEWS" group-title="ASIA ▎BANGLA",BANGLA ▎ATN NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108792.ts
+#EXTINF:-1 tvg-id="108797" tvg-name="BANGLA ▎BIJOY TV" group-title="ASIA ▎BANGLA",BANGLA ▎BIJOY TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108797.ts
+#EXTINF:-1 tvg-id="108798" tvg-name="BANGLA ▎AAMAR BANGLA TV" group-title="ASIA ▎BANGLA",BANGLA ▎AAMAR BANGLA TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108798.ts
+#EXTINF:-1 tvg-id="108799" tvg-name="BANGLA ▎BOISHAKHI TV" group-title="ASIA ▎BANGLA",BANGLA ▎BOISHAKHI TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108799.ts
+#EXTINF:-1 tvg-id="108800" tvg-name="BANGLA ▎BTV WORLD" group-title="ASIA ▎BANGLA",BANGLA ▎BTV WORLD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108800.ts
+#EXTINF:-1 tvg-id="108801" tvg-name="BANGLA ▎BTV" group-title="ASIA ▎BANGLA",BANGLA ▎BTV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108801.ts
+#EXTINF:-1 tvg-id="108803" tvg-name="BANGLA ▎CHANNEL 9" group-title="ASIA ▎BANGLA",BANGLA ▎CHANNEL 9
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108803.ts
+#EXTINF:-1 tvg-id="108805" tvg-name="BANGLA ▎CHANNEL I" group-title="ASIA ▎BANGLA",BANGLA ▎CHANNEL I
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108805.ts
+#EXTINF:-1 tvg-id="108806" tvg-name="BANGLA ▎MON TV" group-title="ASIA ▎BANGLA",BANGLA ▎MON TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108806.ts
+#EXTINF:-1 tvg-id="108808" tvg-name="BANGLA ▎DBC NEWS" group-title="ASIA ▎BANGLA",BANGLA ▎DBC NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108808.ts
+#EXTINF:-1 tvg-id="108809" tvg-name="BANGLA ▎DD BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎DD BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108809.ts
+#EXTINF:-1 tvg-id="108810" tvg-name="BANGLA ▎DESH TV" group-title="ASIA ▎BANGLA",BANGLA ▎DESH TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108810.ts
+#EXTINF:-1 tvg-id="108812" tvg-name="BANGLA ▎DESHI TV" group-title="ASIA ▎BANGLA",BANGLA ▎DESHI TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108812.ts
+#EXTINF:-1 tvg-id="108813" tvg-name="BANGLA ▎DHOOM MUSIC" group-title="ASIA ▎BANGLA",BANGLA ▎DHOOM MUSIC
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108813.ts
+#EXTINF:-1 tvg-id="108815" tvg-name="BANGLA ▎EKATTOR TV" group-title="ASIA ▎BANGLA",BANGLA ▎EKATTOR TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108815.ts
+#EXTINF:-1 tvg-id="108816" tvg-name="BANGLA ▎ETV BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎ETV BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108816.ts
+#EXTINF:-1 tvg-id="108818" tvg-name="BANGLA ▎GAAN BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎GAAN BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108818.ts
+#EXTINF:-1 tvg-id="108819" tvg-name="BANGLA ▎INDEPENDENT TV" group-title="ASIA ▎BANGLA",BANGLA ▎INDEPENDENT TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108819.ts
+#EXTINF:-1 tvg-id="108820" tvg-name="BANGLA ▎BTV NEWS" group-title="ASIA ▎BANGLA",BANGLA ▎BTV NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108820.ts
+#EXTINF:-1 tvg-id="108823" tvg-name="BANGLA ▎MILLENNIUM TV" group-title="ASIA ▎BANGLA",BANGLA ▎MILLENNIUM TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108823.ts
+#EXTINF:-1 tvg-id="108824" tvg-name="BANGLA ▎MOHONA TV" group-title="ASIA ▎BANGLA",BANGLA ▎MOHONA TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108824.ts
+#EXTINF:-1 tvg-id="108825" tvg-name="BANGLA ▎MOVIE BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎MOVIE BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108825.ts
+#EXTINF:-1 tvg-id="108828" tvg-name="BANGLA ▎NEWS TIME" group-title="ASIA ▎BANGLA",BANGLA ▎NEWS TIME
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108828.ts
+#EXTINF:-1 tvg-id="108829" tvg-name="BANGLA ▎NRB TV" group-title="ASIA ▎BANGLA",BANGLA ▎NRB TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108829.ts
+#EXTINF:-1 tvg-id="108830" tvg-name="BANGLA ▎NTV" group-title="ASIA ▎BANGLA",BANGLA ▎NTV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108830.ts
+#EXTINF:-1 tvg-id="108833" tvg-name="BANGLA ▎RTV" group-title="ASIA ▎BANGLA",BANGLA ▎RTV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108833.ts
+#EXTINF:-1 tvg-id="108834" tvg-name="BANGLA ▎RUPOSHI BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎RUPOSHI BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108834.ts
+#EXTINF:-1 tvg-id="108836" tvg-name="BANGLA ▎SATV" group-title="ASIA ▎BANGLA",BANGLA ▎SATV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108836.ts
+#EXTINF:-1 tvg-id="108838" tvg-name="BANGLA ▎NEWS18 BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎NEWS18 BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108838.ts
+#EXTINF:-1 tvg-id="108839" tvg-name="BANGLA ▎SONY AATH" group-title="ASIA ▎BANGLA",BANGLA ▎SONY AATH
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108839.ts
+#EXTINF:-1 tvg-id="108842" tvg-name="BANGLA ▎CALCUTTA NEWS" group-title="ASIA ▎BANGLA",BANGLA ▎CALCUTTA NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108842.ts
+#EXTINF:-1 tvg-id="108845" tvg-name="BANGLA ▎ZEE BANGLA CINEMA" group-title="ASIA ▎BANGLA",BANGLA ▎ZEE BANGLA CINEMA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108845.ts
+#EXTINF:-1 tvg-id="108849" tvg-name="BANGLA ▎NEWS 24 HD" group-title="ASIA ▎BANGLA",BANGLA ▎NEWS 24 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108849.ts
+#EXTINF:-1 tvg-id="108850" tvg-name="BANGLA ▎ZEE BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎ZEE BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108850.ts
+#EXTINF:-1 tvg-id="108853" tvg-name="BANGLA ▎JAMUNA TV" group-title="ASIA ▎BANGLA",BANGLA ▎JAMUNA TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108853.ts
+#EXTINF:-1 tvg-id="108860" tvg-name="BANGLA ▎ZEE BANGLA HD" group-title="ASIA ▎BANGLA",BANGLA ▎ZEE BANGLA HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108860.ts
+#EXTINF:-1 tvg-id="108864" tvg-name="BANGLA ▎BANGLA TV HD" group-title="ASIA ▎BANGLA",BANGLA ▎BANGLA TV HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108864.ts
+#EXTINF:-1 tvg-id="108866" tvg-name="BANGLA ▎MADANI TV BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎MADANI TV BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108866.ts
+#EXTINF:-1 tvg-id="108868" tvg-name="BANGLA ▎STAR JALSHA HD" group-title="ASIA ▎BANGLA",BANGLA ▎STAR JALSHA HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108868.ts
+#EXTINF:-1 tvg-id="108878" tvg-name="BANGLA ▎ANANDA TV" group-title="ASIA ▎BANGLA",BANGLA ▎ANANDA TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/108878.ts
+#EXTINF:-1 tvg-id="126098" tvg-name="BANGLA ▎SUN BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎SUN BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/126098.ts
+#EXTINF:-1 tvg-id="126105" tvg-name="BANGLA ▎ENTER 10 BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎ENTER 10 BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/126105.ts
+#EXTINF:-1 tvg-id="756462" tvg-name="BANGLA ▎T-SPORTS 2" group-title="ASIA ▎BANGLA",BANGLA ▎T-SPORTS 2
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/756462.ts
+#EXTINF:-1 tvg-id="1440964" tvg-name="BANGLA ▎DISCOVERY BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎DISCOVERY BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440964.ts
+#EXTINF:-1 tvg-id="1440965" tvg-name="BANGLA ▎TIMES 24" group-title="ASIA ▎BANGLA",BANGLA ▎TIMES 24
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440965.ts
+#EXTINF:-1 tvg-id="1440966" tvg-name="BANGLA ▎TV9 BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎TV9 BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440966.ts
+#EXTINF:-1 tvg-id="1440967" tvg-name="BANGLA ▎IQRA TV BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎IQRA TV BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440967.ts
+#EXTINF:-1 tvg-id="1440968" tvg-name="BANGLA ▎COLORS BANGLA CINEMA" group-title="ASIA ▎BANGLA",BANGLA ▎COLORS BANGLA CINEMA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440968.ts
+#EXTINF:-1 tvg-id="1440970" tvg-name="BANGLA ▎ISLAM TV EU" group-title="ASIA ▎BANGLA",BANGLA ▎ISLAM TV EU
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440970.ts
+#EXTINF:-1 tvg-id="1440975" tvg-name="BANGLA ▎BTV CHATTOGRAM" group-title="ASIA ▎BANGLA",BANGLA ▎BTV CHATTOGRAM
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440975.ts
+#EXTINF:-1 tvg-id="1440977" tvg-name="BANGLA ▎Sonic Bangla" group-title="ASIA ▎BANGLA",BANGLA ▎Sonic Bangla
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440977.ts
+#EXTINF:-1 tvg-id="1440978" tvg-name="BANGLA ▎REPUBLIC BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎REPUBLIC BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440978.ts
+#EXTINF:-1 tvg-id="1440980" tvg-name="BANGLA ▎BISWA BANGLA 24" group-title="ASIA ▎BANGLA",BANGLA ▎BISWA BANGLA 24
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440980.ts
+#EXTINF:-1 tvg-id="1440981" tvg-name="BANGLA ▎NEXUS TV" group-title="ASIA ▎BANGLA",BANGLA ▎NEXUS TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440981.ts
+#EXTINF:-1 tvg-id="1440985" tvg-name="BANGLA ▎GLOBAL TV" group-title="ASIA ▎BANGLA",BANGLA ▎GLOBAL TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440985.ts
+#EXTINF:-1 tvg-id="1440990" tvg-name="BANGLA ▎ANANDA BARTA" group-title="ASIA ▎BANGLA",BANGLA ▎ANANDA BARTA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440990.ts
+#EXTINF:-1 tvg-id="1440993" tvg-name="BANGLA ▎MY TV" group-title="ASIA ▎BANGLA",BANGLA ▎MY TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440993.ts
+#EXTINF:-1 tvg-id="1440997" tvg-name="BANGLA ▎ASIAN TV" group-title="ASIA ▎BANGLA",BANGLA ▎ASIAN TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440997.ts
+#EXTINF:-1 tvg-id="1440998" tvg-name="BANGLA ▎AZAN TV" group-title="ASIA ▎BANGLA",BANGLA ▎AZAN TV
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1440998.ts
+#EXTINF:-1 tvg-id="1441000" tvg-name="BANGLA ▎BANGLA PLUS" group-title="ASIA ▎BANGLA",BANGLA ▎BANGLA PLUS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441000.ts
+#EXTINF:-1 tvg-id="1441001" tvg-name="BANGLA ▎BANGLA VISION" group-title="ASIA ▎BANGLA",BANGLA ▎BANGLA VISION
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441001.ts
+#EXTINF:-1 tvg-id="1441003" tvg-name="BANGLA ▎EKUSHEY" group-title="ASIA ▎BANGLA",BANGLA ▎EKUSHEY
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441003.ts
+#EXTINF:-1 tvg-id="1458370" tvg-name="BANGLA ▎R PLUS" group-title="ASIA ▎BANGLA",BANGLA ▎R PLUS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1458370.ts
+#EXTINF:-1 tvg-id="1458371" tvg-name="BANGLA ▎SANGEET BANGLA" group-title="ASIA ▎BANGLA",BANGLA ▎SANGEET BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1458371.ts
+#EXTINF:-1 tvg-id="1458372" tvg-name="BANGLA ▎STAR JALSHA MOVIES" group-title="ASIA ▎BANGLA",BANGLA ▎STAR JALSHA MOVIES
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1458372.ts
+#EXTINF:-1 tvg-id="colorsbangla.in" tvg-name="BENGALI ▎COLORS BANGLA HD" group-title="ASIA ▎BENGALI",BENGALI ▎COLORS BANGLA HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63526.ts
+#EXTINF:-1 tvg-id="63557" tvg-name="BENGALI ▎NAT GEO HD" group-title="ASIA ▎BENGALI",BENGALI ▎NAT GEO HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63557.ts
+#EXTINF:-1 tvg-id="sangeetbangla.in" tvg-name="BENGALI ▎SANGEET BANGLA" group-title="ASIA ▎BENGALI",BENGALI ▎SANGEET BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63393.ts
+#EXTINF:-1 tvg-id="starjalsha.in" tvg-name="BENGALI ▎STAR JALSHA HD" group-title="ASIA ▎BENGALI",BENGALI ▎STAR JALSHA HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63525.ts
+#EXTINF:-1 tvg-id="63524" tvg-name="BENGALI ▎STAR JALSHA MOVIES HD" group-title="ASIA ▎BENGALI",BENGALI ▎STAR JALSHA MOVIES HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63524.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="BENGALI ▎TATA PLAY BANGLA CINEMA HD" group-title="ASIA ▎BENGALI",BENGALI ▎TATA PLAY BANGLA CINEMA HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63329.ts
+#EXTINF:-1 tvg-id="ddbangla.in" tvg-name="BENGALI ▎DD BANGLA" group-title="ASIA ▎BENGALI",BENGALI ▎DD BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/66112.ts
+#EXTINF:-1 tvg-id="112575" tvg-name="BENGALI ▎ZEE BANGLA CINEMA" group-title="ASIA ▎BENGALI",BENGALI ▎ZEE BANGLA CINEMA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112575.ts
+#EXTINF:-1 tvg-id="112574" tvg-name="BENGALI ▎24 GHANTA" group-title="ASIA ▎BENGALI",BENGALI ▎24 GHANTA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112574.ts
+#EXTINF:-1 tvg-id="112573" tvg-name="BENGALI ▎ABP ANANDA" group-title="ASIA ▎BENGALI",BENGALI ▎ABP ANANDA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112573.ts
+#EXTINF:-1 tvg-id="112571" tvg-name="BENGALI ▎ZEE BANGLA HD" group-title="ASIA ▎BENGALI",BENGALI ▎ZEE BANGLA HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112571.ts
+#EXTINF:-1 tvg-id="1441451" tvg-name="BENGALI ▎DHOOM" group-title="ASIA ▎BENGALI",BENGALI ▎DHOOM
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441451.ts
+#EXTINF:-1 tvg-id="1441546" tvg-name="BENGALI ▎FOX LIFE BANGLA HD" group-title="ASIA ▎BENGALI",BENGALI ▎FOX LIFE BANGLA HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441546.ts
+#EXTINF:-1 tvg-id="1441547" tvg-name="BENGALI ▎CN NEWS" group-title="ASIA ▎BENGALI",BENGALI ▎CN NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441547.ts
+#EXTINF:-1 tvg-id="1441548" tvg-name="BENGALI ▎TV9 BANGLA" group-title="ASIA ▎BENGALI",BENGALI ▎TV9 BANGLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441548.ts
+#EXTINF:-1 tvg-id="dangal.in" tvg-name="BHOJPURI ▎ENTER 10 RANGELLA" group-title="ASIA ▎BHOJPURI",BHOJPURI ▎ENTER 10 RANGELLA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63419.ts
+#EXTINF:-1 tvg-id="hungama.in" tvg-name="BHOJPURI ▎DHAMAAL HD" group-title="ASIA ▎BHOJPURI",BHOJPURI ▎DHAMAAL HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63392.ts
+#EXTINF:-1 tvg-id="143701" tvg-name="BHOJPURI ▎BHOJPURI CINEMA" group-title="ASIA ▎BHOJPURI",BHOJPURI ▎BHOJPURI CINEMA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143701.ts
+#EXTINF:-1 tvg-id="1441447" tvg-name="BHOJPURI ▎OSCAR CINEMA BHOJPURI" group-title="ASIA ▎BHOJPURI",BHOJPURI ▎OSCAR CINEMA BHOJPURI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441447.ts
+#EXTINF:-1 tvg-id="1441469" tvg-name="BHOJPURI ▎SANGEET BHOJPURI" group-title="ASIA ▎BHOJPURI",BHOJPURI ▎SANGEET BHOJPURI
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441469.ts
+#EXTINF:-1 tvg-id="63547" tvg-name="ENGLISH ▎AND FLIX HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎AND FLIX HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63547.ts
+#EXTINF:-1 tvg-id="andprive.in" tvg-name="ENGLISH ▎AND PRIVE HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎AND PRIVE HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63522.ts
+#EXTINF:-1 tvg-id="63416" tvg-name="ENGLISH ▎BLOOMBERG INDIA" group-title="ASIA ▎ENGLISH",ENGLISH ▎BLOOMBERG INDIA
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63416.ts
+#EXTINF:-1 tvg-id="colorsinfinity.in" tvg-name="ENGLISH ▎COLORS INFINITY HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎COLORS INFINITY HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63519.ts
+#EXTINF:-1 tvg-id="comedycentral.in" tvg-name="ENGLISH ▎COMEDY CENTRAL HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎COMEDY CENTRAL HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63518.ts
+#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="ENGLISH ▎DISNEY JR" group-title="ASIA ▎ENGLISH",ENGLISH ▎DISNEY JR
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63308.ts
+#EXTINF:-1 tvg-id="etnow.in" tvg-name="ENGLISH ▎ET NOW HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎ET NOW HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63441.ts
+#EXTINF:-1 tvg-id="foxlife.in" tvg-name="ENGLISH ▎FOX LIFE HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎FOX LIFE HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63516.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="ENGLISH ▎TATA PLAY HITS HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎TATA PLAY HITS HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63555.ts
+#EXTINF:-1 tvg-id="historytv18.in" tvg-name="ENGLISH ▎HISTORY TV 18 HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎HISTORY TV 18 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63515.ts
+#EXTINF:-1 tvg-id="animalplanet.in" tvg-name="ENGLISH ▎ANIMAL PLANET WORLD HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎ANIMAL PLANET WORLD HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63521.ts
+#EXTINF:-1 tvg-id="disneyinternational.in" tvg-name="ENGLISH ▎DISCOVERY WORLD HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎DISCOVERY WORLD HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63517.ts
+#EXTINF:-1 tvg-id="ngc.in" tvg-name="ENGLISH ▎NAT GEO WILD HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎NAT GEO WILD HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63481.ts
+#EXTINF:-1 tvg-id="ngc.in" tvg-name="ENGLISH ▎NATIONAL GEOGRAPHIC HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎NATIONAL GEOGRAPHIC HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63514.ts
+#EXTINF:-1 tvg-id="sonybbcearth.in" tvg-name="ENGLISH ▎SONY BBC EARTH ENGLISH HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎SONY BBC EARTH ENGLISH HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63551.ts
+#EXTINF:-1 tvg-id="starmovies.in" tvg-name="ENGLISH ▎STAR MOVIES HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎STAR MOVIES HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63511.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="ENGLISH ▎STAR MOVIES SELECT HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎STAR MOVIES SELECT HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63510.ts
+#EXTINF:-1 tvg-id="theqyou.in" tvg-name="ENGLISH ▎THE Q YOU HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎THE Q YOU HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63319.ts
+#EXTINF:-1 tvg-id="tlchdworld.in" tvg-name="ENGLISH ▎TLC WORLD HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎TLC WORLD HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63508.ts
+#EXTINF:-1 tvg-id="travelxp.in" tvg-name="ENGLISH ▎TRAVEL XP HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎TRAVEL XP HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63507.ts
+#EXTINF:-1 tvg-id="vh1.in" tvg-name="ENGLISH ▎VH1 HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎VH1 HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63548.ts
+#EXTINF:-1 tvg-id="63313" tvg-name="ENGLISH ▎TATA PLAY THEATRE HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎TATA PLAY THEATRE HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63313.ts
+#EXTINF:-1 tvg-id="zeecafe.in" tvg-name="ENGLISH ▎ZEE CAFE HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎ZEE CAFE HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/63506.ts
+#EXTINF:-1 tvg-id="112568" tvg-name="ENGLISH ▎DISCOVERY SCIENCE" group-title="ASIA ▎ENGLISH",ENGLISH ▎DISCOVERY SCIENCE
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112568.ts
+#EXTINF:-1 tvg-id="112566" tvg-name="ENGLISH ▎DISCOVERY TURBO" group-title="ASIA ▎ENGLISH",ENGLISH ▎DISCOVERY TURBO
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112566.ts
+#EXTINF:-1 tvg-id="112565" tvg-name="ENGLISH ▎CNN NEWS" group-title="ASIA ▎ENGLISH",ENGLISH ▎CNN NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112565.ts
+#EXTINF:-1 tvg-id="112564" tvg-name="ENGLISH ▎ALJAZEERA HD" group-title="ASIA ▎ENGLISH",ENGLISH ▎ALJAZEERA HD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/112564.ts
+#EXTINF:-1 tvg-id="143527" tvg-name="ENGLISH ▎WION NEWS" group-title="ASIA ▎ENGLISH",ENGLISH ▎WION NEWS
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/143527.ts
+#EXTINF:-1 tvg-id="1441566" tvg-name="ENGLISH ▎DISCOVERY ID FHD" group-title="ASIA ▎ENGLISH",ENGLISH ▎DISCOVERY ID FHD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441566.ts
+#EXTINF:-1 tvg-id="1441568" tvg-name="ENGLISH ▎INDIA AHEAD" group-title="ASIA ▎ENGLISH",ENGLISH ▎INDIA AHEAD
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441568.ts
+#EXTINF:-1 tvg-id="1441569" tvg-name="ENGLISH ▎CVR NEW ENGLISH" group-title="ASIA ▎ENGLISH",ENGLISH ▎CVR NEW ENGLISH
+http://line.4k-beast.top:80/live/LeeMartins/4DD741/1441569.ts
