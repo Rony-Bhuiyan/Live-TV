@@ -180,7 +180,7 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 
 
-
+#EXTM3U url-tvg="http://anu-gold.com:80/xmltv.php?username=8340A972D5C3015&password=6QHh8Lgoqt" tvg-shift=0
 
 #EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="IN|UK - COLORS RISHTEY TV" group-title="AS | INDIA UK",IN|UK - COLORS RISHTEY TV
 http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72511.ts
