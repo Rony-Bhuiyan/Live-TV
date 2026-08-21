@@ -1,0 +1,1070 @@
+#EXTM3U
+#PLAYLIST: RB Playlist
+#EXTENC: UTF-8
+
+
+
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="IN|UK - COLORS RISHTEY TV" group-title="AS | INDIA UK",IN|UK - COLORS RISHTEY TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72511.ts
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN|UK - COLORS CINEPLEX" group-title="AS | INDIA UK",IN|UK - COLORS CINEPLEX
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72512.ts
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN|UK - COLORS" group-title="AS | INDIA UK",IN|UK - COLORS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72509.ts
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN|UK - SONY MAX" group-title="AS | INDIA UK",IN|UK - SONY MAX
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72507.ts
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN|UK - SONY MAX HD" group-title="AS | INDIA UK",IN|UK - SONY MAX HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/73318.ts
+#EXTINF:-1 tvg-id="sonymax2.in" tvg-name="IN|UK - SONY MAX 2" group-title="AS | INDIA UK",IN|UK - SONY MAX 2
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72508.ts
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN|UK - SONY ASIA HD" group-title="AS | INDIA UK",IN|UK - SONY ASIA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/73317.ts
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="IN|UK - SONY SAB" group-title="AS | INDIA UK",IN|UK - SONY SAB
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72510.ts
+#EXTINF:-1 tvg-id="sony.in" tvg-name="IN|UK - SONY ASIA" group-title="AS | INDIA UK",IN|UK - SONY ASIA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72506.ts
+#EXTINF:-1 tvg-id="72515" tvg-name="IN|UK - B4U PLUS" group-title="AS | INDIA UK",IN|UK - B4U PLUS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72515.ts
+#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="IN|UK - B4U MUSIC" group-title="AS | INDIA UK",IN|UK - B4U MUSIC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72514.ts
+#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="IN|UK - B4U MOVIES" group-title="AS | INDIA UK",IN|UK - B4U MOVIES
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72513.ts
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="IN|UK - ZEE CINEMA HD" group-title="AS | INDIA UK",IN|UK - ZEE CINEMA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/73315.ts
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="IN|UK - ZEE CINEMA" group-title="AS | INDIA UK",IN|UK - ZEE CINEMA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72505.ts
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN|UK - ZEE TV HD" group-title="AS | INDIA UK",IN|UK - ZEE TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/73316.ts
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN|UK - ZEE TV" group-title="AS | INDIA UK",IN|UK - ZEE TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72504.ts
+#EXTINF:-1 tvg-id="republictv.in" tvg-name="IN|UK - REPUBLIC TV" group-title="AS | INDIA UK",IN|UK - REPUBLIC TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72528.ts
+#EXTINF:-1 tvg-id="sanskartv.in" tvg-name="IN|UK - SANGAT" group-title="AS | INDIA UK",IN|UK - SANGAT
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72526.ts
+#EXTINF:-1 tvg-id="72525" tvg-name="IN|UK - AKAAL CHANNEL" group-title="AS | INDIA UK",IN|UK - AKAAL CHANNEL
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72525.ts
+#EXTINF:-1 tvg-id="72524" tvg-name="IN|UK - SIKH CHANNEL" group-title="AS | INDIA UK",IN|UK - SIKH CHANNEL
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72524.ts
+#EXTINF:-1 tvg-id="aastha.in" tvg-name="IN|UK - AASTHA" group-title="AS | INDIA UK",IN|UK - AASTHA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72522.ts
+#EXTINF:-1 tvg-id="ndtvindia.in" tvg-name="IN|UK - NDTV" group-title="AS | INDIA UK",IN|UK - NDTV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72521.ts
+#EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="IN|UK - AAJ TAK" group-title="AS | INDIA UK",IN|UK - AAJ TAK
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72520.ts
+#EXTINF:-1 tvg-id="72517" tvg-name="IN|UK - BRIT ASIA TV" group-title="AS | INDIA UK",IN|UK - BRIT ASIA TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72517.ts
+#EXTINF:-1 tvg-id="zing.in" tvg-name="IN|UK - ZING" group-title="AS | INDIA UK",IN|UK - ZING
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72516.ts
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN|UK - UTSAV PLUS" group-title="AS | INDIA UK",IN|UK - UTSAV PLUS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72501.ts
+#EXTINF:-1 tvg-id="510529" tvg-name="|IN|UK| KTV" group-title="AS | INDIA UK",|IN|UK| KTV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510529.ts
+#EXTINF:-1 tvg-id="510530" tvg-name="|IN|UK| COLORS HD" group-title="AS | INDIA UK",|IN|UK| COLORS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510530.ts
+#EXTINF:-1 tvg-id="510531" tvg-name="|IN|UK| PTC PUNJABI" group-title="AS | INDIA UK",|IN|UK| PTC PUNJABI
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510531.ts
+
+#EXTINF:-1 tvg-id="78930" tvg-name="##### BANGLA - UK #####" group-title="AS | BANGLA",##### BANGLA - UK #####
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78930.ts
+#EXTINF:-1 tvg-id="NTV-IN" tvg-name="BANGLA -UK| NTV" group-title="AS | BANGLA",BANGLA -UK| NTV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72257.ts
+#EXTINF:-1 tvg-id="72255" tvg-name="BANGLA -UK| ATN BANGLA UK" group-title="AS | BANGLA",BANGLA -UK| ATN BANGLA UK
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72255.ts
+#EXTINF:-1 tvg-id="72254" tvg-name="##### BANGLA - GENERAL #####" group-title="AS | BANGLA",##### BANGLA - GENERAL #####
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72254.ts
+#EXTINF:-1 tvg-id="76205" tvg-name="BANGLA - STAR JALSHA MOVIES HD" group-title="AS | BANGLA",BANGLA - STAR JALSHA MOVIES HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/76205.ts
+#EXTINF:-1 tvg-id="76197" tvg-name="BANGLA - ATN" group-title="AS | BANGLA",BANGLA - ATN
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/76197.ts
+#EXTINF:-1 tvg-id="76189" tvg-name="BANGLA - BANGALA ABP ANANDA" group-title="AS | BANGLA",BANGLA - BANGALA ABP ANANDA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/76189.ts
+#EXTINF:-1 tvg-id="tv1.in" tvg-name="BANGLA - UK - TV ONE" group-title="AS | BANGLA",BANGLA - UK - TV ONE
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78934.ts
+#EXTINF:-1 tvg-id="78935" tvg-name="##### BANGLA - ASIA #####" group-title="AS | BANGLA",##### BANGLA - ASIA #####
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78935.ts
+#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="BANGLA - COLORS BANGLA HD" group-title="AS | BANGLA",BANGLA - COLORS BANGLA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/76179.ts
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BANGLA - JALSHA MOVIES" group-title="AS | BANGLA",BANGLA - JALSHA MOVIES
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78937.ts
+#EXTINF:-1 tvg-id="aakashaath.in" tvg-name="BANGLA - AAKAASH BANGLA" group-title="AS | BANGLA",BANGLA - AAKAASH BANGLA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78939.ts
+#EXTINF:-1 tvg-id="72262" tvg-name="BANGLA - ATN BANGLA" group-title="AS | BANGLA",BANGLA - ATN BANGLA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72262.ts
+#EXTINF:-1 tvg-id="294164" tvg-name="BANGLA - IBTV USA" group-title="AS | BANGLA",BANGLA - IBTV USA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/294164.ts
+#EXTINF:-1 tvg-id="76198" tvg-name="BANGLA - ATN NEWS" group-title="AS | BANGLA",BANGLA - ATN NEWS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/76198.ts
+#EXTINF:-1 tvg-id="btvi.in" tvg-name="BANGLA - BTV" group-title="AS | BANGLA",BANGLA - BTV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78946.ts
+#EXTINF:-1 tvg-id="76180" tvg-name="BANGLA - CHANNEL S" group-title="AS | BANGLA",BANGLA - CHANNEL S
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/76180.ts
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="BANGLA - COLORS" group-title="AS | BANGLA",BANGLA - COLORS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/76194.ts
+#EXTINF:-1 tvg-id="78953" tvg-name="BANGLA - DHOOM MUSIC" group-title="AS | BANGLA",BANGLA - DHOOM MUSIC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78953.ts
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="BANGLA - ETV BANGLA" group-title="AS | BANGLA",BANGLA - ETV BANGLA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78955.ts
+#EXTINF:-1 tvg-id="78957" tvg-name="BANGLA - iTV" group-title="AS | BANGLA",BANGLA - iTV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78957.ts
+#EXTINF:-1 tvg-id="NTV-IN" tvg-name="BANGLA - NTV" group-title="AS | BANGLA",BANGLA - NTV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/76181.ts
+#EXTINF:-1 tvg-id="sonyaath.in" tvg-name="BANGLA - SONY AATH" group-title="AS | BANGLA",BANGLA - SONY AATH
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78972.ts
+#EXTINF:-1 tvg-id="Star Jalsha HD-IN" tvg-name="BANGLA - STAR JHALSA MOVIES" group-title="AS | BANGLA",BANGLA - STAR JHALSA MOVIES
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78973.ts
+#EXTINF:-1 tvg-id="78976" tvg-name="BANGLA - TIME TELEVISION" group-title="AS | BANGLA",BANGLA - TIME TELEVISION
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78976.ts
+#EXTINF:-1 tvg-id="78978" tvg-name="BANGLA - ATN BANGLA USA" group-title="AS | BANGLA",BANGLA - ATN BANGLA USA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78978.ts
+#EXTINF:-1 tvg-id="Zee Bangla-IN" tvg-name="BANGLA - ZEE BANGLA" group-title="AS | BANGLA",BANGLA - ZEE BANGLA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78981.ts
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="BANGLA - ZEE BANGLA HD" group-title="AS | BANGLA",BANGLA - ZEE BANGLA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72258.ts
+#EXTINF:-1 tvg-id="Star Jalsha HD-IN" tvg-name="BANGLA - STAR JALSHA HD" group-title="AS | BANGLA",BANGLA - STAR JALSHA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/76204.ts
+#EXTINF:-1 tvg-id="79006" tvg-name="BANGLA - ANANDA TV" group-title="AS | BANGLA",BANGLA - ANANDA TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/79006.ts
+#EXTINF:-1 tvg-id="1021449" tvg-name="BANGLA - NEWS 24 HD" group-title="AS | BANGLA",BANGLA - NEWS 24 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1021449.ts
+#EXTINF:-1 tvg-id="510483" tvg-name="BANGLA - iTV UK" group-title="AS | BANGLA",BANGLA - iTV UK
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510483.ts
+#EXTINF:-1 tvg-id="510484" tvg-name="BANGLA - ENTER 10 BANGLA" group-title="AS | BANGLA",BANGLA - ENTER 10 BANGLA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510484.ts
+#EXTINF:-1 tvg-id="510485" tvg-name="BANGLA - DISCOVERY HD BENGALI" group-title="AS | BANGLA",BANGLA - DISCOVERY HD BENGALI
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510485.ts
+#EXTINF:-1 tvg-id="510487" tvg-name="BANGLA - T SPORTS" group-title="AS | BANGLA",BANGLA - T SPORTS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510487.ts
+#EXTINF:-1 tvg-id="24ghante.in" tvg-name="BANGLA - 24 GHANTA TV" group-title="AS | BANGLA",BANGLA - 24 GHANTA TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72323.ts
+#EXTINF:-1 tvg-id="sangeetmarathi.in" tvg-name="BANGLA - SANGEET" group-title="AS | BANGLA",BANGLA - SANGEET
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/76190.ts
+#EXTINF:-1 tvg-id="rupashibangla.in" tvg-name="BANGLA - RUPASHI" group-title="AS | BANGLA",BANGLA - RUPASHI
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/76191.ts
+#EXTINF:-1 tvg-id="Star Jalsha HD-IN" tvg-name="BANGLA - STAR JALSHA+" group-title="AS | BANGLA",BANGLA - STAR JALSHA+
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/78938.ts
+#EXTINF:-1 tvg-id="510486" tvg-name="BANGLA - SUN BANGLA" group-title="AS | BANGLA",BANGLA - SUN BANGLA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510486.ts
+#EXTINF:-1 tvg-id="928141" tvg-name="BANGLA -  BTV WORLD" group-title="AS | BANGLA",BANGLA -  BTV WORLD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/928141.ts
+#EXTINF:-1 tvg-id="1329254" tvg-name="HINDI - TV ASIA FHD" group-title="AS | HINDI",HINDI - TV ASIA FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1329254.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="##### HINDI - GENERAL #####" group-title="AS | HINDI",##### HINDI - GENERAL #####
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72133.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INDIA TV" group-title="AS | HINDI",HINDI - INDIA TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/256067.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INDIA TODAY" group-title="AS | HINDI",HINDI - INDIA TODAY
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510285.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INDIA NEWS RAJASTHAN" group-title="AS | HINDI",HINDI - INDIA NEWS RAJASTHAN
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510250.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - KASHISH NEWS" group-title="AS | HINDI",HINDI - KASHISH NEWS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510254.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ATN Punjabi 5 HD" group-title="AS | HINDI",HINDI - ATN Punjabi 5 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694117.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - JAMUNA TV HD" group-title="AS | HINDI",IN - JAMUNA TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694099.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - LOKSHAHI SD" group-title="AS | HINDI",IN - LOKSHAHI SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694115.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - TV PUNJAB HD" group-title="AS | HINDI",HINDI - TV PUNJAB HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694119.ts
+#EXTINF:-1 tvg-id="republictv.in" tvg-name="HINDI - Republic TV" group-title="AS | HINDI",HINDI - Republic TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72231.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - REPUBLIC BHARAT" group-title="AS | HINDI",HINDI - REPUBLIC BHARAT
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/167200.ts
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="HINDI - SONY HD ◉ " group-title="AS | HINDI",HINDI - SONY HD ◉ 
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72146.ts
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="HINDI - SONY MAX HD" group-title="AS | HINDI",HINDI - SONY MAX HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72147.ts
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="HINDI - SONY PIX HD" group-title="AS | HINDI",HINDI - SONY PIX HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72148.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SONY BBC EARTH HD" group-title="AS | HINDI",HINDI - SONY BBC EARTH HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72149.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SONY TEN 4 HD" group-title="AS | HINDI",HINDI - SONY TEN 4 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510281.ts
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="HINDI - SONY SAB HD ◉ " group-title="AS | HINDI",HINDI - SONY SAB HD ◉ 
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72150.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SONY PAL" group-title="AS | HINDI",HINDI - SONY PAL
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72151.ts
+#EXTINF:-1 tvg-id="sonywah.in" tvg-name="HINDI - SONY WAH" group-title="AS | HINDI",HINDI - SONY WAH
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72152.ts
+#EXTINF:-1 tvg-id="sonyyay.in" tvg-name="HINDI - SONY YAY" group-title="AS | HINDI",HINDI - SONY YAY
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72153.ts
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="HINDI - STAR GOLD HD" group-title="AS | HINDI",HINDI - STAR GOLD HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72141.ts
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="HINDI - STAR GOLD SELECT HD" group-title="AS | HINDI",HINDI - STAR GOLD SELECT HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72142.ts
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="HINDI - STAR PLUS HD ◉ " group-title="AS | HINDI",HINDI - STAR PLUS HD ◉ 
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72143.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - STAR UTSAV" group-title="AS | HINDI",HINDI - STAR UTSAV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72144.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - STAR UTSAV MOVIES" group-title="AS | HINDI",HINDI - STAR UTSAV MOVIES
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72145.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - AND PICTURES HD" group-title="AS | HINDI",HINDI - AND PICTURES HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72165.ts
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="HINDI - AND TV HD ◉ " group-title="AS | HINDI",HINDI - AND TV HD ◉ 
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72166.ts
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="HINDI - AND TV HD² ◉ " group-title="AS | HINDI",HINDI - AND TV HD² ◉ 
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/174906.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD NATIONAL" group-title="AS | HINDI",HINDI - DD NATIONAL
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72180.ts
+#EXTINF:-1 tvg-id="ddrajasthan.in" tvg-name="HINDI - DD RAJASTHAN" group-title="AS | HINDI",HINDI - DD RAJASTHAN
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72181.ts
+#EXTINF:-1 tvg-id="ddbihar.in" tvg-name="HINDI - DD BHARATI" group-title="AS | HINDI",HINDI - DD BHARATI
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72182.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD UTTAR PRADESH HD" group-title="AS | HINDI",HINDI - DD UTTAR PRADESH HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510198.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD BIHAR" group-title="AS | HINDI",HINDI - DD BIHAR
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72183.ts
+#EXTINF:-1 tvg-id="ddindia.in" tvg-name="HINDI - DD INDIA" group-title="AS | HINDI",HINDI - DD INDIA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72184.ts
+#EXTINF:-1 tvg-id="ddnews.in" tvg-name="HINDI - DD NEWS" group-title="AS | HINDI",HINDI - DD NEWS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72186.ts
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="HINDI - DD SPORTS" group-title="AS | HINDI",HINDI - DD SPORTS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72187.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD UP" group-title="AS | HINDI",HINDI - DD UP
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72189.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MH ONE HD" group-title="AS | HINDI",HINDI - MH ONE HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510203.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - HUM TV HD" group-title="AS | HINDI",HINDI - HUM TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510208.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - HUM TV EUROPE HD" group-title="AS | HINDI",HINDI - HUM TV EUROPE HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510209.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ETV TELENGANA HD" group-title="AS | HINDI",HINDI - ETV TELENGANA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510214.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ETV ANDHRA PRADESH HD" group-title="AS | HINDI",HINDI - ETV ANDHRA PRADESH HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510215.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ETV ABHIRUCHI" group-title="AS | HINDI",HINDI - ETV ABHIRUCHI
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510216.ts
+#EXTINF:-1 tvg-id="vedic.in" tvg-name="HINDI - VEDIC TV" group-title="AS | HINDI",HINDI - VEDIC TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72242.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SHEMAROO TV" group-title="AS | HINDI",HINDI - SHEMAROO TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510231.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SAMAY RAJASTHAN" group-title="AS | HINDI",HINDI - SAMAY RAJASTHAN
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510255.ts
+#EXTINF:-1 tvg-id="peaceofmind.in" tvg-name="HINDI - PEACE OF MIND HD" group-title="AS | HINDI",HINDI - PEACE OF MIND HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72234.ts
+#EXTINF:-1 tvg-id="tarangtv.in" tvg-name="HINDI - TARANG TV" group-title="AS | HINDI",HINDI - TARANG TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/149511.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CNBC PRIME TV18 FHD" group-title="AS | HINDI",HINDI - CNBC PRIME TV18 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510259.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DY 365 HD" group-title="AS | HINDI",HINDI - DY 365 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510217.ts
+#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="HINDI - FOX LIFE HD" group-title="AS | HINDI",HINDI - FOX LIFE HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72198.ts
+#EXTINF:-1 tvg-id="zeetv.in" tvg-name="HINDI - ZEE TV HD ◉ " group-title="AS | HINDI",HINDI - ZEE TV HD ◉ 
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72135.ts
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="HINDI - ZEE CINEMA HD" group-title="AS | HINDI",HINDI - ZEE CINEMA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72136.ts
+#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="HINDI - ZEE CLASSIC" group-title="AS | HINDI",HINDI - ZEE CLASSIC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/259159.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ZEE ANMOL" group-title="AS | HINDI",HINDI - ZEE ANMOL
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72245.ts
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="HINDI - ZEE HINDUSTAN NEWS" group-title="AS | HINDI",HINDI - ZEE HINDUSTAN NEWS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72247.ts
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="HINDI - ZEE NEWS" group-title="AS | HINDI",HINDI - ZEE NEWS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72248.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ZEE NEWS BIHAR" group-title="AS | HINDI",HINDI - ZEE NEWS BIHAR
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72249.ts
+#EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="HINDI - ZEE RAJASTHAN" group-title="AS | HINDI",HINDI - ZEE RAJASTHAN
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72252.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ZEE CAFE FHD" group-title="AS | HINDI",HINDI - ZEE CAFE FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510223.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ZEE BUSINESS" group-title="AS | HINDI",HINDI - ZEE BUSINESS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510288.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - B4U KADAK HD" group-title="AS | HINDI",HINDI - B4U KADAK HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510224.ts
+#EXTINF:-1 tvg-id="enterr10.in" tvg-name="HINDI - ENTER 10 MOVIES" group-title="AS | HINDI",HINDI - ENTER 10 MOVIES
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72195.ts
+#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="HINDI - B4U MOVIES" group-title="AS | HINDI",HINDI - B4U MOVIES
+http://anu-gold.com:80/live/8340A972D5C3015/72155.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MAHA MOVIES" group-title="AS | HINDI",HINDI - MAHA MOVIES
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72236.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - COLORS ODIYA" group-title="AS | HINDI",HINDI - COLORS ODIYA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510260.ts
+
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="HINDI - COLORS HD ◉ " group-title="AS | HINDI",HINDI - COLORS HD ◉
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72156.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - MY TV HD" group-title="AS | HINDI",IN - MY TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694098.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ENTERR10 MOVIES" group-title="AS | HINDI",HINDI - ENTERR10 MOVIES
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510280.ts
+#EXTINF:-1 tvg-id="discovery.in" tvg-name="HINDI - DISCOVERY WORLD" group-title="AS | HINDI",HINDI - DISCOVERY WORLD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72191.ts
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN - ANIMAL PLANET HD" group-title="AS | HINDI",IN - ANIMAL PLANET HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72168.ts
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="HINDI - NAT GEO WILD HD" group-title="AS | HINDI",HINDI - NAT GEO WILD HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72219.ts
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="HINDI - NATIONAL GEOGRAPHIC HD" group-title="AS | HINDI",HINDI - NATIONAL GEOGRAPHIC HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72220.ts
+#EXTINF:-1 tvg-id="zing.in" tvg-name="HINDI - ZING" group-title="AS | HINDI",HINDI - ZING
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72137.ts
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="HINDI - 9X JALWA" group-title="AS | HINDI",HINDI - 9X JALWA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72157.ts
+#EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="HINDI - AAJ TAK HD" group-title="AS | HINDI",HINDI - AAJ TAK HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72158.ts
+#EXTINF:-1 tvg-id="arihant.in" tvg-name="HINDI - ARIHANT" group-title="AS | HINDI",HINDI - ARIHANT
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72170.ts
+#EXTINF:-1 tvg-id="bigmagic.in" tvg-name="HINDI - BIG MAGIC HD" group-title="AS | HINDI",HINDI - BIG MAGIC HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72173.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - COMEDY ACTIVE" group-title="AS | HINDI",HINDI - COMEDY ACTIVE
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72177.ts
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="HINDI - HISTORY TV18 HD" group-title="AS | HINDI",HINDI - HISTORY TV18 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72200.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - GTV HD" group-title="AS | HINDI",IN - GTV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694104.ts
+#EXTINF:-1 tvg-id="e24.in" tvg-name="HINDI - E 24" group-title="AS | HINDI",HINDI - E 24
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72194.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - COOKING ACTIVE" group-title="AS | HINDI",HINDI - COOKING ACTIVE
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510241.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INVESTIGATION DISCOVERY HD" group-title="AS | HINDI",HINDI - INVESTIGATION DISCOVERY HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510207.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - AWAKENING DEVOTIONAL HD" group-title="AS | HINDI",HINDI - AWAKENING DEVOTIONAL HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510225.ts
+#EXTINF:-1 tvg-id="epic.in" tvg-name="HINDI - EPIC HD" group-title="AS | HINDI",HINDI - EPIC HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72196.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SANSKAR TV" group-title="AS | HINDI",HINDI - SANSKAR TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510289.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CHANNEL WIN" group-title="AS | HINDI",HINDI - CHANNEL WIN
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510291.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - STAR GOLD 2" group-title="AS | HINDI",HINDI - STAR GOLD 2
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510292.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - AND EXPLORER HD" group-title="AS | HINDI",HINDI - AND EXPLORER HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510293.ts
+#EXTINF:-1 tvg-id="musicindia.in" tvg-name="HINDI - MUSIC INDIA" group-title="AS | HINDI",HINDI - MUSIC INDIA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72218.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MINIPLEX HD" group-title="AS | HINDI",HINDI - MINIPLEX HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72212.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MTV FHD" group-title="AS | HINDI",HINDI - MTV FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510200.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MTV HD" group-title="AS | HINDI",HINDI - MTV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510261.ts
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="HINDI - ZOOM TV HD" group-title="AS | HINDI",HINDI - ZOOM TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72160.ts
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="HINDI - UTSAV BHARAT HD" group-title="AS | HINDI",HINDI - UTSAV BHARAT HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72140.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SHOWBOX MUSIC" group-title="AS | HINDI",HINDI - SHOWBOX MUSIC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510230.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - 9X MUSIC" group-title="AS | HINDI",HINDI - 9X MUSIC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510286.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DISNEY JUNIOR " group-title="AS | HINDI",HINDI - DISNEY JUNIOR
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/175130.ts
+#EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="HINDI - NICK PLUS HD" group-title="AS | HINDI",HINDI - NICK PLUS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72232.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NICK+ FHD" group-title="AS | HINDI",HINDI - NICK+ FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510219.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NICK+ FHD ENGLISH FHD" group-title="AS | HINDI",HINDI - NICK+ FHD ENGLISH FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510262.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NICK SONIC HD" group-title="AS | HINDI",HINDI - NICK SONIC HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510220.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NICK HD TELUGU" group-title="AS | HINDI",HINDI - NICK HD TELUGU
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694096.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NICK JUNIOR FHD TELUGU" group-title="AS | HINDI",HINDI - NICK JUNIOR FHD TELUGU
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694097.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NICK JUNIOR FHD" group-title="AS | HINDI",HINDI - NICK JUNIOR FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510236.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NICK JUNIOR FHD GUJARATI" group-title="AS | HINDI",HINDI - NICK JUNIOR FHD GUJARATI
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694110.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ROMEDY NOW HD" group-title="AS | HINDI",HINDI - ROMEDY NOW HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510221.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - POGO KIDS" group-title="AS | HINDI",HINDI - POGO KIDS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/117790.ts
+#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="HINDI - CARTOON NETWORK" group-title="AS | HINDI",HINDI - CARTOON NETWORK
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/175131.ts
+#EXTINF:-1 tvg-id="babytvhd.in" tvg-name="HINDI - BABY TV HDI" group-title="AS | HINDI",HINDI - BABY TV HDI
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72172.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SONIC HD" group-title="AS | HINDI",HINDI - SONIC HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510222.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DISCOVERY KIDS HD GUJARATI" group-title="AS | HINDI",HINDI - DISCOVERY KIDS HD GUJARATI
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694106.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - B4U BHOJPURI SD" group-title="AS | HINDI",IN - B4U BHOJPURI SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694107.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - HUNGAMA KIDS" group-title="AS | HINDI",HINDI - HUNGAMA KIDS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510267.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - TATA SKY THEATRE FHD" group-title="AS | HINDI",HINDI - TATA SKY THEATRE FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510275.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ANIMAL PLANET FHD MALAYALAM" group-title="AS | HINDI",IN - ANIMAL PLANET FHD MALAYALAM
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694124.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ZEE BOLLYWOOD CANADA HD" group-title="AS | HINDI",IN - ZEE BOLLYWOOD CANADA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694126.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ATN TV HD" group-title="AS | HINDI",IN - ATN TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694127.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - Aapka Colors HD" group-title="AS | HINDI",IN - Aapka Colors HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694128.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - 7S MUSIC SD" group-title="AS | HINDI",IN - 7S MUSIC SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694129.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - EK ONKAR HD" group-title="AS | HINDI",IN - EK ONKAR HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694130.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - NEPAL 1 HD" group-title="AS | HINDI",IN - NEPAL 1 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694132.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ZEE SALAAM HD" group-title="AS | HINDI",IN - ZEE SALAAM HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694134.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - BOOGLE BOLLYWOOD SD" group-title="AS | HINDI",IN - BOOGLE BOLLYWOOD SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694136.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - SADHNA PLUS SD" group-title="AS | HINDI",IN - SADHNA PLUS SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694137.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - NEWS 18 CHHATTISGARH SD" group-title="AS | HINDI",IN - NEWS 18 CHHATTISGARH SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694138.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ZEE5 MUSIC CO HD" group-title="AS | HINDI",IN - ZEE5 MUSIC CO HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694140.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - JANTANTRA NEWS HD" group-title="AS | HINDI",IN - JANTANTRA NEWS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694141.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ABZY MOVIES SD" group-title="AS | HINDI",IN - ABZY MOVIES SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694154.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MIRROR NOW" group-title="AS | HINDI",HINDI - MIRROR NOW
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694156.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - PRARTHANA BHAWAN" group-title="AS | HINDI",HINDI - PRARTHANA BHAWAN
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694157.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ALANKAR TV" group-title="AS | HINDI",HINDI - ALANKAR TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694161.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - TARANG MUSIC" group-title="AS | HINDI",HINDI - TARANG MUSIC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694162.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NDTV PROFIT" group-title="AS | HINDI",HINDI - NDTV PROFIT
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694163.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DILLI AAJ TAKK" group-title="AS | HINDI",HINDI - DILLI AAJ TAKK
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694164.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DISNEY INTERNATIONAL HD" group-title="AS | HINDI",HINDI - DISNEY INTERNATIONAL HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694181.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD URDU" group-title="AS | HINDI",HINDI - DD URDU
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694182.ts
+#EXTINF:-1 tvg-id="510488" tvg-name="MAL - SHALOM TV" group-title="AS | HINDI",MAL - SHALOM TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510488.ts
+#EXTINF:-1 tvg-id="606162" tvg-name="IN - BANGLA TV HD" group-title="AS | HINDI",IN - BANGLA TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/606162.ts
+#EXTINF:-1 tvg-id="808902" tvg-name="HINDI - SUNTV SD" group-title="AS | HINDI",HINDI - SUNTV SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808902.ts
+#EXTINF:-1 tvg-id="808975" tvg-name="IN - AAKAASH AATH" group-title="AS | HINDI",IN - AAKAASH AATH
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808975.ts
+#EXTINF:-1 tvg-id="808977" tvg-name="IN - CNN NEWS 18" group-title="AS | HINDI",IN - CNN NEWS 18
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808977.ts
+#EXTINF:-1 tvg-id="808978" tvg-name="IN - DAIJI WORLD" group-title="AS | HINDI",IN - DAIJI WORLD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808978.ts
+#EXTINF:-1 tvg-id="808984" tvg-name="IN - HARYANA BEATS" group-title="AS | HINDI",IN - HARYANA BEATS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808984.ts
+#EXTINF:-1 tvg-id="808986" tvg-name="HINDI - IN GOA 24X7" group-title="AS | HINDI",HINDI - IN GOA 24X7
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808986.ts
+#EXTINF:-1 tvg-id="808994" tvg-name="IN - NAMMA TV" group-title="AS | HINDI",IN - NAMMA TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808994.ts
+#EXTINF:-1 tvg-id="809007" tvg-name="IN - TATA PLAY ENGLISH IN TELUGU" group-title="AS | HINDI",IN - TATA PLAY ENGLISH IN TELUGU
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809007.ts
+#EXTINF:-1 tvg-id="809010" tvg-name="IN - VALAM TV HD" group-title="AS | HINDI",IN - VALAM TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809010.ts
+#EXTINF:-1 tvg-id="809011" tvg-name="IN - WION" group-title="AS | HINDI",IN - WION
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809011.ts
+#EXTINF:-1 tvg-id="809013" tvg-name="HINDI - & FLIX HD" group-title="AS | HINDI",HINDI - & FLIX HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809013.ts
+#EXTINF:-1 tvg-id="809014" tvg-name="IN - AND PRIVE FHD" group-title="AS | HINDI",IN - AND PRIVE FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809014.ts
+#EXTINF:-1 tvg-id="809017" tvg-name="IN - AND EXPLORER HD" group-title="AS | HINDI",IN - AND EXPLORER HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809017.ts
+#EXTINF:-1 tvg-id="809018" tvg-name="IN - AAJ TAK FHD" group-title="AS | HINDI",IN - AAJ TAK FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809018.ts
+#EXTINF:-1 tvg-id="809020" tvg-name="HINDI - NTV TELUGU SD" group-title="AS | HINDI",HINDI - NTV TELUGU SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809020.ts
+#EXTINF:-1 tvg-id="809022" tvg-name="IN - ANIMAL PLANET FHD TELUGU" group-title="AS | HINDI",IN - ANIMAL PLANET FHD TELUGU
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809022.ts
+#EXTINF:-1 tvg-id="809023" tvg-name="HINDI - POGO HD TELUGU" group-title="AS | HINDI",HINDI - POGO HD TELUGU
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809023.ts
+#EXTINF:-1 tvg-id="809024" tvg-name="HINDI - NAT GEO WILD FHD TELUGU" group-title="AS | HINDI",HINDI - NAT GEO WILD FHD TELUGU
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809024.ts
+#EXTINF:-1 tvg-id="809025" tvg-name="HINDI - CARTOON NETWORK HD TELUGU" group-title="AS | HINDI",HINDI - CARTOON NETWORK HD TELUGU
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809025.ts
+#EXTINF:-1 tvg-id="809026" tvg-name="HINDI - MADANI TV BANGLA" group-title="AS | HINDI",HINDI - MADANI TV BANGLA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809026.ts
+#EXTINF:-1 tvg-id="809027" tvg-name="IN - SOMOY NEWS TV HD" group-title="AS | HINDI",IN - SOMOY NEWS TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809027.ts
+#EXTINF:-1 tvg-id="809030" tvg-name="HINDI - ITV MOVIE BANGLA FHD" group-title="AS | HINDI",HINDI - ITV MOVIE BANGLA FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809030.ts
+#EXTINF:-1 tvg-id="809031" tvg-name="IN - INDEPENDENT NEWS HD" group-title="AS | HINDI",IN - INDEPENDENT NEWS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809031.ts
+#EXTINF:-1 tvg-id="809033" tvg-name="IN - DBC NEWS HD" group-title="AS | HINDI",IN - DBC NEWS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809033.ts
+#EXTINF:-1 tvg-id="809034" tvg-name="IN - CHANNEL I HD" group-title="AS | HINDI",IN - CHANNEL I HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809034.ts
+#EXTINF:-1 tvg-id="809035" tvg-name="IN - CHANNEL 9 HD" group-title="AS | HINDI",IN - CHANNEL 9 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809035.ts
+#EXTINF:-1 tvg-id="809040" tvg-name="HINDI - AMAR BANGAL" group-title="AS | HINDI",HINDI - AMAR BANGAL
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809040.ts
+#EXTINF:-1 tvg-id="809042" tvg-name="IN - SADHNA" group-title="AS | HINDI",IN - SADHNA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809042.ts
+#EXTINF:-1 tvg-id="809043" tvg-name="IN - TV9 BHARATVARSH HD" group-title="AS | HINDI",IN - TV9 BHARATVARSH HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809043.ts
+#EXTINF:-1 tvg-id="809068" tvg-name="IN - VAANAVIL HD" group-title="AS | HINDI",IN - VAANAVIL HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809068.ts
+#EXTINF:-1 tvg-id="809070" tvg-name="IN - DD YADAGIRI HD" group-title="AS | HINDI",IN - DD YADAGIRI HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809070.ts
+#EXTINF:-1 tvg-id="809074" tvg-name="IN - 9X TASHAN HD" group-title="AS | HINDI",IN - 9X TASHAN HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809074.ts
+#EXTINF:-1 tvg-id="809076" tvg-name="IN - SADHNA TV DEVOTIONAL HD" group-title="AS | HINDI",IN - SADHNA TV DEVOTIONAL HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809076.ts
+#EXTINF:-1 tvg-id="809077" tvg-name="HINDI -  9XM HD" group-title="AS | HINDI",HINDI -  9XM HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809077.ts
+#EXTINF:-1 tvg-id="809081" tvg-name="IN - JONACK TV SD" group-title="AS | HINDI",IN - JONACK TV SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809081.ts
+#EXTINF:-1 tvg-id="809083" tvg-name="IN - SKY NEWS SD" group-title="AS | HINDI",IN - SKY NEWS SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809083.ts
+#EXTINF:-1 tvg-id="809084" tvg-name="IN - CHANNEL-S HD" group-title="AS | HINDI",IN - CHANNEL-S HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809084.ts
+#EXTINF:-1 tvg-id="809085" tvg-name="IN - HAREKRSNA HD" group-title="AS | HINDI",IN - HAREKRSNA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809085.ts
+#EXTINF:-1 tvg-id="809086" tvg-name="IN - KRISHNA VANI DEVOTIONAL HD" group-title="AS | HINDI",IN - KRISHNA VANI DEVOTIONAL HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809086.ts
+#EXTINF:-1 tvg-id="809087" tvg-name="IN - DD KISAN HD" group-title="AS | HINDI",IN - DD KISAN HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809087.ts
+#EXTINF:-1 tvg-id="809089" tvg-name="IN - JIO EVENTS FHD" group-title="AS | HINDI",IN - JIO EVENTS FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809089.ts
+#EXTINF:-1 tvg-id="613388" tvg-name="HINDI - WOW CINEMA" group-title="AS | HINDI",HINDI - WOW CINEMA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/613388.ts
+#EXTINF:-1 tvg-id="606155" tvg-name="IN - BOISHAKHI TV" group-title="AS | HINDI",IN - BOISHAKHI TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/606155.ts
+#EXTINF:-1 tvg-id="606156" tvg-name="HINDI - DISCOVERY KIDS HD TELUGU" group-title="AS | HINDI",HINDI - DISCOVERY KIDS HD TELUGU
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/606156.ts
+#EXTINF:-1 tvg-id="606157" tvg-name="IN - TV5 MONDE HD" group-title="AS | HINDI",IN - TV5 MONDE HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/606157.ts
+#EXTINF:-1 tvg-id="808857" tvg-name="HINDI - COLORS FHD" group-title="AS | HINDI",HINDI - COLORS FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808857.ts
+#EXTINF:-1 tvg-id="1018082" tvg-name="##### GOLDTV 24/7 CHANNELS #####" group-title="AS | HINDI",##### GOLDTV 24/7 CHANNELS #####
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1018082.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - GOOD TIMES HD" group-title="AS | HINDI",HINDI - GOOD TIMES HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510212.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - DABANGG HD" group-title="AS | HINDI",IN - DABANGG HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694142.ts
+#EXTINF:-1 tvg-id="aastha.in" tvg-name="HINDI - AASTHA" group-title="AS | HINDI",HINDI - AASTHA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72161.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - AASTHA BHAJAN" group-title="AS | HINDI",HINDI - AASTHA BHAJAN
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72162.ts
+#EXTINF:-1 tvg-id="bflixmovies.in" tvg-name="HINDI - B-FLIX MOVIES" group-title="AS | HINDI",HINDI - B-FLIX MOVIES
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72171.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DISCOVERY WORLD HD" group-title="AS | HINDI",HINDI - DISCOVERY WORLD HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72192.ts
+#EXTINF:-1 tvg-id="72213" tvg-name="HINDI - MOVIES ACTIVE" group-title="AS | HINDI",HINDI - MOVIES ACTIVE
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72213.ts
+#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="HINDI - MTV PLUS HD" group-title="AS | HINDI",HINDI - MTV PLUS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72216.ts
+#EXTINF:-1 tvg-id="news18biharjharkhand.in" tvg-name="HINDI - NEWS 18 BIHAR" group-title="AS | HINDI",HINDI - NEWS 18 BIHAR
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72222.ts
+#EXTINF:-1 tvg-id="news18biharjharkhand.in" tvg-name="HINDI - NEWS 18 RAJASTHAN" group-title="AS | HINDI",HINDI - NEWS 18 RAJASTHAN
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72226.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NEWS STATE" group-title="AS | HINDI",HINDI - NEWS STATE
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72230.ts
+#EXTINF:-1 tvg-id="parastv.in" tvg-name="HINDI - PARAS TV" group-title="AS | HINDI",HINDI - PARAS TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72233.ts
+#EXTINF:-1 tvg-id="utvhd.in" tvg-name="HINDI - UTV HD" group-title="AS | HINDI",HINDI - UTV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72240.ts
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="HINDI - ZEE ANMOL CINEMA" group-title="AS | HINDI",HINDI - ZEE ANMOL CINEMA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72246.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ZEE NEWS MP/CHATTISGARH" group-title="AS | HINDI",HINDI - ZEE NEWS MP/CHATTISGARH
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72250.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ZEE NEWS UP" group-title="AS | HINDI",HINDI - ZEE NEWS UP
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72251.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - Disney" group-title="AS | HINDI",HINDI - Disney
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/117791.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="ENGLISH - WION NEWS" group-title="AS | HINDI",ENGLISH - WION NEWS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/171571.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD KASHIR HD" group-title="AS | HINDI",HINDI - DD KASHIR HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510195.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD NORTH EAST HD" group-title="AS | HINDI",HINDI - DD NORTH EAST HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510197.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MH ONE SHRADDHA HD" group-title="AS | HINDI",HINDI - MH ONE SHRADDHA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510202.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - HINDU DHARMAM HD" group-title="AS | HINDI",HINDI - HINDU DHARMAM HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510210.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NORTH EAST LIVE HD" group-title="AS | HINDI",HINDI - NORTH EAST LIVE HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510235.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NEWS STATE MP CG" group-title="AS | HINDI",HINDI - NEWS STATE MP CG
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510237.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CLUBBING TV FHD" group-title="AS | HINDI",HINDI - CLUBBING TV FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510248.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INDIA NEWS MP CH HD" group-title="AS | HINDI",HINDI - INDIA NEWS MP CH HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510249.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - SANSAD TV HD" group-title="AS | HINDI",IN - SANSAD TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510251.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - PRIME NEWS HD" group-title="AS | HINDI",HINDI - PRIME NEWS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510256.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - EURO NEWS HD" group-title="AS | HINDI",HINDI - EURO NEWS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510257.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CNN INTL HD" group-title="AS | HINDI",HINDI - CNN INTL HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510278.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SATSANG TV" group-title="AS | HINDI",HINDI - SATSANG TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510290.ts
+#EXTINF:-1 tvg-id="606161" tvg-name="IN - KHUSBOO BANGLA" group-title="AS | HINDI",IN - KHUSBOO BANGLA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/606161.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - MOHONA TV HD" group-title="AS | HINDI",IN - MOHONA TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694101.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SONIC HD GUJARATI" group-title="AS | HINDI",HINDI - SONIC HD GUJARATI
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694109.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - SAAM MARATHI HD" group-title="AS | HINDI",IN - SAAM MARATHI HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694113.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - NAMBIKKAI TV SD" group-title="AS | HINDI",IN - NAMBIKKAI TV SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694122.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ZEE BOLLYWOOD SD" group-title="AS | HINDI",IN - ZEE BOLLYWOOD SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694135.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - IDN LOKMAT" group-title="AS | HINDI",HINDI - IDN LOKMAT
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694159.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ZEE NEWS MP" group-title="AS | HINDI",HINDI - ZEE NEWS MP
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694160.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - OM SHANTI" group-title="AS | HINDI",HINDI - OM SHANTI
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694177.ts
+#EXTINF:-1 tvg-id="804273" tvg-name="KU - ARO DRAMA" group-title="AS | HINDI",KU - ARO DRAMA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/804273.ts
+#EXTINF:-1 tvg-id="808974" tvg-name="IN - 4tv NEWS" group-title="AS | HINDI",IN - 4tv NEWS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808974.ts
+#EXTINF:-1 tvg-id="808976" tvg-name="HINDI - ANB NEWS HD" group-title="AS | HINDI",HINDI - ANB NEWS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808976.ts
+#EXTINF:-1 tvg-id="808979" tvg-name="IN - DD ODIA" group-title="AS | HINDI",IN - DD ODIA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808979.ts
+#EXTINF:-1 tvg-id="808980" tvg-name="IN - Discovery Turbo" group-title="AS | HINDI",IN - Discovery Turbo
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808980.ts
+#EXTINF:-1 tvg-id="808982" tvg-name="IN - GLOBAL INDIA TV HD" group-title="AS | HINDI",IN - GLOBAL INDIA TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808982.ts
+#EXTINF:-1 tvg-id="808987" tvg-name="IN - INH 24X7" group-title="AS | HINDI",IN - INH 24X7
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808987.ts
+#EXTINF:-1 tvg-id="808988" tvg-name="IN - JANSETU NEWS HD" group-title="AS | HINDI",IN - JANSETU NEWS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808988.ts
+#EXTINF:-1 tvg-id="808992" tvg-name="IN - LIVE PUNJABI HD" group-title="AS | HINDI",IN - LIVE PUNJABI HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808992.ts
+#EXTINF:-1 tvg-id="809003" tvg-name="IN - SUBHARTI TV" group-title="AS | HINDI",IN - SUBHARTI TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809003.ts
+#EXTINF:-1 tvg-id="809004" tvg-name="IN - SURYA SAMACHAR" group-title="AS | HINDI",IN - SURYA SAMACHAR
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809004.ts
+#EXTINF:-1 tvg-id="809015" tvg-name="IN - AND PRIVE HD" group-title="AS | HINDI",IN - AND PRIVE HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809015.ts
+#EXTINF:-1 tvg-id="809016" tvg-name="IN - AND XPLOR FHD" group-title="AS | HINDI",IN - AND XPLOR FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809016.ts
+#EXTINF:-1 tvg-id="809019" tvg-name="IN - TV5 KANNADA HD" group-title="AS | HINDI",IN - TV5 KANNADA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809019.ts
+#EXTINF:-1 tvg-id="809021" tvg-name="IN - HM TV HD" group-title="AS | HINDI",IN - HM TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809021.ts
+#EXTINF:-1 tvg-id="809032" tvg-name="HINDI - GAAN BANGLA-MUSIC HD" group-title="AS | HINDI",HINDI - GAAN BANGLA-MUSIC HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809032.ts
+#EXTINF:-1 tvg-id="809037" tvg-name="IN - ATN ISLAMIC TV HD" group-title="AS | HINDI",IN - ATN ISLAMIC TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809037.ts
+#EXTINF:-1 tvg-id="809039" tvg-name="IN - EKATTOR TV HD" group-title="AS | HINDI",IN - EKATTOR TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809039.ts
+#EXTINF:-1 tvg-id="809041" tvg-name="IN - CHANNEL 24" group-title="AS | HINDI",IN - CHANNEL 24
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809041.ts
+#EXTINF:-1 tvg-id="809044" tvg-name="IN - ANIMAL PLANET FHD GUJARATI" group-title="AS | HINDI",IN - ANIMAL PLANET FHD GUJARATI
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809044.ts
+#EXTINF:-1 tvg-id="809046" tvg-name="HINDI - ZEE 24 KALAK GUJRATI HD" group-title="AS | HINDI",HINDI - ZEE 24 KALAK GUJRATI HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809046.ts
+#EXTINF:-1 tvg-id="809050" tvg-name="IN - VANDE GUJARAT 4" group-title="AS | HINDI",IN - VANDE GUJARAT 4
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809050.ts
+#EXTINF:-1 tvg-id="809062" tvg-name="IN - VANDE GUJARAT 16" group-title="AS | HINDI",IN - VANDE GUJARAT 16
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809062.ts
+#EXTINF:-1 tvg-id="809073" tvg-name="IN - ZEE UTTAR PRADESH UTTARAKHAND SD" group-title="AS | HINDI",IN - ZEE UTTAR PRADESH UTTARAKHAND SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809073.ts
+#EXTINF:-1 tvg-id="809075" tvg-name="IN - BBC WORLD NEWS HD" group-title="AS | HINDI",IN - BBC WORLD NEWS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809075.ts
+#EXTINF:-1 tvg-id="809078" tvg-name="HINDI - & FLIX FHD" group-title="AS | HINDI",HINDI - & FLIX FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809078.ts
+#EXTINF:-1 tvg-id="809088" tvg-name="IN - APN NEWS SD" group-title="AS | HINDI",IN - APN NEWS SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/809088.ts
+#EXTINF:-1 tvg-id="993321" tvg-name="IN - COLORS CINEPLEX BOLLYWOOD HD" group-title="AS | HINDI",IN - COLORS CINEPLEX BOLLYWOOD HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/993321.ts
+#EXTINF:-1 tvg-id="993322" tvg-name="IN - COLORS ORIYA HD" group-title="AS | HINDI",IN - COLORS ORIYA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/993322.ts
+#EXTINF:-1 tvg-id="1020719" tvg-name="HINDI - B4U PLUS" group-title="AS | HINDI",HINDI - B4U PLUS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020719.ts
+#EXTINF:-1 tvg-id="1020718" tvg-name="HINDI - B4U MUSIC" group-title="AS | HINDI",HINDI - B4U MUSIC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020718.ts
+#EXTINF:-1 tvg-id="1020717" tvg-name="HINDI - B4U MOVIES" group-title="AS | HINDI",HINDI - B4U MOVIES
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020717.ts
+#EXTINF:-1 tvg-id="1020714" tvg-name="HINDI - PITAARA (BK)" group-title="AS | HINDI",HINDI - PITAARA (BK)
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020714.ts
+#EXTINF:-1 tvg-id="1020710" tvg-name="HINDI - SONY SAB" group-title="AS | HINDI",HINDI - SONY SAB
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020710.ts
+#EXTINF:-1 tvg-id="1020709" tvg-name="HINDI - SONY MAX 2" group-title="AS | HINDI",HINDI - SONY MAX 2
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020709.ts
+
+#EXTINF:-1 tvg-id="1020708" tvg-name="HINDI - SONY MAX" group-title="AS | HINDI",HINDI - SONY MAX
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020708.ts
+#EXTINF:-1 tvg-id="1020703" tvg-name="HINDI - ZEE TV" group-title="AS | HINDI",HINDI - ZEE TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020703.ts
+#EXTINF:-1 tvg-id="1020702" tvg-name="HINDI - COLORS GUJRATI" group-title="AS | HINDI",HINDI - COLORS GUJRATI
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020702.ts
+#EXTINF:-1 tvg-id="1020699" tvg-name="HINDI - COLORS FHD" group-title="AS | HINDI",HINDI - COLORS FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020699.ts
+#EXTINF:-1 tvg-id="1020701" tvg-name="HINDI - COLORS UK HD" group-title="AS | HINDI",HINDI - COLORS UK HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020701.ts
+#EXTINF:-1 tvg-id="1020698" tvg-name="HINDI - SONY TV FHD" group-title="AS | HINDI",HINDI - SONY TV FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020698.ts
+#EXTINF:-1 tvg-id="1020707" tvg-name="HINDI - SONY MAX FHD" group-title="AS | HINDI",HINDI - SONY MAX FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020707.ts
+#EXTINF:-1 tvg-id="1020700" tvg-name="HINDI - COLORS" group-title="AS | HINDI",HINDI - COLORS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020700.ts
+#EXTINF:-1 tvg-id="1020155" tvg-name="HINDI - NEWS | ZEE NEWS UP" group-title="AS | HINDI",HINDI - NEWS | ZEE NEWS UP
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020155.ts
+#EXTINF:-1 tvg-id="1020156" tvg-name="HINDI - NEWS | ZEE RAJASTHAN" group-title="AS | HINDI",HINDI - NEWS | ZEE RAJASTHAN
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020156.ts
+#EXTINF:-1 tvg-id="1020154" tvg-name="HINDI - NEWS | ZEE NEWS MP/CHATTISGARH" group-title="AS | HINDI",HINDI - NEWS | ZEE NEWS MP/CHATTISGARH
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020154.ts
+#EXTINF:-1 tvg-id="1020153" tvg-name="HINDI - NEWS | ZEE NEWS MP" group-title="AS | HINDI",HINDI - NEWS | ZEE NEWS MP
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020153.ts
+#EXTINF:-1 tvg-id="1020152" tvg-name="HINDI - NEWS | ZEE NEWS BIHAR" group-title="AS | HINDI",HINDI - NEWS | ZEE NEWS BIHAR
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020152.ts
+#EXTINF:-1 tvg-id="1020150" tvg-name="HINDI - NEWS | ZEE HINDUSTAN" group-title="AS | HINDI",HINDI - NEWS | ZEE HINDUSTAN
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020150.ts
+#EXTINF:-1 tvg-id="1020149" tvg-name="HINDI - NEWS | ZEE BUSINESS" group-title="AS | HINDI",HINDI - NEWS | ZEE BUSINESS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020149.ts
+#EXTINF:-1 tvg-id="1020147" tvg-name="IN - NEWS | WION NEWS" group-title="AS | HINDI",IN - NEWS | WION NEWS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020147.ts
+#EXTINF:-1 tvg-id="1020146" tvg-name="IN - NEWS | WION" group-title="AS | HINDI",IN - NEWS | WION
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020146.ts
+#EXTINF:-1 tvg-id="1020143" tvg-name="HINDI - NEWS | TV 5 MONDE" group-title="AS | HINDI",HINDI - NEWS | TV 5 MONDE
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020143.ts
+#EXTINF:-1 tvg-id="1020138" tvg-name="HINDI - NEWS | TIMES NOW" group-title="AS | HINDI",HINDI - NEWS | TIMES NOW
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020138.ts
+#EXTINF:-1 tvg-id="1020139" tvg-name="IN - NEWS | TIMES NOW NAVBHARAT" group-title="AS | HINDI",IN - NEWS | TIMES NOW NAVBHARAT
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020139.ts
+#EXTINF:-1 tvg-id="1020140" tvg-name="IN - NEWS | TIMES NOW WORLD FHD" group-title="AS | HINDI",IN - NEWS | TIMES NOW WORLD FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020140.ts
+#EXTINF:-1 tvg-id="1020151" tvg-name="HINDI - NEWS | ZEE NEWS" group-title="AS | HINDI",HINDI - NEWS | ZEE NEWS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020151.ts
+#EXTINF:-1 tvg-id="1020145" tvg-name="IN - NEWS | TV9 BHARATVARSH" group-title="AS | HINDI",IN - NEWS | TV9 BHARATVARSH
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020145.ts
+#EXTINF:-1 tvg-id="1020135" tvg-name="IN - NEWS | SURYA SAMACHAR" group-title="AS | HINDI",IN - NEWS | SURYA SAMACHAR
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020135.ts
+#EXTINF:-1 tvg-id="1020134" tvg-name="HINDI - NEWS | SUDARSHAN NEWS" group-title="AS | HINDI",HINDI - NEWS | SUDARSHAN NEWS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020134.ts
+#EXTINF:-1 tvg-id="1020131" tvg-name="HINDI - NEWS | SAMAY RAJASTHAN" group-title="AS | HINDI",HINDI - NEWS | SAMAY RAJASTHAN
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020131.ts
+#EXTINF:-1 tvg-id="1020129" tvg-name="IN - NEWS | SADHNA PLUS" group-title="AS | HINDI",IN - NEWS | SADHNA PLUS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020129.ts
+#EXTINF:-1 tvg-id="1020127" tvg-name="HINDI - NEWS | REPUBLIC TV" group-title="AS | HINDI",HINDI - NEWS | REPUBLIC TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020127.ts
+#EXTINF:-1 tvg-id="1020126" tvg-name="HINDI - NEWS | REPUBLIC NEWS" group-title="AS | HINDI",HINDI - NEWS | REPUBLIC NEWS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020126.ts
+#EXTINF:-1 tvg-id="1020125" tvg-name="HINDI - NEWS | REPUBLIC BHARAT" group-title="AS | HINDI",HINDI - NEWS | REPUBLIC BHARAT
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020125.ts
+#EXTINF:-1 tvg-id="1020122" tvg-name="HINDI - NEWS | PRIME NEWS" group-title="AS | HINDI",HINDI - NEWS | PRIME NEWS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020122.ts
+#EXTINF:-1 tvg-id="1020117" tvg-name="HINDI - NEWS | NEWS X" group-title="AS | HINDI",HINDI - NEWS | NEWS X
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020117.ts
+#EXTINF:-1 tvg-id="1020113" tvg-name="HINDI - NEWS | NEWS NATION" group-title="AS | HINDI",HINDI - NEWS | NEWS NATION
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020113.ts
+#EXTINF:-1 tvg-id="1020112" tvg-name="HINDI - NEWS | NEWS INDIA 24x7" group-title="AS | HINDI",HINDI - NEWS | NEWS INDIA 24x7
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020112.ts
+#EXTINF:-1 tvg-id="1020109" tvg-name="HINDI - NEWS | NEWS 24" group-title="AS | HINDI",HINDI - NEWS | NEWS 24
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020109.ts
+#EXTINF:-1 tvg-id="1020108" tvg-name="HINDI - NEWS | NEWS 18 UP" group-title="AS | HINDI",HINDI - NEWS | NEWS 18 UP
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020108.ts
+#EXTINF:-1 tvg-id="1020107" tvg-name="HINDI - NEWS | NEWS 18 RAJASTHAN" group-title="AS | HINDI",HINDI - NEWS | NEWS 18 RAJASTHAN
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020107.ts
+#EXTINF:-1 tvg-id="1020105" tvg-name="HINDI - NEWS | NEWS 18 INDIA" group-title="AS | HINDI",HINDI - NEWS | NEWS 18 INDIA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020105.ts
+#EXTINF:-1 tvg-id="1020104" tvg-name="HINDI - NEWS | NEWS 11 BHARAT" group-title="AS | HINDI",HINDI - NEWS | NEWS 11 BHARAT
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020104.ts
+#EXTINF:-1 tvg-id="1020101" tvg-name="HINDI - NEWS | NDTV PROFIT PRIME" group-title="AS | HINDI",HINDI - NEWS | NDTV PROFIT PRIME
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020101.ts
+#EXTINF:-1 tvg-id="1020100" tvg-name="HINDI - NEWS | NDTV INDIA" group-title="AS | HINDI",HINDI - NEWS | NDTV INDIA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020100.ts
+#EXTINF:-1 tvg-id="1020099" tvg-name="HINDI - NEWS | NDTV 24x7" group-title="AS | HINDI",HINDI - NEWS | NDTV 24x7
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020099.ts
+#EXTINF:-1 tvg-id="1020098" tvg-name="HINDI - NEWS | MIRROR NOW" group-title="AS | HINDI",HINDI - NEWS | MIRROR NOW
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020098.ts
+#EXTINF:-1 tvg-id="1020082" tvg-name="HINDI - NEWS | INDIA TODAY" group-title="AS | HINDI",HINDI - NEWS | INDIA TODAY
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020082.ts
+#EXTINF:-1 tvg-id="1020081" tvg-name="HINDI - NEWS | INDIA NEWS UP" group-title="AS | HINDI",HINDI - NEWS | INDIA NEWS UP
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020081.ts
+#EXTINF:-1 tvg-id="1020083" tvg-name="HINDI - NEWS | INDIA TV" group-title="AS | HINDI",HINDI - NEWS | INDIA TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020083.ts
+#EXTINF:-1 tvg-id="1020087" tvg-name="IN - NEWS | INH 24X7" group-title="AS | HINDI",IN - NEWS | INH 24X7
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020087.ts
+#EXTINF:-1 tvg-id="1020075" tvg-name="HINDI - IBC 24" group-title="AS | HINDI",HINDI - IBC 24
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020075.ts
+#EXTINF:-1 tvg-id="808775" tvg-name="HINDI - SONY YAY HEVC" group-title="AS | HINDI",HINDI - SONY YAY HEVC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808775.ts
+#EXTINF:-1 tvg-id="808780" tvg-name="HINDI - NDTV. N HEVC" group-title="AS | HINDI",HINDI - NDTV. N HEVC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808780.ts
+#EXTINF:-1 tvg-id="808781" tvg-name="HINDI - ZOOM TV HEVC" group-title="AS | HINDI",HINDI - ZOOM TV HEVC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808781.ts
+#EXTINF:-1 tvg-id="808783" tvg-name="HINDI - NAT GEO WILD HEVC" group-title="AS | HINDI",HINDI - NAT GEO WILD HEVC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808783.ts
+#EXTINF:-1 tvg-id="808789" tvg-name="IN - AND FLIX HEVC" group-title="AS | HINDI",IN - AND FLIX HEVC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808789.ts
+#EXTINF:-1 tvg-id="808790" tvg-name="HINDI - AND PICTURES HEVC" group-title="AS | HINDI",HINDI - AND PICTURES HEVC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808790.ts
+#EXTINF:-1 tvg-id="808794" tvg-name="HINDI - ZEE BUSINESS HEVC" group-title="AS | HINDI",HINDI - ZEE BUSINESS HEVC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808794.ts
+#EXTINF:-1 tvg-id="808798" tvg-name="HINDI - PUBLIC MUSIC HEVC" group-title="AS | HINDI",HINDI - PUBLIC MUSIC HEVC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808798.ts
+#EXTINF:-1 tvg-id="808799" tvg-name="HINDI - BBC EARTH HEVC" group-title="AS | HINDI",HINDI - BBC EARTH HEVC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808799.ts
+#EXTINF:-1 tvg-id="808800" tvg-name="HINDI - CARTOON NETWORK HEVC" group-title="AS | HINDI",HINDI - CARTOON NETWORK HEVC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808800.ts
+#EXTINF:-1 tvg-id="808807" tvg-name="HINDI - DD BANGLA HEVC" group-title="AS | HINDI",HINDI - DD BANGLA HEVC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808807.ts
+#EXTINF:-1 tvg-id="808811" tvg-name="HINDI - HISTORY TV 18 HEVC" group-title="AS | HINDI",HINDI - HISTORY TV 18 HEVC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/808811.ts
+#EXTINF:-1 tvg-id="1020239" tvg-name="HINDI - THE Q ENTERTAINMENT" group-title="AS | HINDI",HINDI - THE Q ENTERTAINMENT
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020239.ts
+#EXTINF:-1 tvg-id="1020236" tvg-name="HINDI - SHEMAROO TV HD" group-title="AS | HINDI",HINDI - SHEMAROO TV HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020236.ts
+#EXTINF:-1 tvg-id="1020230" tvg-name="HINDI - MNX FHD" group-title="AS | HINDI",HINDI - MNX FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020230.ts
+#EXTINF:-1 tvg-id="1020225" tvg-name="HINDI - MAHA MOVIE HD" group-title="AS | HINDI",HINDI - MAHA MOVIE HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020225.ts
+#EXTINF:-1 tvg-id="1020218" tvg-name="HINDI - ETV CINEMA" group-title="AS | HINDI",HINDI - ETV CINEMA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020218.ts
+#EXTINF:-1 tvg-id="1020242" tvg-name="HINDI - ZING" group-title="AS | HINDI",HINDI - ZING
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020242.ts
+#EXTINF:-1 tvg-id="1020235" tvg-name="HINDI - ROMEDY NOW" group-title="AS | HINDI",HINDI - ROMEDY NOW
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020235.ts
+#EXTINF:-1 tvg-id="1020227" tvg-name="HINDI - MANORANJAN" group-title="AS | HINDI",HINDI - MANORANJAN
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020227.ts
+#EXTINF:-1 tvg-id="1020224" tvg-name="HINDI - MAA MOVIES" group-title="AS | HINDI",HINDI - MAA MOVIES
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020224.ts
+#EXTINF:-1 tvg-id="1116614" tvg-name="IN - SHUBH CINEMA TV" group-title="AS | HINDI",IN - SHUBH CINEMA TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1116614.ts
+#EXTINF:-1 tvg-id="1116615" tvg-name="IN - MANORANJAN GRAND" group-title="AS | HINDI",IN - MANORANJAN GRAND
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1116615.ts
+#EXTINF:-1 tvg-id="1020216" tvg-name="HINDI - ENTER 10 HD" group-title="AS | HINDI",HINDI - ENTER 10 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020216.ts
+#EXTINF:-1 tvg-id="1020215" tvg-name="HINDI - DISH CINE ACTIVE" group-title="AS | HINDI",HINDI - DISH CINE ACTIVE
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020215.ts
+#EXTINF:-1 tvg-id="1020212" tvg-name="HINDI - COMEDY ACTIVE" group-title="AS | HINDI",HINDI - COMEDY ACTIVE
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020212.ts
+#EXTINF:-1 tvg-id="1020210" tvg-name="HINDI - CINEMA TV" group-title="AS | HINDI",HINDI - CINEMA TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020210.ts
+#EXTINF:-1 tvg-id="1020207" tvg-name="HINDI - B4U MOVIES USA" group-title="AS | HINDI",HINDI - B4U MOVIES USA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020207.ts
+#EXTINF:-1 tvg-id="1020206" tvg-name="HINDI - B4U MOVIES INDIA" group-title="AS | HINDI",HINDI - B4U MOVIES INDIA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020206.ts
+#EXTINF:-1 tvg-id="1020204" tvg-name="HINDI - B4U KADAK" group-title="AS | HINDI",HINDI - B4U KADAK
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020204.ts
+#EXTINF:-1 tvg-id="1020201" tvg-name="HINDI - ZEE CLASSIC" group-title="AS | HINDI",HINDI - ZEE CLASSIC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020201.ts
+#EXTINF:-1 tvg-id="1020200" tvg-name="HINDI - ZEE CINEMA SD" group-title="AS | HINDI",HINDI - ZEE CINEMA SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020200.ts
+#EXTINF:-1 tvg-id="1020199" tvg-name="HINDI - ZEE CINEMA HD" group-title="AS | HINDI",HINDI - ZEE CINEMA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020199.ts
+#EXTINF:-1 tvg-id="1020198" tvg-name="HINDI - ZEE CINEMA FHD" group-title="AS | HINDI",HINDI - ZEE CINEMA FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020198.ts
+#EXTINF:-1 tvg-id="1020197" tvg-name="HINDI - ZEE CAFE HD" group-title="AS | HINDI",HINDI - ZEE CAFE HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020197.ts
+#EXTINF:-1 tvg-id="1020195" tvg-name="HINDI - ZEE ANMOL CINEMA" group-title="AS | HINDI",HINDI - ZEE ANMOL CINEMA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020195.ts
+#EXTINF:-1 tvg-id="1020194" tvg-name="HINDI - ZEE ANMOL" group-title="AS | HINDI",HINDI - ZEE ANMOL
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020194.ts
+#EXTINF:-1 tvg-id="1020193" tvg-name="HINDI - ZEE ACTION" group-title="AS | HINDI",HINDI - ZEE ACTION
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020193.ts
+#EXTINF:-1 tvg-id="1020192" tvg-name="HINDI - TATA SKY THEATRE FHD" group-title="AS | HINDI",HINDI - TATA SKY THEATRE FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020192.ts
+#EXTINF:-1 tvg-id="1020180" tvg-name="HINDI - STAR GOLD SELECT FHD" group-title="AS | HINDI",HINDI - STAR GOLD SELECT FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020180.ts
+#EXTINF:-1 tvg-id="1020178" tvg-name="HINDI - STAR GOLD 2" group-title="AS | HINDI",HINDI - STAR GOLD 2
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020178.ts
+#EXTINF:-1 tvg-id="1020176" tvg-name="HINDI - STAR GOLD HD" group-title="AS | HINDI",HINDI - STAR GOLD HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020176.ts
+#EXTINF:-1 tvg-id="1020175" tvg-name="HINDI - STAR GOLD FHD" group-title="AS | HINDI",HINDI - STAR GOLD FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020175.ts
+#EXTINF:-1 tvg-id="1020174" tvg-name="HINDI - SONY WAH" group-title="AS | HINDI",HINDI - SONY WAH
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020174.ts
+#EXTINF:-1 tvg-id="1020173" tvg-name="HINDI - SONY PIX FHD" group-title="AS | HINDI",HINDI - SONY PIX FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020173.ts
+#EXTINF:-1 tvg-id="1020172" tvg-name="HINDI - SONY MAX 2 HD" group-title="AS | HINDI",HINDI - SONY MAX 2 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020172.ts
+#EXTINF:-1 tvg-id="1020171" tvg-name="HINDI - SONY MAX 2" group-title="AS | HINDI",HINDI - SONY MAX 2
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020171.ts
+#EXTINF:-1 tvg-id="1020170" tvg-name="HINDI - SONY MAX HD" group-title="AS | HINDI",HINDI - SONY MAX HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020170.ts
+#EXTINF:-1 tvg-id="1020169" tvg-name="HINDI - SONY MAX FHD" group-title="AS | HINDI",HINDI - SONY MAX FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020169.ts
+#EXTINF:-1 tvg-id="1020168" tvg-name="HINDI - COLORS INFINITY FHD" group-title="AS | HINDI",HINDI - COLORS INFINITY FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020168.ts
+#EXTINF:-1 tvg-id="1020167" tvg-name="HINDI - COLORS CINEPLEX SD" group-title="AS | HINDI",HINDI - COLORS CINEPLEX SD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020167.ts
+#EXTINF:-1 tvg-id="1020166" tvg-name="HINDI - COLORS CINEPLEX FHD" group-title="AS | HINDI",HINDI - COLORS CINEPLEX FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020166.ts
+#EXTINF:-1 tvg-id="1020164" tvg-name="HINDI - & PRIVE FHD" group-title="AS | HINDI",HINDI - & PRIVE FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020164.ts
+#EXTINF:-1 tvg-id="1020163" tvg-name="HINDI - & PICTURES FHD" group-title="AS | HINDI",HINDI - & PICTURES FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020163.ts
+#EXTINF:-1 tvg-id="1020162" tvg-name="HINDI - & PICTURES" group-title="AS | HINDI",HINDI - & PICTURES
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020162.ts
+#EXTINF:-1 tvg-id="1019918" tvg-name="HINDI - ZOOM TV" group-title="AS | HINDI",HINDI - ZOOM TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019918.ts
+#EXTINF:-1 tvg-id="1019886" tvg-name="HINDI - ZOOM" group-title="AS | HINDI",HINDI - ZOOM
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019886.ts
+#EXTINF:-1 tvg-id="1019923" tvg-name="HINDI - ZEE YUVA" group-title="AS | HINDI",HINDI - ZEE YUVA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019923.ts
+#EXTINF:-1 tvg-id="1019845" tvg-name="IN - ZEE TV USA HD" group-title="AS | HINDI",IN - ZEE TV USA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019845.ts
+#EXTINF:-1 tvg-id="1019844" tvg-name="HINDI - ZEE TV" group-title="AS | HINDI",HINDI - ZEE TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019844.ts
+#EXTINF:-1 tvg-id="1019990" tvg-name="HINDI - VEDIC TV" group-title="AS | HINDI",HINDI - VEDIC TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019990.ts
+#EXTINF:-1 tvg-id="1119824" tvg-name="IN - ZEE SARTHAK" group-title="AS | HINDI",IN - ZEE SARTHAK
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1119824.ts
+#EXTINF:-1 tvg-id="1119826" tvg-name="IN - VENDHAR NEWS" group-title="AS | HINDI",IN - VENDHAR NEWS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1119826.ts
+#EXTINF:-1 tvg-id="1019872" tvg-name="HINDI - UTSAV PLUS" group-title="AS | HINDI",HINDI - UTSAV PLUS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019872.ts
+#EXTINF:-1 tvg-id="1019881" tvg-name="IN - SUN TV" group-title="AS | HINDI",IN - SUN TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019881.ts
+#EXTINF:-1 tvg-id="1019880" tvg-name="HINDI - SUN MUSIC" group-title="AS | HINDI",HINDI - SUN MUSIC
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019880.ts
+#EXTINF:-1 tvg-id="1019859" tvg-name="HINDI - STAR UTSAV" group-title="AS | HINDI",HINDI - STAR UTSAV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019859.ts
+#EXTINF:-1 tvg-id="1019855" tvg-name="HINDI - STAR PLUS HD" group-title="AS | HINDI",HINDI - STAR PLUS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019855.ts
+#EXTINF:-1 tvg-id="1019856" tvg-name="HINDI - STAR PLUS" group-title="AS | HINDI",HINDI - STAR PLUS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019856.ts
+#EXTINF:-1 tvg-id="1020182" tvg-name="HINDI - STAR MOVIES FHD" group-title="AS | HINDI",HINDI - STAR MOVIES FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020182.ts
+#EXTINF:-1 tvg-id="1020177" tvg-name="HINDI - STAR GOLD 2 FHD" group-title="AS | HINDI",HINDI - STAR GOLD 2 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1020177.ts
+#EXTINF:-1 tvg-id="1019876" tvg-name="HINDI - STAR BHARAT UK" group-title="AS | HINDI",HINDI - STAR BHARAT UK
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019876.ts
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="HINDI - STAR BHARAT UHD" group-title="AS | HINDI",HINDI - STAR BHARAT UHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/741639.ts
+#EXTINF:-1 tvg-id="1019858" tvg-name="HINDI - STAR BHARAT HD" group-title="AS | HINDI",HINDI - STAR BHARAT HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019858.ts
+#EXTINF:-1 tvg-id="1121268" tvg-name="IN - STAR PRAVAH FHD" group-title="AS | HINDI",IN - STAR PRAVAH FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1121268.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SOHAM TV" group-title="AS | HINDI",HINDI - SOHAM TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72237.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CINEPLEX HD" group-title="AS | HINDI",HINDI - CINEPLEX HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72176.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - & PICTURES" group-title="AS | HINDI",HINDI - & PICTURES
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510226.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - COLORS RISHTEY FHD" group-title="AS | HINDI",HINDI - COLORS RISHTEY FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/510232.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ATN MUSIC HD" group-title="AS | HINDI",IN - ATN MUSIC HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/694103.ts
+#EXTINF:-1 tvg-id="1126364" tvg-name="IN - ASIAN TV" group-title="AS | HINDI",IN - ASIAN TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1126364.ts
+#EXTINF:-1 tvg-id="364793" tvg-name="IN - ASIANET HD" group-title="AS | HINDI",IN - ASIANET HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/364793.ts
+#EXTINF:-1 tvg-id="1019905" tvg-name="HINDI - WE TV" group-title="AS | HINDI",HINDI - WE TV
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019905.ts
+#EXTINF:-1 tvg-id="1019871" tvg-name="HINDI - STAR JALSHA" group-title="AS | HINDI",HINDI - STAR JALSHA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1019871.ts
+#EXTINF:-1 tvg-id="1155473" tvg-name="HINDI - FOOD FOOD HD" group-title="AS | HINDI",HINDI - FOOD FOOD HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1155473.ts
+#EXTINF:-1 tvg-id="1341119" tvg-name="HINDI - ASTRO CRICKET HD" group-title="AS | HINDI",HINDI - ASTRO CRICKET HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1341119.ts
+
+#EXTINF:-1 tvg-id="timesnowhd.in" tvg-name="ENGLISH - TIMES NOW NEWS HD" group-title="AS | ENGLISH",ENGLISH - TIMES NOW NEWS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34681.ts
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="ENGLISH - AND PRIVE HD" group-title="AS | ENGLISH",ENGLISH - AND PRIVE HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34717.ts
+#EXTINF:-1 tvg-id="animalplanet.in" tvg-name="ENGLISH - ANIMAL PLANET WORLD HD" group-title="AS | ENGLISH",ENGLISH - ANIMAL PLANET WORLD HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34716.ts
+#EXTINF:-1 tvg-id="34714" tvg-name="ENGLISH - BLOOMBERG INDIA" group-title="AS | ENGLISH",ENGLISH - BLOOMBERG INDIA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34714.ts
+#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="ENGLISH - CARTOON NETWORK" group-title="AS | ENGLISH",ENGLISH - CARTOON NETWORK
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34713.ts
+#EXTINF:-1 tvg-id="cnbctv18primehd.in" tvg-name="ENGLISH - CNBC TV18 PRIME NEWS HD" group-title="AS | ENGLISH",ENGLISH - CNBC TV18 PRIME NEWS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34711.ts
+#EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="ENGLISH - COLORS INFINITY HD" group-title="AS | ENGLISH",ENGLISH - COLORS INFINITY HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34710.ts
+#EXTINF:-1 tvg-id="comedycentralhd.in" tvg-name="ENGLISH - COMEDY CENTRAL HD" group-title="AS | ENGLISH",ENGLISH - COMEDY CENTRAL HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34709.ts
+#EXTINF:-1 tvg-id="34708" tvg-name="ENGLISH - DISCOVERY WORLD HD" group-title="AS | ENGLISH",ENGLISH - DISCOVERY WORLD HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34708.ts
+#EXTINF:-1 tvg-id="34706" tvg-name="ENGLISH - DISNEY INTERNATIONAL HD" group-title="AS | ENGLISH",ENGLISH - DISNEY INTERNATIONAL HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34706.ts
+#EXTINF:-1 tvg-id="etnow.in" tvg-name="ENGLISH - ET NOW HD" group-title="AS | ENGLISH",ENGLISH - ET NOW HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34704.ts
+#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="ENGLISH - FOX LIFE HD" group-title="AS | ENGLISH",ENGLISH - FOX LIFE HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34703.ts
+#EXTINF:-1 tvg-id="hbo.in" tvg-name="ENGLISH - HBO INDIA HD" group-title="AS | ENGLISH",ENGLISH - HBO INDIA HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34702.ts
+#EXTINF:-1 tvg-id="historytv18.in" tvg-name="ENGLISH - HISTORY TV18 HD" group-title="AS | ENGLISH",ENGLISH - HISTORY TV18 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34701.ts
+#EXTINF:-1 tvg-id="mnplushd.in" tvg-name="ENGLISH - MN PLUS HD" group-title="AS | ENGLISH",ENGLISH - MN PLUS HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34699.ts
+#EXTINF:-1 tvg-id="mnx.in" tvg-name="ENGLISH - MNX HD" group-title="AS | ENGLISH",ENGLISH - MNX HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34698.ts
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="ENGLISH - MOVIES NOW HD" group-title="AS | ENGLISH",ENGLISH - MOVIES NOW HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34697.ts
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="ENGLISH - NAT GEO WILD HD ◉" group-title="AS | ENGLISH",ENGLISH - NAT GEO WILD HD ◉
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34694.ts
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="ENGLISH - NATIONAL GEOGRAPHIC HD" group-title="AS | ENGLISH",ENGLISH - NATIONAL GEOGRAPHIC HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34693.ts
+#EXTINF:-1 tvg-id="sonybbcearth.in" tvg-name="ENGLISH - SONY BBC EARTH ENGLISH HD" group-title="AS | ENGLISH",ENGLISH - SONY BBC EARTH ENGLISH HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34690.ts
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="ENGLISH - STAR MOVIES SELECT HD" group-title="AS | ENGLISH",ENGLISH - STAR MOVIES SELECT HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34687.ts
+#EXTINF:-1 tvg-id="theqindia.in" tvg-name="ENGLISH - THE QYOU" group-title="AS | ENGLISH",ENGLISH - THE QYOU
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34682.ts
+#EXTINF:-1 tvg-id="tlchdworld.in" tvg-name="ENGLISH - TLC WORLD HD" group-title="AS | ENGLISH",ENGLISH - TLC WORLD HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34680.ts
+#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="ENGLISH - TRAVEL XP HD" group-title="AS | ENGLISH",ENGLISH - TRAVEL XP HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34679.ts
+#EXTINF:-1 tvg-id="vh1hd.in" tvg-name="ENGLISH - VH1 HD" group-title="AS | ENGLISH",ENGLISH - VH1 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34678.ts
+#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="ENGLISH - ZEE CAFE HD" group-title="AS | ENGLISH",ENGLISH - ZEE CAFE HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34676.ts
+#EXTINF:-1 tvg-id="1090632" tvg-name="SPORTS - SPORTS 18 FHD" group-title="AS | SPORTS",SPORTS - SPORTS 18 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090632.ts
+#EXTINF:-1 tvg-id="1090633" tvg-name="SPORTS - D SPORTS  FHD" group-title="AS | SPORTS",SPORTS - D SPORTS  FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090633.ts
+#EXTINF:-1 tvg-id="1090634" tvg-name="SPORTS - SONY SPORT TEN 5 FHD" group-title="AS | SPORTS",SPORTS - SONY SPORT TEN 5 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090634.ts
+#EXTINF:-1 tvg-id="1090635" tvg-name="SPORTS - STAR SPORTS 1 HD ENGLISH FHD" group-title="AS | SPORTS",SPORTS - STAR SPORTS 1 HD ENGLISH FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090635.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="SPORTS - STAR SPORTS 1 HD HINDI FHD" group-title="AS | SPORTS",SPORTS - STAR SPORTS 1 HD HINDI FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090636.ts
+#EXTINF:-1 tvg-id="1090637" tvg-name="SPORTS - STAR SPORTS 2 FHD" group-title="AS | SPORTS",SPORTS - STAR SPORTS 2 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090637.ts
+#EXTINF:-1 tvg-id="1090638" tvg-name="SPORTS - STAR SPORTS 3 FHD" group-title="AS | SPORTS",SPORTS - STAR SPORTS 3 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090638.ts
+#EXTINF:-1 tvg-id="1090639" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" group-title="AS | SPORTS",SPORTS - STAR SPORTS SELECT 1 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090639.ts
+#EXTINF:-1 tvg-id="1090640" tvg-name="SPORTS - STAR SPORTS SELECT 2 HD" group-title="AS | SPORTS",SPORTS - STAR SPORTS SELECT 2 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090640.ts
+#EXTINF:-1 tvg-id="1090641" tvg-name="SPORTS - TEN 1 HD" group-title="AS | SPORTS",SPORTS - TEN 1 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090641.ts
+#EXTINF:-1 tvg-id="1090642" tvg-name="SPORTS - TEN 2 HD" group-title="AS | SPORTS",SPORTS - TEN 2 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090642.ts
+#EXTINF:-1 tvg-id="1090643" tvg-name="SPORTS - TEN 3 HD" group-title="AS | SPORTS",SPORTS - TEN 3 HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090643.ts
+#EXTINF:-1 tvg-id="1090644" tvg-name="SPORTS - WILLOW CRICKET HD" group-title="AS | SPORTS",SPORTS - WILLOW CRICKET HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090644.ts
+#EXTINF:-1 tvg-id="1090645" tvg-name="SPORTS - DD SPORTS FHD" group-title="AS | SPORTS",SPORTS - DD SPORTS FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090645.ts
+#EXTINF:-1 tvg-id="1090646" tvg-name="SPORTS - STAR SPORTS TAMIL FHD" group-title="AS | SPORTS",SPORTS - STAR SPORTS TAMIL FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090646.ts
+#EXTINF:-1 tvg-id="1090647" tvg-name="SPORTS - HUB SPORTS 1 FHD" group-title="AS | SPORTS",SPORTS - HUB SPORTS 1 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090647.ts
+#EXTINF:-1 tvg-id="1090648" tvg-name="SPORTS - HUB SPORTS 2 FHD" group-title="AS | SPORTS",SPORTS - HUB SPORTS 2 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090648.ts
+#EXTINF:-1 tvg-id="1090649" tvg-name="SPORTS - HUB SPORTS 3 FHD" group-title="AS | SPORTS",SPORTS - HUB SPORTS 3 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090649.ts
+#EXTINF:-1 tvg-id="1090650" tvg-name="SPORTS - HUB SPORTS 4 FHD" group-title="AS | SPORTS",SPORTS - HUB SPORTS 4 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090650.ts
+#EXTINF:-1 tvg-id="1090651" tvg-name="SPORTS - HUB SPORTS 5 FHD" group-title="AS | SPORTS",SPORTS - HUB SPORTS 5 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090651.ts
+#EXTINF:-1 tvg-id="1090652" tvg-name="SPORTS - STAR SPORTS 1 TELUGU FHD" group-title="AS | SPORTS",SPORTS - STAR SPORTS 1 TELUGU FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090652.ts
+#EXTINF:-1 tvg-id="1090653" tvg-name="SPORTS - SPORTS 18 UK FHD" group-title="AS | SPORTS",SPORTS - SPORTS 18 UK FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1090653.ts
+#EXTINF:-1 tvg-id="438868" tvg-name="UK - NOW HK NOW SPORTS 1  FHD" group-title="AS | SPORTS",UK - NOW HK NOW SPORTS 1  FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/438868.ts
+#EXTINF:-1 tvg-id="438870" tvg-name="UK - NOW HK NOW SPORTS 3 FHD" group-title="AS | SPORTS",UK - NOW HK NOW SPORTS 3 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/438870.ts
+#EXTINF:-1 tvg-id="438871" tvg-name="UK - NOW HK NOW SPORTS 4 FHD" group-title="AS | SPORTS",UK - NOW HK NOW SPORTS 4 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/438871.ts
+#EXTINF:-1 tvg-id="438869" tvg-name="UK - NOW HK NOW SPORTS 2 FHD" group-title="AS | SPORTS",UK - NOW HK NOW SPORTS 2 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/438869.ts
+#EXTINF:-1 tvg-id="438872" tvg-name="UK - NOW HK NOW SPORTS 5 FHD" group-title="AS | SPORTS",UK - NOW HK NOW SPORTS 5 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/438872.ts
+#EXTINF:-1 tvg-id="438873" tvg-name="UK - NOW HK NOW SPORTS 6 FHD" group-title="AS | SPORTS",UK - NOW HK NOW SPORTS 6 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/438873.ts
+#EXTINF:-1 tvg-id="438874" tvg-name="UK - NOW HK NOW SPORTS 7 FHD" group-title="AS | SPORTS",UK - NOW HK NOW SPORTS 7 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/438874.ts
+#EXTINF:-1 tvg-id="1120204" tvg-name="SPORTS - SPORTS 18 2 FHD" group-title="AS | SPORTS",SPORTS - SPORTS 18 2 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1120204.ts
+#EXTINF:-1 tvg-id="1120205" tvg-name="SPORTS - SPORTS 18 3 FHD" group-title="AS | SPORTS",SPORTS - SPORTS 18 3 FHD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/1120205.ts
+#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="BENGALI - COLORS BANGLA HD ◉ " group-title="AS | BENGALI",BENGALI - COLORS BANGLA HD ◉ 
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34730.ts
+#EXTINF:-1 tvg-id="nationalgeographicchannel.in" tvg-name="BENGALI - NAT GEO HD" group-title="AS | BENGALI",BENGALI - NAT GEO HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34729.ts
+#EXTINF:-1 tvg-id="34727" tvg-name="BENGALI - SANGEET BANGLA" group-title="AS | BENGALI",BENGALI - SANGEET BANGLA
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34727.ts
+#EXTINF:-1 tvg-id="starjalsha.in" tvg-name="BENGALI - STAR JALSHA HD ◉ " group-title="AS | BENGALI",BENGALI - STAR JALSHA HD ◉ 
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34726.ts
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BENGALI - STAR JALSHA MOVIES HD" group-title="AS | BENGALI",BENGALI - STAR JALSHA MOVIES HD
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34725.ts
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="BENGALI - ZEE BANGLA HD ◉ " group-title="AS | BENGALI",BENGALI - ZEE BANGLA HD ◉ 
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/34731.ts
