@@ -180,7 +180,8 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="IN|UK - PTC NEWS 2" group-title="AS | INDIA UK",IN|UK - PTC NEWS
+http://anu-gold.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72507.ts
 
 #EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="IN|UK - COLORS RISHTEY TV" group-title="AS | INDIA UK",IN|UK - COLORS RISHTEY TV
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72511.ts
