@@ -2,6 +2,10 @@
 #PLAYLIST: RB Playlist
 #EXTENC: UTF-8
 
+#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="IN|UK - PTC NEWS 2" group-title="AS | INDIA UK",IN|UK - PTC NEWS
+http://flowutc.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72523.ts
+#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="IN|UK - PTC NEWS 3" group-title="AS | INDIA UK",IN|UK - PTC NEWS
+http://flowutc.com:80/live/1678171048233507/41D4EA0655BC/72523.ts
 #EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="IN|UK - PTC NEWS" group-title="AS | INDIA UK",IN|UK - PTC NEWS
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72523.ts
 #EXTINF:-1 tvg-id="abpnews.in" tvg-name="IN|UK - ABP NEWS" group-title="AS | INDIA UK",IN|UK - ABP NEWS
