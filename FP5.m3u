@@ -4,12 +4,7 @@
 
 #EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="IN|UK - PTC NEWS 2" group-title="AS | INDIA UK",IN|UK - PTC NEWS
 http://flowutc.com:80/live/8340A972D5C3015/6QHh8Lgoqt/72523.ts
-#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="IN|UK - PTC NEWS 3" group-title="AS | INDIA UK",IN|UK - PTC NEWS
-http://flowutc.com:80/live/1678171048233507/41D4EA0655BC/72523.ts
-#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="IN|UK - PTC NEWS" group-title="AS | INDIA UK",IN|UK - PTC NEWS
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72523.ts
-#EXTINF:-1 tvg-id="abpnews.in" tvg-name="IN|UK - ABP NEWS" group-title="AS | INDIA UK",IN|UK - ABP NEWS
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72519.ts
+
 #EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="IN|UK - COLORS RISHTEY TV" group-title="AS | INDIA UK",IN|UK - COLORS RISHTEY TV
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72511.ts
 #EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN|UK - COLORS CINEPLEX" group-title="AS | INDIA UK",IN|UK - COLORS CINEPLEX
@@ -46,29 +41,14 @@ http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72504.ts
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72528.ts
 #EXTINF:-1 tvg-id="sanskartv.in" tvg-name="IN|UK - SANGAT" group-title="AS | INDIA UK",IN|UK - SANGAT
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72526.ts
-#EXTINF:-1 tvg-id="72525" tvg-name="IN|UK - AKAAL CHANNEL" group-title="AS | INDIA UK",IN|UK - AKAAL CHANNEL
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72525.ts
-#EXTINF:-1 tvg-id="72524" tvg-name="IN|UK - SIKH CHANNEL" group-title="AS | INDIA UK",IN|UK - SIKH CHANNEL
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72524.ts
 #EXTINF:-1 tvg-id="aastha.in" tvg-name="IN|UK - AASTHA" group-title="AS | INDIA UK",IN|UK - AASTHA
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72522.ts
-#EXTINF:-1 tvg-id="ndtvindia.in" tvg-name="IN|UK - NDTV" group-title="AS | INDIA UK",IN|UK - NDTV
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72521.ts
-#EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="IN|UK - AAJ TAK" group-title="AS | INDIA UK",IN|UK - AAJ TAK
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72520.ts
-#EXTINF:-1 tvg-id="72517" tvg-name="IN|UK - BRIT ASIA TV" group-title="AS | INDIA UK",IN|UK - BRIT ASIA TV
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72517.ts
 #EXTINF:-1 tvg-id="zing.in" tvg-name="IN|UK - ZING" group-title="AS | INDIA UK",IN|UK - ZING
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72516.ts
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN|UK - UTSAV PLUS" group-title="AS | INDIA UK",IN|UK - UTSAV PLUS
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72501.ts
-#EXTINF:-1 tvg-id="510529" tvg-name="|IN|UK| KTV" group-title="AS | INDIA UK",|IN|UK| KTV
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510529.ts
 #EXTINF:-1 tvg-id="510530" tvg-name="|IN|UK| COLORS HD" group-title="AS | INDIA UK",|IN|UK| COLORS HD
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510530.ts
-#EXTINF:-1 tvg-id="510531" tvg-name="|IN|UK| PTC PUNJABI" group-title="AS | INDIA UK",|IN|UK| PTC PUNJABI
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510531.ts
-
 
 #EXTINF:-1 tvg-id="78930" tvg-name="##### BANGLA - UK #####" group-title="AS | BANGLA",##### BANGLA - UK #####
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/78930.ts
@@ -76,8 +56,6 @@ http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/78930.ts
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72257.ts
 #EXTINF:-1 tvg-id="72255" tvg-name="BANGLA -UK| ATN BANGLA UK" group-title="AS | BANGLA",BANGLA -UK| ATN BANGLA UK
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72255.ts
-#EXTINF:-1 tvg-id="72254" tvg-name="##### BANGLA - GENERAL #####" group-title="AS | BANGLA",##### BANGLA - GENERAL #####
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72254.ts
 #EXTINF:-1 tvg-id="76205" tvg-name="BANGLA - STAR JALSHA MOVIES HD" group-title="AS | BANGLA",BANGLA - STAR JALSHA MOVIES HD
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/76205.ts
 #EXTINF:-1 tvg-id="76197" tvg-name="BANGLA - ATN" group-title="AS | BANGLA",BANGLA - ATN
@@ -140,8 +118,6 @@ http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510484.ts
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510485.ts
 #EXTINF:-1 tvg-id="510487" tvg-name="BANGLA - T SPORTS" group-title="AS | BANGLA",BANGLA - T SPORTS
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510487.ts
-#EXTINF:-1 tvg-id="24ghante.in" tvg-name="BANGLA - 24 GHANTA TV" group-title="AS | BANGLA",BANGLA - 24 GHANTA TV
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72323.ts
 #EXTINF:-1 tvg-id="sangeetmarathi.in" tvg-name="BANGLA - SANGEET" group-title="AS | BANGLA",BANGLA - SANGEET
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/76190.ts
 #EXTINF:-1 tvg-id="rupashibangla.in" tvg-name="BANGLA - RUPASHI" group-title="AS | BANGLA",BANGLA - RUPASHI
@@ -154,54 +130,8 @@ http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510486.ts
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/928141.ts
 #EXTINF:-1 tvg-id="1329254" tvg-name="HINDI - TV ASIA FHD" group-title="AS | HINDI",HINDI - TV ASIA FHD
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1329254.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="##### HINDI - GENERAL #####" group-title="AS | HINDI",##### HINDI - GENERAL #####
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72133.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INDIA TV" group-title="AS | HINDI",HINDI - INDIA TV
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/256067.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INDIA TODAY" group-title="AS | HINDI",HINDI - INDIA TODAY
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510285.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INDIA NEWS RAJASTHAN" group-title="AS | HINDI",HINDI - INDIA NEWS RAJASTHAN
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510250.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NEWS 11 BHARAT" group-title="AS | HINDI",HINDI - NEWS 11 BHARAT
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510252.ts
-#EXTINF:-1 tvg-id="news18india.in" tvg-name="HINDI - NEWS 18 ASSAM" group-title="AS | HINDI",HINDI - NEWS 18 ASSAM
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72221.ts
-#EXTINF:-1 tvg-id="news18india.in" tvg-name="HINDI - NEWS 18 INDIA" group-title="AS | HINDI",HINDI - NEWS 18 INDIA
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72223.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NEWS 18 UP TV HD" group-title="AS | HINDI",HINDI - NEWS 18 UP TV HD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510239.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - NEWS 18 GUJARATI SD" group-title="AS | HINDI",IN - NEWS 18 GUJARATI SD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/694108.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NEWS INDIA 24x7 HD" group-title="AS | HINDI",HINDI - NEWS INDIA 24x7 HD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510253.ts
-#EXTINF:-1 tvg-id="newsnation.in" tvg-name="HINDI - NEWS NATION" group-title="AS | HINDI",HINDI - NEWS NATION
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72229.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NEWS LIVE HD" group-title="AS | HINDI",HINDI - NEWS LIVE HD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510238.ts
-#EXTINF:-1 tvg-id="abpnews.in" tvg-name="HINDI - ABP NEWS INDIA" group-title="AS | HINDI",HINDI - ABP NEWS INDIA
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72163.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ABP MAJHA MARATHI HD" group-title="AS | HINDI",IN - ABP MAJHA MARATHI HD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/694112.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - GEO NEWS" group-title="AS | HINDI",HINDI - GEO NEWS
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510213.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DW NEWS HD" group-title="AS | HINDI",HINDI - DW NEWS HD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510218.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - E NEWS 24" group-title="AS | HINDI",HINDI - E NEWS 24
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510287.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - KASHISH NEWS" group-title="AS | HINDI",HINDI - KASHISH NEWS
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510254.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ATN Punjabi 5 HD" group-title="AS | HINDI",HINDI - ATN Punjabi 5 HD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/694117.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - JAMUNA TV HD" group-title="AS | HINDI",IN - JAMUNA TV HD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/694099.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - LOKSHAHI SD" group-title="AS | HINDI",IN - LOKSHAHI SD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/694115.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - TV PUNJAB HD" group-title="AS | HINDI",HINDI - TV PUNJAB HD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/694119.ts
-#EXTINF:-1 tvg-id="republictv.in" tvg-name="HINDI - Republic TV" group-title="AS | HINDI",HINDI - Republic TV
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72231.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - REPUBLIC BHARAT" group-title="AS | HINDI",HINDI - REPUBLIC BHARAT
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/167200.ts
+
+
 #EXTINF:-1 tvg-id="sonyhd.in" tvg-name="HINDI - SONY HD ◉ " group-title="AS | HINDI",HINDI - SONY HD ◉ 
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72146.ts
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="HINDI - SONY MAX HD" group-title="AS | HINDI",HINDI - SONY MAX HD
@@ -238,34 +168,15 @@ http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72166.ts
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/174906.ts
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD NATIONAL" group-title="AS | HINDI",HINDI - DD NATIONAL
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72180.ts
-#EXTINF:-1 tvg-id="ddrajasthan.in" tvg-name="HINDI - DD RAJASTHAN" group-title="AS | HINDI",HINDI - DD RAJASTHAN
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72181.ts
-#EXTINF:-1 tvg-id="ddbihar.in" tvg-name="HINDI - DD BHARATI" group-title="AS | HINDI",HINDI - DD BHARATI
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72182.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD UTTAR PRADESH HD" group-title="AS | HINDI",HINDI - DD UTTAR PRADESH HD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510198.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD BIHAR" group-title="AS | HINDI",HINDI - DD BIHAR
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72183.ts
-#EXTINF:-1 tvg-id="ddindia.in" tvg-name="HINDI - DD INDIA" group-title="AS | HINDI",HINDI - DD INDIA
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72184.ts
-#EXTINF:-1 tvg-id="ddnews.in" tvg-name="HINDI - DD NEWS" group-title="AS | HINDI",HINDI - DD NEWS
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72186.ts
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="HINDI - DD SPORTS" group-title="AS | HINDI",HINDI - DD SPORTS
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72187.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD UP" group-title="AS | HINDI",HINDI - DD UP
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72189.ts
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MH ONE HD" group-title="AS | HINDI",HINDI - MH ONE HD
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510203.ts
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - HUM TV HD" group-title="AS | HINDI",HINDI - HUM TV HD
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510208.ts
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - HUM TV EUROPE HD" group-title="AS | HINDI",HINDI - HUM TV EUROPE HD
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510209.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ETV TELENGANA HD" group-title="AS | HINDI",HINDI - ETV TELENGANA HD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510214.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ETV ANDHRA PRADESH HD" group-title="AS | HINDI",HINDI - ETV ANDHRA PRADESH HD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510215.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ETV ABHIRUCHI" group-title="AS | HINDI",HINDI - ETV ABHIRUCHI
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/510216.ts
+
 #EXTINF:-1 tvg-id="vedic.in" tvg-name="HINDI - VEDIC TV" group-title="AS | HINDI",HINDI - VEDIC TV
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72242.ts
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SHEMAROO TV" group-title="AS | HINDI",HINDI - SHEMAROO TV
@@ -470,16 +381,8 @@ http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/808977.ts
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/808978.ts
 #EXTINF:-1 tvg-id="808984" tvg-name="IN - HARYANA BEATS" group-title="AS | HINDI",IN - HARYANA BEATS
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/808984.ts
-#EXTINF:-1 tvg-id="808986" tvg-name="HINDI - IN GOA 24X7" group-title="AS | HINDI",HINDI - IN GOA 24X7
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/808986.ts
 #EXTINF:-1 tvg-id="808994" tvg-name="IN - NAMMA TV" group-title="AS | HINDI",IN - NAMMA TV
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/808994.ts
-#EXTINF:-1 tvg-id="808998" tvg-name="IN - SHRI ASHTAVINAYAK MAHAGANPATI" group-title="AS | HINDI",IN - SHRI ASHTAVINAYAK MAHAGANPATI
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/808998.ts
-#EXTINF:-1 tvg-id="809001" tvg-name="IN - SHRI MAHALAXMI TEMPLE" group-title="AS | HINDI",IN - SHRI MAHALAXMI TEMPLE
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809001.ts
-#EXTINF:-1 tvg-id="809005" tvg-name="IN - TARA NEWS" group-title="AS | HINDI",IN - TARA NEWS
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809005.ts
 #EXTINF:-1 tvg-id="809007" tvg-name="IN - TATA PLAY ENGLISH IN TELUGU" group-title="AS | HINDI",IN - TATA PLAY ENGLISH IN TELUGU
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809007.ts
 #EXTINF:-1 tvg-id="809010" tvg-name="IN - VALAM TV HD" group-title="AS | HINDI",IN - VALAM TV HD
@@ -524,42 +427,6 @@ http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809040.ts
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809042.ts
 #EXTINF:-1 tvg-id="809043" tvg-name="IN - TV9 BHARATVARSH HD" group-title="AS | HINDI",IN - TV9 BHARATVARSH HD
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809043.ts
-#EXTINF:-1 tvg-id="809045" tvg-name="HINDI - NICK HD GUJARATI" group-title="AS | HINDI",HINDI - NICK HD GUJARATI
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809045.ts
-#EXTINF:-1 tvg-id="809047" tvg-name="IN - VANDE GUJARAT 1" group-title="AS | HINDI",IN - VANDE GUJARAT 1
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809047.ts
-#EXTINF:-1 tvg-id="809048" tvg-name="IN - VANDE GUJARAT 2" group-title="AS | HINDI",IN - VANDE GUJARAT 2
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809048.ts
-#EXTINF:-1 tvg-id="809049" tvg-name="IN - VANDE GUJARAT 3" group-title="AS | HINDI",IN - VANDE GUJARAT 3
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809049.ts
-#EXTINF:-1 tvg-id="809051" tvg-name="IN - VANDE GUJARAT 5" group-title="AS | HINDI",IN - VANDE GUJARAT 5
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809051.ts
-#EXTINF:-1 tvg-id="809052" tvg-name="IN - VANDE GUJARAT 6" group-title="AS | HINDI",IN - VANDE GUJARAT 6
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809052.ts
-#EXTINF:-1 tvg-id="809053" tvg-name="IN - VANDE GUJARAT 7" group-title="AS | HINDI",IN - VANDE GUJARAT 7
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809053.ts
-#EXTINF:-1 tvg-id="809054" tvg-name="IN - VANDE GUJARAT 8" group-title="AS | HINDI",IN - VANDE GUJARAT 8
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809054.ts
-#EXTINF:-1 tvg-id="809055" tvg-name="IN - VANDE GUJARAT 9" group-title="AS | HINDI",IN - VANDE GUJARAT 9
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809055.ts
-#EXTINF:-1 tvg-id="809056" tvg-name="IN - VANDE GUJARAT 10" group-title="AS | HINDI",IN - VANDE GUJARAT 10
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809056.ts
-#EXTINF:-1 tvg-id="809057" tvg-name="IN - VANDE GUJARAT 11" group-title="AS | HINDI",IN - VANDE GUJARAT 11
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809057.ts
-#EXTINF:-1 tvg-id="809058" tvg-name="IN - VANDE GUJARAT 12" group-title="AS | HINDI",IN - VANDE GUJARAT 12
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809058.ts
-#EXTINF:-1 tvg-id="809059" tvg-name="IN - VANDE GUJARAT 13" group-title="AS | HINDI",IN - VANDE GUJARAT 13
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809059.ts
-#EXTINF:-1 tvg-id="809060" tvg-name="IN - VANDE GUJARAT 14" group-title="AS | HINDI",IN - VANDE GUJARAT 14
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809060.ts
-#EXTINF:-1 tvg-id="809061" tvg-name="IN - VANDE GUJARAT 15" group-title="AS | HINDI",IN - VANDE GUJARAT 15
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809061.ts
-#EXTINF:-1 tvg-id="809063" tvg-name="HINDI - FAKT MARATHI HD" group-title="AS | HINDI",HINDI - FAKT MARATHI HD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809063.ts
-#EXTINF:-1 tvg-id="809064" tvg-name="HINDI - PUNJABI TV HD" group-title="AS | HINDI",HINDI - PUNJABI TV HD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809064.ts
-#EXTINF:-1 tvg-id="809065" tvg-name="HINDI - VISION PUNJAB GURBANI HD" group-title="AS | HINDI",HINDI - VISION PUNJAB GURBANI HD
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809065.ts
 #EXTINF:-1 tvg-id="809067" tvg-name="HINDI - 3 TAMIL TV HD" group-title="AS | HINDI",HINDI - 3 TAMIL TV HD
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/809067.ts
 #EXTINF:-1 tvg-id="809068" tvg-name="IN - VAANAVIL HD" group-title="AS | HINDI",IN - VAANAVIL HD
@@ -806,50 +673,7 @@ http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020135.ts
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020134.ts
 #EXTINF:-1 tvg-id="1020131" tvg-name="HINDI - NEWS | SAMAY RAJASTHAN" group-title="AS | HINDI",HINDI - NEWS | SAMAY RAJASTHAN
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020131.ts
-#EXTINF:-1 tvg-id="1020129" tvg-name="IN - NEWS | SADHNA PLUS" group-title="AS | HINDI",IN - NEWS | SADHNA PLUS
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020129.ts
-#EXTINF:-1 tvg-id="1020127" tvg-name="HINDI - NEWS | REPUBLIC TV" group-title="AS | HINDI",HINDI - NEWS | REPUBLIC TV
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020127.ts
-#EXTINF:-1 tvg-id="1020126" tvg-name="HINDI - NEWS | REPUBLIC NEWS" group-title="AS | HINDI",HINDI - NEWS | REPUBLIC NEWS
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020126.ts
-#EXTINF:-1 tvg-id="1020125" tvg-name="HINDI - NEWS | REPUBLIC BHARAT" group-title="AS | HINDI",HINDI - NEWS | REPUBLIC BHARAT
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020125.ts
-#EXTINF:-1 tvg-id="1020122" tvg-name="HINDI - NEWS | PRIME NEWS" group-title="AS | HINDI",HINDI - NEWS | PRIME NEWS
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020122.ts
-#EXTINF:-1 tvg-id="1020117" tvg-name="HINDI - NEWS | NEWS X" group-title="AS | HINDI",HINDI - NEWS | NEWS X
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020117.ts
-#EXTINF:-1 tvg-id="1020113" tvg-name="HINDI - NEWS | NEWS NATION" group-title="AS | HINDI",HINDI - NEWS | NEWS NATION
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020113.ts
-#EXTINF:-1 tvg-id="1020112" tvg-name="HINDI - NEWS | NEWS INDIA 24x7" group-title="AS | HINDI",HINDI - NEWS | NEWS INDIA 24x7
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020112.ts
-#EXTINF:-1 tvg-id="1020109" tvg-name="HINDI - NEWS | NEWS 24" group-title="AS | HINDI",HINDI - NEWS | NEWS 24
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020109.ts
-#EXTINF:-1 tvg-id="1020108" tvg-name="HINDI - NEWS | NEWS 18 UP" group-title="AS | HINDI",HINDI - NEWS | NEWS 18 UP
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020108.ts
-#EXTINF:-1 tvg-id="1020107" tvg-name="HINDI - NEWS | NEWS 18 RAJASTHAN" group-title="AS | HINDI",HINDI - NEWS | NEWS 18 RAJASTHAN
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020107.ts
-#EXTINF:-1 tvg-id="1020105" tvg-name="HINDI - NEWS | NEWS 18 INDIA" group-title="AS | HINDI",HINDI - NEWS | NEWS 18 INDIA
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020105.ts
-#EXTINF:-1 tvg-id="1020104" tvg-name="HINDI - NEWS | NEWS 11 BHARAT" group-title="AS | HINDI",HINDI - NEWS | NEWS 11 BHARAT
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020104.ts
-#EXTINF:-1 tvg-id="1020101" tvg-name="HINDI - NEWS | NDTV PROFIT PRIME" group-title="AS | HINDI",HINDI - NEWS | NDTV PROFIT PRIME
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020101.ts
-#EXTINF:-1 tvg-id="1020100" tvg-name="HINDI - NEWS | NDTV INDIA" group-title="AS | HINDI",HINDI - NEWS | NDTV INDIA
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020100.ts
-#EXTINF:-1 tvg-id="1020099" tvg-name="HINDI - NEWS | NDTV 24x7" group-title="AS | HINDI",HINDI - NEWS | NDTV 24x7
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020099.ts
-#EXTINF:-1 tvg-id="1020098" tvg-name="HINDI - NEWS | MIRROR NOW" group-title="AS | HINDI",HINDI - NEWS | MIRROR NOW
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020098.ts
-#EXTINF:-1 tvg-id="1020082" tvg-name="HINDI - NEWS | INDIA TODAY" group-title="AS | HINDI",HINDI - NEWS | INDIA TODAY
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020082.ts
-#EXTINF:-1 tvg-id="1020081" tvg-name="HINDI - NEWS | INDIA NEWS UP" group-title="AS | HINDI",HINDI - NEWS | INDIA NEWS UP
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020081.ts
-#EXTINF:-1 tvg-id="1020083" tvg-name="HINDI - NEWS | INDIA TV" group-title="AS | HINDI",HINDI - NEWS | INDIA TV
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020083.ts
-#EXTINF:-1 tvg-id="1020087" tvg-name="IN - NEWS | INH 24X7" group-title="AS | HINDI",IN - NEWS | INH 24X7
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020087.ts
-#EXTINF:-1 tvg-id="1020075" tvg-name="HINDI - NEWS | IBC 24" group-title="AS | HINDI",HINDI - NEWS | IBC 24
-http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/1020075.ts
+
 #EXTINF:-1 tvg-id="808775" tvg-name="HINDI - SONY YAY HEVC" group-title="AS | HINDI",HINDI - SONY YAY HEVC
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/808775.ts
 #EXTINF:-1 tvg-id="808780" tvg-name="HINDI - NDTV. N HEVC" group-title="AS | HINDI",HINDI - NDTV. N HEVC
