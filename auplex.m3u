@@ -1,3 +1,7 @@
+#EXTM3U
+#PLAYLIST: RB Playlist
+#EXTENC: UTF-8
+
 #EXTINF:-1 tvg-id="" tvg-name="##### YUPP TV PREMIUM ᴿᴬᵂ #####" group-title="ASIA| YUPP TV PREMIUM ᴿᴬᵂ",##### YUPP TV PREMIUM ᴿᴬᵂ #####
 http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/2097669.ts
 #EXTINF:-1 tvg-id="" tvg-name="YP: 9X JALWA ᴿᴬᵂ" group-title="ASIA| YUPP TV PREMIUM ᴿᴬᵂ",YP: 9X JALWA ᴿᴬᵂ
